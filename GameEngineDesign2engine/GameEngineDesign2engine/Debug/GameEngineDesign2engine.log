@@ -1,0 +1,17 @@
+﻿  Window.cpp
+  Win32Main.cpp
+  OpenGLRenderer.cpp
+  SimpleModel.cpp
+  ShaderVariable.cpp
+  LogManager.cpp
+  EngineCore.cpp
+  Clock.cpp
+d:\gamedev\_projects\gameenginedesign2engine\gameenginedesign2engine\clock.cpp(9): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+  Generating Code...
+glut32.lib(glut32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in glew32.lib(glew32.dll); second definition ignored
+glut32.lib(glut32.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+SDL2.lib(SDL2.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in glew32.lib(glew32.dll); second definition ignored
+SDL2.lib(SDL2.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+Win32Main.obj : warning LNK4006: _WinMain@16 already defined in SDL2main.lib(SDL_windows_main.obj); second definition ignored
+ShaderVariable.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  GameEngineDesign2engine.vcxproj -> D:\GameDev\_Projects\GameEngineDesign2engine\Debug\GameEngineDesign2engine.lib
