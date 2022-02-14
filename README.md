@@ -1,2 +1,2 @@
 # Darren-Rasmussen-Code-Portfolio
-# capstone Only the assets because all togther its consided too big
+# Android Final Projact that is played using a Accelerometer(phone movement sensor)

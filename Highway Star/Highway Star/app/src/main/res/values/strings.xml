@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">HighwayStar</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="arr_title">
+        <item>Highway</item>
+        <item>Star</item>
+        <item>(Touch screen to start)</item>
+    </string-array>
+
+    <string-array name="arr_endGame">
+        <item>GAME OVER</item>
+        <item>Enemies avoided:</item>
+        <item>(Touch screen to start over again)</item>
+    </string-array>
+
+
+
+</resources>
