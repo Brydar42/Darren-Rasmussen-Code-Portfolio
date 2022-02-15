@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: afbd0a1836893c340bf872b92b5fff0d
+timeCreated: 1459884812
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GoombaSprites_0
+    21300002: GoombaSprites_1
+    21300004: GoombaSprites_2
+    21300006: GoombaSprites_3
+    21300008: GoombaSprites_4
+    21300010: GoombaSprites_5
+    21300012: GoombaSprites_6
+    21300014: GoombaSprites_7
+    21300016: GoombaSprites_8
+    21300018: GoombaSprites_9
+    21300020: GoombaSprites_10
+    21300022: GoombaSprites_11
+    21300024: GoombaSprites_12
+    21300026: GoombaSprites_13
+    21300028: GoombaSprites_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: GoombaSprites_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 133
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 27.5}
+        - {x: -26.5, y: -15.5}
+        - {x: -16.5, y: -27.5}
+        - {x: 26.5, y: -27.5}
+        - {x: 26.5, y: 27.5}
+    - name: GoombaSprites_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 133
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 28.5}
+        - {x: -26.5, y: -16.5}
+        - {x: -24.5, y: -26.5}
+        - {x: -22.5, y: -28.5}
+        - {x: 26.5, y: -28.5}
+        - {x: 26.5, y: 28.5}
+    - name: GoombaSprites_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 133
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 29.5}
+        - {x: -26.5, y: -29.5}
+        - {x: 26.5, y: -29.5}
+        - {x: 26.5, y: 29.5}
+    - name: GoombaSprites_3
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 133
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 28.5}
+        - {x: -26.5, y: -28.5}
+        - {x: 26.5, y: -28.5}
+        - {x: 26.5, y: 28.5}
+    - name: GoombaSprites_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 133
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 27.5}
+        - {x: -26.5, y: -27.5}
+        - {x: 20.5, y: -27.5}
+        - {x: 26.5, y: -12.5}
+        - {x: 26.5, y: 27.5}
+    - name: GoombaSprites_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 72
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 27.5}
+        - {x: -24.5, y: 18.5}
+        - {x: -24.5, y: -23.5}
+        - {x: -20.5, y: -27.5}
+        - {x: 22.5, y: -27.5}
+        - {x: 24.5, y: -20.5}
+        - {x: 24.5, y: 21.5}
+        - {x: 17.5, y: 27.5}
+    - name: GoombaSprites_6
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 72
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 28.5}
+        - {x: -22.5, y: 27.5}
+        - {x: -24.5, y: 18.5}
+        - {x: -24.5, y: -17.5}
+        - {x: -16.5, y: -28.5}
+        - {x: 21.5, y: -28.5}
+        - {x: 24.5, y: -19.5}
+        - {x: 24.5, y: 21.5}
+        - {x: 17.5, y: 28.5}
+    - name: GoombaSprites_7
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 72
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 29.5}
+        - {x: -24.5, y: 18.5}
+        - {x: -24.5, y: -12.5}
+        - {x: -20.5, y: -29.5}
+        - {x: 23.5, y: -29.5}
+        - {x: 24.5, y: -26.5}
+        - {x: 24.5, y: 29.5}
+    - name: GoombaSprites_8
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 72
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 28.5}
+        - {x: -24.5, y: 16.5}
+        - {x: -24.5, y: -18.5}
+        - {x: -22.5, y: -25.5}
+        - {x: -18.5, y: -28.5}
+        - {x: 20.5, y: -28.5}
+        - {x: 24.5, y: -23.5}
+        - {x: 24.5, y: 18.5}
+        - {x: 18.5, y: 28.5}
+    - name: GoombaSprites_9
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 72
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 27.5}
+        - {x: -24.5, y: 24.5}
+        - {x: -24.5, y: -20.5}
+        - {x: -21.5, y: -27.5}
+        - {x: 22.5, y: -27.5}
+        - {x: 24.5, y: -21.5}
+        - {x: 24.5, y: 25.5}
+        - {x: 17.5, y: 27.5}
+    - name: GoombaSprites_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 9
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 27.5}
+        - {x: -14.5, y: 27.5}
+        - {x: -17.5, y: 23.5}
+        - {x: -24.5, y: 8.5}
+        - {x: -24.5, y: -16.5}
+        - {x: -19.5, y: -27.5}
+        - {x: 17.5, y: -27.5}
+        - {x: 24.5, y: -17.5}
+        - {x: 24.5, y: 16.5}
+        - {x: 21.5, y: 26.5}
+    - name: GoombaSprites_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 9
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 28.5}
+        - {x: -24.5, y: 20.5}
+        - {x: -24.5, y: -13.5}
+        - {x: -17.5, y: -28.5}
+        - {x: 24.5, y: -28.5}
+        - {x: 24.5, y: 28.5}
+    - name: GoombaSprites_12
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 9
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 29.5}
+        - {x: -24.5, y: 17.5}
+        - {x: -24.5, y: -18.5}
+        - {x: -22.5, y: -25.5}
+        - {x: -12.5, y: -29.5}
+        - {x: 18.5, y: -29.5}
+        - {x: 24.5, y: -11.5}
+        - {x: 24.5, y: 17.5}
+        - {x: 14.5, y: 29.5}
+    - name: GoombaSprites_13
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 9
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 28.5}
+        - {x: -24.5, y: 16.5}
+        - {x: -24.5, y: -9.5}
+        - {x: -21.5, y: -11.5}
+        - {x: -16.5, y: -13.5}
+        - {x: -20.5, y: -15.5}
+        - {x: -18.5, y: -28.5}
+        - {x: 18.5, y: -28.5}
+        - {x: 24.5, y: -10.5}
+        - {x: 24.5, y: 16.5}
+        - {x: 14.5, y: 28.5}
+    - name: GoombaSprites_14
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 9
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 27.5}
+        - {x: -22.5, y: 27.5}
+        - {x: -24.5, y: 18.5}
+        - {x: -24.5, y: -15.5}
+        - {x: -17.5, y: -27.5}
+        - {x: 19.5, y: -27.5}
+        - {x: 24.5, y: -16.5}
+        - {x: 24.5, y: 9.5}
+        - {x: 17.5, y: 22.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

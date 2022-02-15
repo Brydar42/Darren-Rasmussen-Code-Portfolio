@@ -1,0 +1,3074 @@
+fileFormatVersion: 2
+guid: 7aed007fd955c4249b15dbb06abff2ed
+timeCreated: 1460755254
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BlackDragon_0
+    21300002: BlackDragon_1
+    21300004: BlackDragon_2
+    21300006: BlackDragon_3
+    21300008: BlackDragon_4
+    21300010: BlackDragon_5
+    21300012: BlackDragon_6
+    21300014: BlackDragon_7
+    21300016: BlackDragon_8
+    21300018: BlackDragon_9
+    21300020: BlackDragon_10
+    21300022: BlackDragon_11
+    21300024: BlackDragon_12
+    21300026: BlackDragon_13
+    21300028: BlackDragon_14
+    21300030: BlackDragon_15
+    21300032: BlackDragon_16
+    21300034: BlackDragon_17
+    21300036: BlackDragon_18
+    21300038: BlackDragon_19
+    21300040: BlackDragon_20
+    21300042: BlackDragon_21
+    21300044: BlackDragon_22
+    21300046: BlackDragon_23
+    21300048: BlackDragon_24
+    21300050: BlackDragon_25
+    21300052: BlackDragon_26
+    21300054: BlackDragon_27
+    21300056: BlackDragon_28
+    21300058: BlackDragon_29
+    21300060: BlackDragon_30
+    21300062: BlackDragon_31
+    21300064: BlackDragon_32
+    21300066: BlackDragon_33
+    21300068: BlackDragon_34
+    21300070: BlackDragon_35
+    21300072: BlackDragon_36
+    21300074: BlackDragon_37
+    21300076: BlackDragon_38
+    21300078: BlackDragon_39
+    21300080: BlackDragon_40
+    21300082: BlackDragon_41
+    21300084: BlackDragon_42
+    21300086: BlackDragon_43
+    21300088: BlackDragon_44
+    21300090: BlackDragon_45
+    21300092: BlackDragon_46
+    21300094: BlackDragon_47
+    21300096: BlackDragon_48
+    21300098: BlackDragon_49
+    21300100: BlackDragon_50
+    21300102: BlackDragon_51
+    21300104: BlackDragon_52
+    21300106: BlackDragon_53
+    21300108: BlackDragon_54
+    21300110: BlackDragon_55
+    21300112: BlackDragon_56
+    21300114: BlackDragon_57
+    21300116: BlackDragon_58
+    21300118: BlackDragon_59
+    21300120: BlackDragon_60
+    21300122: BlackDragon_61
+    21300124: BlackDragon_62
+    21300126: BlackDragon_63
+    21300128: BlackDragon_64
+    21300130: BlackDragon_65
+    21300132: BlackDragon_66
+    21300134: BlackDragon_67
+    21300136: BlackDragon_68
+    21300138: BlackDragon_69
+    21300140: BlackDragon_70
+    21300142: BlackDragon_71
+    21300144: BlackDragon_72
+    21300146: BlackDragon_73
+    21300148: BlackDragon_74
+    21300150: BlackDragon_75
+    21300152: BlackDragon_76
+    21300154: BlackDragon_77
+    21300156: BlackDragon_78
+    21300158: BlackDragon_79
+    21300160: BlackDragon_80
+    21300162: BlackDragon_81
+    21300164: BlackDragon_82
+    21300166: BlackDragon_83
+    21300168: BlackDragon_84
+    21300170: BlackDragon_85
+    21300172: BlackDragon_86
+    21300174: BlackDragon_87
+    21300176: BlackDragon_88
+    21300178: BlackDragon_89
+    21300180: BlackDragon_90
+    21300182: BlackDragon_91
+    21300184: BlackDragon_92
+    21300186: BlackDragon_93
+    21300188: BlackDragon_94
+    21300190: BlackDragon_95
+    21300192: BlackDragon_96
+    21300194: BlackDragon_97
+    21300196: BlackDragon_98
+    21300198: BlackDragon_99
+    21300200: BlackDragon_100
+    21300202: BlackDragon_101
+    21300204: BlackDragon_102
+    21300206: BlackDragon_103
+    21300208: BlackDragon_104
+    21300210: BlackDragon_105
+    21300212: BlackDragon_106
+    21300214: BlackDragon_107
+    21300216: BlackDragon_108
+    21300218: BlackDragon_109
+    21300220: BlackDragon_110
+    21300222: BlackDragon_111
+    21300224: BlackDragon_112
+    21300226: BlackDragon_113
+    21300228: BlackDragon_114
+    21300230: BlackDragon_115
+    21300232: BlackDragon_116
+    21300234: BlackDragon_117
+    21300236: BlackDragon_118
+    21300238: BlackDragon_119
+    21300240: BlackDragon_120
+    21300242: BlackDragon_121
+    21300244: BlackDragon_122
+    21300246: BlackDragon_123
+    21300248: BlackDragon_124
+    21300250: BlackDragon_125
+    21300252: BlackDragon_126
+    21300254: BlackDragon_127
+    21300256: BlackDragon_128
+    21300258: BlackDragon_129
+    21300260: BlackDragon_130
+    21300262: BlackDragon_131
+    21300264: BlackDragon_132
+    21300266: BlackDragon_133
+    21300268: BlackDragon_134
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BlackDragon_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1148
+        width: 89
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.832306, y: 45.395386}
+        - {x: -0.16769409, y: 45.395386}
+        - {x: -2.167694, y: 40.395386}
+        - {x: -1.1676941, y: 31.395386}
+        - {x: -0.16769409, y: 29.395386}
+        - {x: 0.8323059, y: 21.395386}
+        - {x: 1.8323059, y: 19.395386}
+        - {x: -0.16769409, y: 15.395386}
+        - {x: -0.16769409, y: 28.395386}
+        - {x: -2.167694, y: 33.395386}
+        - {x: -15.167694, y: 36.395386}
+        - {x: -34.167694, y: 30.395386}
+        - {x: -34.167694, y: -43.604614}
+        - {x: -0.16769409, y: -43.604614}
+        - {x: 9.832306, y: -42.604614}
+        - {x: 27.832306, y: -34.604614}
+        - {x: 34.832306, y: -10.604614}
+        - {x: 34.832306, y: 37.395386}
+    - name: BlackDragon_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1149
+        width: 88
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.119232, y: 45.15924}
+        - {x: -13.880768, y: 45.15924}
+        - {x: -33.880768, y: 35.15924}
+        - {x: -33.880768, y: -43.84076}
+        - {x: 18.119232, y: -43.84076}
+        - {x: 34.119232, y: -31.84076}
+        - {x: 34.119232, y: 41.15924}
+    - name: BlackDragon_2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1149
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.58693, y: 44.65924}
+        - {x: -18.41307, y: 44.65924}
+        - {x: -34.41307, y: 37.65924}
+        - {x: -34.41307, y: -43.34076}
+        - {x: 30.58693, y: -43.34076}
+        - {x: 34.58693, y: -24.34076}
+        - {x: 34.58693, y: 35.65924}
+        - {x: 32.58693, y: 37.65924}
+    - name: BlackDragon_3
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1149
+        width: 86
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.945374, y: 44.65924}
+        - {x: -32.945374, y: 28.65924}
+        - {x: -32.945374, y: -43.34076}
+        - {x: 31.054626, y: -43.34076}
+        - {x: 33.054626, y: -36.34076}
+        - {x: 33.054626, y: 35.65924}
+        - {x: 22.054626, y: 44.65924}
+    - name: BlackDragon_4
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1150
+        width: 85
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5607605, y: 42.423096}
+        - {x: -32.56076, y: 22.423096}
+        - {x: -32.56076, y: -41.576904}
+        - {x: 27.43924, y: -41.576904}
+        - {x: 33.43924, y: -31.576904}
+        - {x: 33.43924, y: 31.423096}
+        - {x: 30.43924, y: 42.423096}
+    - name: BlackDragon_5
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1151
+        width: 88
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.593079, y: 42.68695}
+        - {x: -33.59308, y: 21.68695}
+        - {x: -33.59308, y: -42.31305}
+        - {x: 20.406921, y: -42.31305}
+        - {x: 34.40692, y: -35.31305}
+        - {x: 34.40692, y: 42.68695}
+    - name: BlackDragon_6
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1149
+        width: 101
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.62848, y: 47.65924}
+        - {x: -38.62848, y: -46.34076}
+        - {x: 8.371521, y: -46.34076}
+        - {x: 30.371521, y: -44.34076}
+        - {x: 39.37152, y: -38.34076}
+        - {x: 39.37152, y: 47.65924}
+    - name: BlackDragon_7
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1155
+        width: 98
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.61615, y: 46.74231}
+        - {x: -9.38385, y: 46.74231}
+        - {x: -32.38385, y: 13.74231}
+        - {x: -37.38385, y: -20.25769}
+        - {x: -37.38385, y: -46.25769}
+        - {x: 26.61615, y: -46.25769}
+        - {x: 38.61615, y: -42.25769}
+        - {x: 38.61615, y: 10.74231}
+        - {x: 34.61615, y: 29.74231}
+    - name: BlackDragon_8
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1150
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.28772, y: 45.423096}
+        - {x: -11.71228, y: 45.423096}
+        - {x: -36.71228, y: 13.423096}
+        - {x: -36.71228, y: -44.576904}
+        - {x: 14.28772, y: -44.576904}
+        - {x: 37.28772, y: -40.576904}
+        - {x: 38.28772, y: -31.576904}
+        - {x: 38.28772, y: 41.423096}
+    - name: BlackDragon_9
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1154
+        width: 167
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.66156, y: -9.521545}
+        - {x: -63.66156, y: -40.521545}
+        - {x: -51.66156, y: -44.521545}
+        - {x: 64.33844, y: -44.521545}
+        - {x: 64.33844, y: 38.478455}
+        - {x: 50.33844, y: 45.478455}
+        - {x: 5.33844, y: 45.478455}
+        - {x: -43.66156, y: 30.478455}
+    - name: BlackDragon_10
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1157
+        width: 182
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.933105, y: 45.77002}
+        - {x: -66.933105, y: 16.77002}
+        - {x: -69.933105, y: 11.77002}
+        - {x: -69.933105, y: 4.7700195}
+        - {x: -59.933105, y: 7.7700195}
+        - {x: -50.933105, y: -5.2299805}
+        - {x: -48.933105, y: -7.2299805}
+        - {x: -46.933105, y: -7.2299805}
+        - {x: -54.933105, y: -9.22998}
+        - {x: -65.933105, y: -14.22998}
+        - {x: -69.933105, y: -19.22998}
+        - {x: -69.933105, y: -44.22998}
+        - {x: 70.066895, y: -44.22998}
+        - {x: 70.066895, y: 45.77002}
+    - name: BlackDragon_11
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1158
+        width: 184
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.75305, y: -30.466125}
+        - {x: 62.75305, y: -31.466125}
+        - {x: 70.75305, y: -27.466125}
+        - {x: 70.75305, y: 38.533875}
+        - {x: 53.75305, y: 45.533875}
+        - {x: -3.2469482, y: 45.533875}
+        - {x: -70.24695, y: 18.533875}
+        - {x: -70.24695, y: 0.5338745}
+        - {x: -49.24695, y: -9.4661255}
+        - {x: -47.24695, y: -9.4661255}
+        - {x: -42.24695, y: -7.4661255}
+        - {x: -41.24695, y: -11.4661255}
+        - {x: -62.24695, y: -16.466125}
+        - {x: -64.24695, y: -22.466125}
+        - {x: -61.24695, y: -24.466125}
+        - {x: -48.24695, y: -21.466125}
+        - {x: -50.24695, y: -24.466125}
+        - {x: -49.24695, y: -27.466125}
+        - {x: -46.24695, y: -30.466125}
+        - {x: -32.24695, y: -42.466125}
+        - {x: -7.2469482, y: -44.466125}
+        - {x: 47.75305, y: -44.466125}
+        - {x: 57.75305, y: -40.466125}
+        - {x: 55.75305, y: -34.466125}
+        - {x: 49.75305, y: -30.466125}
+        - {x: 46.75305, y: -30.466125}
+    - name: BlackDragon_12
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 1157
+        width: 169
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.02234, y: -32.72998}
+        - {x: 56.02234, y: -32.72998}
+        - {x: 65.02234, y: -27.72998}
+        - {x: 65.02234, y: 23.27002}
+        - {x: 64.02234, y: 24.27002}
+        - {x: 54.02234, y: 23.27002}
+        - {x: 52.02234, y: 19.27002}
+        - {x: 51.02234, y: 16.27002}
+        - {x: 57.02234, y: 31.27002}
+        - {x: 31.022339, y: 46.27002}
+        - {x: 12.022339, y: 46.27002}
+        - {x: -33.97766, y: 27.27002}
+        - {x: -64.97766, y: -5.7299805}
+        - {x: -64.97766, y: -44.72998}
+        - {x: 44.02234, y: -44.72998}
+        - {x: 52.02234, y: -39.72998}
+        - {x: 49.02234, y: -34.72998}
+    - name: BlackDragon_13
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 1152
+        width: 132
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.8061523, y: 47.450806}
+        - {x: -39.193848, y: 15.450806}
+        - {x: -50.193848, y: -29.549194}
+        - {x: -50.193848, y: -35.549194}
+        - {x: -48.193848, y: -36.549194}
+        - {x: -45.193848, y: -35.549194}
+        - {x: -42.193848, y: -28.549194}
+        - {x: -43.193848, y: -32.549194}
+        - {x: -50.193848, y: -39.549194}
+        - {x: -50.193848, y: -45.549194}
+        - {x: 40.806152, y: -45.549194}
+        - {x: 51.806152, y: -33.549194}
+        - {x: 51.806152, y: 33.450806}
+        - {x: 31.806152, y: 47.450806}
+    - name: BlackDragon_14
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 1171
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.94226, y: 25.963867}
+        - {x: -22.94226, y: 24.963867}
+        - {x: -22.94226, y: -24.036133}
+        - {x: -21.94226, y: -25.036133}
+        - {x: 24.05774, y: -25.036133}
+        - {x: 24.05774, y: 25.963867}
+    - name: BlackDragon_15
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 1206
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_16
+      rect:
+        serializedVersion: 2
+        x: 2378
+        y: 1202
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_17
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 1200
+        width: 65
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_18
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 1185
+        width: 57
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_19
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 1185
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_20
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 1185
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_21
+      rect:
+        serializedVersion: 2
+        x: 2437
+        y: 1182
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_22
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 1185
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_23
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 1182
+        width: 47
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_24
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 1185
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_25
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 1167
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_26
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 1165
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_27
+      rect:
+        serializedVersion: 2
+        x: 2378
+        y: 1165
+        width: 92
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_28
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 1167
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_29
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 1167
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_30
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 952
+        width: 132
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.8307686, y: 46.68152}
+        - {x: -37.16923, y: 18.681519}
+        - {x: -50.16923, y: -24.318481}
+        - {x: -50.16923, y: -46.31848}
+        - {x: 50.83077, y: -46.31848}
+        - {x: 51.83077, y: -44.31848}
+        - {x: 51.83077, y: 46.68152}
+    - name: BlackDragon_31
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 952
+        width: 178
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.20307922, y: 47.68152}
+        - {x: -34.20308, y: 30.681519}
+        - {x: -57.20308, y: 16.681519}
+        - {x: -62.20308, y: 13.681519}
+        - {x: -68.20308, y: 9.681519}
+        - {x: -68.20308, y: -22.318481}
+        - {x: -48.20308, y: -25.318481}
+        - {x: -31.20308, y: -28.318481}
+        - {x: -41.20308, y: -30.318481}
+        - {x: -46.20308, y: -37.31848}
+        - {x: -43.20308, y: -47.31848}
+        - {x: 59.79692, y: -47.31848}
+        - {x: 68.79692, y: -25.318481}
+        - {x: 68.79692, y: 27.681519}
+        - {x: 56.79692, y: 47.68152}
+    - name: BlackDragon_32
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 966
+        width: 177
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59.19153, y: -16.624634}
+        - {x: 52.19153, y: -17.624634}
+        - {x: 60.19153, y: -16.624634}
+        - {x: 63.19153, y: -14.624634}
+        - {x: 65.19153, y: -12.624634}
+        - {x: 65.19153, y: -8.624634}
+        - {x: 61.19153, y: -4.624634}
+        - {x: 66.19153, y: -4.624634}
+        - {x: 68.19153, y: -2.6246338}
+        - {x: 68.19153, y: 4.375366}
+        - {x: 64.19153, y: 7.375366}
+        - {x: 57.19153, y: 10.375366}
+        - {x: 68.19153, y: 23.375366}
+        - {x: 62.19153, y: 40.375366}
+        - {x: 29.191528, y: 47.375366}
+        - {x: -14.808472, y: 47.375366}
+        - {x: -64.80847, y: 35.375366}
+        - {x: -66.80847, y: 29.375366}
+        - {x: -63.80847, y: 27.375366}
+        - {x: -48.80847, y: 29.375366}
+        - {x: -62.80847, y: 8.375366}
+        - {x: -64.80847, y: -5.624634}
+        - {x: -57.80847, y: -18.624634}
+        - {x: -47.80847, y: -22.624634}
+        - {x: -44.80847, y: -22.624634}
+        - {x: -50.80847, y: -22.624634}
+        - {x: -56.80847, y: -19.624634}
+        - {x: -67.80847, y: -21.624634}
+        - {x: -67.80847, y: -27.624634}
+        - {x: -61.80847, y: -32.624634}
+        - {x: -56.80847, y: -32.624634}
+        - {x: -60.80847, y: -33.624634}
+        - {x: -63.80847, y: -36.624634}
+        - {x: -63.80847, y: -38.624634}
+        - {x: -60.80847, y: -41.624634}
+        - {x: -36.80847, y: -45.624634}
+        - {x: 13.191528, y: -45.624634}
+        - {x: 68.19153, y: -27.624634}
+        - {x: 68.19153, y: -20.624634}
+        - {x: 66.19153, y: -18.624634}
+      - - {x: -23.808472, y: -2.6246338}
+        - {x: -21.808472, y: -4.624634}
+        - {x: -18.808472, y: -3.6246338}
+        - {x: -18.808472, y: -0.6246338}
+        - {x: -20.808472, y: 1.3753662}
+        - {x: -23.808472, y: 0.3753662}
+    - name: BlackDragon_33
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 976
+        width: 180
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68.91385, y: 44.513855}
+        - {x: -68.91385, y: -21.486145}
+        - {x: -63.91385, y: -22.486145}
+        - {x: -51.91385, y: -24.486145}
+        - {x: -60.91385, y: -24.486145}
+        - {x: -68.91385, y: -30.486145}
+        - {x: -68.91385, y: -38.486145}
+        - {x: -63.91385, y: -43.486145}
+        - {x: 69.08615, y: -43.486145}
+        - {x: 69.08615, y: 23.513855}
+        - {x: 34.08615, y: 44.513855}
+    - name: BlackDragon_34
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 976
+        width: 180
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.480774, y: 39.013855}
+        - {x: -68.519226, y: 29.013855}
+        - {x: -68.519226, y: -37.986145}
+        - {x: 70.480774, y: -37.986145}
+        - {x: 70.480774, y: 30.013855}
+        - {x: 64.480774, y: 39.013855}
+    - name: BlackDragon_35
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 961
+        width: 181
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.875366, y: 46.556152}
+        - {x: -69.12463, y: 7.5561523}
+        - {x: -69.12463, y: -27.443848}
+        - {x: -48.124634, y: -46.443848}
+        - {x: 8.875366, y: -46.443848}
+        - {x: 56.875366, y: -39.443848}
+        - {x: 70.87537, y: -25.443848}
+        - {x: 70.87537, y: 42.556152}
+        - {x: 63.875366, y: 46.556152}
+    - name: BlackDragon_36
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 964
+        width: 157
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.85309, y: 10.847717}
+        - {x: 39.85309, y: 9.847717}
+        - {x: 45.85309, y: 10.847717}
+        - {x: 58.85309, y: 10.847717}
+        - {x: 60.85309, y: 14.847717}
+        - {x: 60.85309, y: 34.847717}
+        - {x: 47.85309, y: 46.847717}
+        - {x: -7.1469116, y: 46.847717}
+        - {x: -60.14691, y: 24.847717}
+        - {x: -60.14691, y: 19.847717}
+        - {x: -58.14691, y: 15.847717}
+        - {x: -45.14691, y: 19.847717}
+        - {x: -51.14691, y: 6.8477173}
+        - {x: -48.14691, y: 4.8477173}
+        - {x: -44.14691, y: 4.8477173}
+        - {x: -37.14691, y: 8.847717}
+        - {x: -37.14691, y: -3.1522827}
+        - {x: -35.14691, y: -7.1522827}
+        - {x: -52.14691, y: 2.8477173}
+        - {x: -60.14691, y: 4.8477173}
+        - {x: -60.14691, y: -25.152283}
+        - {x: -25.146912, y: -46.152283}
+        - {x: 28.853088, y: -46.152283}
+        - {x: 60.85309, y: -32.152283}
+        - {x: 60.85309, y: -5.1522827}
+        - {x: 51.85309, y: 6.8477173}
+    - name: BlackDragon_37
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 961
+        width: 143
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.73462, y: -19.443848}
+        - {x: 42.73462, y: -18.443848}
+        - {x: 44.73462, y: -19.443848}
+        - {x: 53.73462, y: -19.443848}
+        - {x: 55.73462, y: -16.443848}
+        - {x: 55.73462, y: -2.4438477}
+        - {x: 48.73462, y: 2.5561523}
+        - {x: 36.73462, y: 4.5561523}
+        - {x: 36.73462, y: 14.556152}
+        - {x: 38.73462, y: 8.556152}
+        - {x: 41.73462, y: 5.5561523}
+        - {x: 55.73462, y: 7.5561523}
+        - {x: 55.73462, y: 33.556152}
+        - {x: 47.73462, y: 45.556152}
+        - {x: 26.73462, y: 45.556152}
+        - {x: 25.73462, y: 44.556152}
+        - {x: 23.73462, y: 31.556152}
+        - {x: 24.73462, y: 30.556152}
+        - {x: 23.73462, y: 31.556152}
+        - {x: 24.73462, y: 45.556152}
+        - {x: 21.73462, y: 45.556152}
+        - {x: -15.265381, y: 32.556152}
+        - {x: -25.26538, y: 3.5561523}
+        - {x: -29.26538, y: -16.443848}
+        - {x: -27.26538, y: -18.443848}
+        - {x: -14.265381, y: -15.443848}
+        - {x: -10.265381, y: -9.443848}
+        - {x: -13.265381, y: -14.443848}
+        - {x: -23.26538, y: -21.443848}
+        - {x: -37.26538, y: -16.443848}
+        - {x: -39.26538, y: -11.443848}
+        - {x: -43.26538, y: -5.4438477}
+        - {x: -48.26538, y: -2.4438477}
+        - {x: -54.26538, y: -4.4438477}
+        - {x: -54.26538, y: -32.443848}
+        - {x: -42.26538, y: -45.443848}
+        - {x: 40.73462, y: -45.443848}
+        - {x: 55.73462, y: -29.443848}
+        - {x: 55.73462, y: -21.443848}
+        - {x: 54.73462, y: -20.443848}
+    - name: BlackDragon_38
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 959
+        width: 136
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.269287, y: -31.471558}
+        - {x: 53.269287, y: -27.471558}
+        - {x: 53.269287, y: 44.528442}
+        - {x: -17.730713, y: 44.528442}
+        - {x: -51.730713, y: 17.528442}
+        - {x: -51.730713, y: -41.471558}
+        - {x: -35.730713, y: -43.471558}
+        - {x: 45.269287, y: -43.471558}
+        - {x: 46.269287, y: -33.471558}
+        - {x: 48.269287, y: -29.471558}
+    - name: BlackDragon_39
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 958
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.165405, y: -14.235352}
+        - {x: 38.165405, y: -7.2353516}
+        - {x: 36.165405, y: -6.2353516}
+        - {x: 33.165405, y: -6.2353516}
+        - {x: 37.165405, y: -6.2353516}
+        - {x: 41.165405, y: -2.2353516}
+        - {x: 41.165405, y: 2.7646484}
+        - {x: 37.165405, y: 6.7646484}
+        - {x: 27.165405, y: 6.7646484}
+        - {x: 30.165405, y: 6.7646484}
+        - {x: 35.165405, y: 8.764648}
+        - {x: 39.165405, y: 13.764648}
+        - {x: 41.165405, y: 17.764648}
+        - {x: 41.165405, y: 24.764648}
+        - {x: 22.165405, y: 41.76465}
+        - {x: 9.165405, y: 41.76465}
+        - {x: -12.834595, y: 33.76465}
+        - {x: -40.834595, y: -24.235352}
+        - {x: -40.834595, y: -40.23535}
+        - {x: 11.165405, y: -40.23535}
+        - {x: 35.165405, y: -29.235352}
+        - {x: 41.165405, y: -21.235352}
+    - name: BlackDragon_40
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 947
+        width: 93
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.493042, y: 46.862305}
+        - {x: 5.493042, y: 45.862305}
+        - {x: 3.493042, y: 38.862305}
+        - {x: 1.493042, y: 30.862305}
+        - {x: 0.493042, y: 23.862305}
+        - {x: -0.506958, y: 31.862305}
+        - {x: -4.506958, y: 36.862305}
+        - {x: -20.506958, y: 31.862305}
+        - {x: -35.506958, y: 3.8623047}
+        - {x: -35.506958, y: -45.137695}
+        - {x: -34.506958, y: -46.137695}
+        - {x: 26.493042, y: -46.137695}
+        - {x: 33.493042, y: -45.137695}
+        - {x: 37.493042, y: -30.137695}
+        - {x: 37.493042, y: 39.862305}
+        - {x: 22.493042, y: 46.862305}
+    - name: BlackDragon_41
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 1018
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.810791, y: 20.595398}
+        - {x: -23.810791, y: 3.595398}
+        - {x: -23.810791, y: -10.404602}
+        - {x: -19.810791, y: -19.404602}
+        - {x: 25.189209, y: -19.404602}
+        - {x: 25.189209, y: -10.404602}
+        - {x: 19.189209, y: 8.595398}
+        - {x: 12.189209, y: 20.595398}
+    - name: BlackDragon_42
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1018
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.8115234, y: 21.095398}
+        - {x: -8.188477, y: 21.095398}
+        - {x: -23.188477, y: 6.095398}
+        - {x: -23.188477, y: -7.904602}
+        - {x: -11.188477, y: -19.904602}
+        - {x: 24.811523, y: -19.904602}
+        - {x: 24.811523, y: -9.904602}
+        - {x: 13.811523, y: 15.095398}
+    - name: BlackDragon_43
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 1019
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.406128, y: 19.359253}
+        - {x: -9.593872, y: 19.359253}
+        - {x: -22.593872, y: 9.359253}
+        - {x: -22.593872, y: -13.640747}
+        - {x: -19.593872, y: -18.640747}
+        - {x: 23.406128, y: -18.640747}
+        - {x: 23.406128, y: 0.35925293}
+        - {x: 9.406128, y: 18.359253}
+    - name: BlackDragon_44
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 1019
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.999268, y: 19.359253}
+        - {x: -22.999268, y: 10.359253}
+        - {x: -22.999268, y: -7.640747}
+        - {x: -20.999268, y: -12.640747}
+        - {x: -8.999268, y: -18.640747}
+        - {x: 23.000732, y: -18.640747}
+        - {x: 23.000732, y: 6.359253}
+        - {x: 18.000732, y: 19.359253}
+    - name: BlackDragon_45
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 975
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_46
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 742
+        width: 131
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.179993, y: -53.726135}
+        - {x: 36.820007, y: -45.726135}
+        - {x: 50.820007, y: -38.726135}
+        - {x: 50.820007, y: -6.7261353}
+        - {x: 43.820007, y: 37.273865}
+        - {x: 15.820007, y: 57.273865}
+        - {x: -2.1799927, y: 57.273865}
+        - {x: -3.1799927, y: 56.273865}
+        - {x: -3.1799927, y: 48.273865}
+        - {x: -1.1799927, y: 46.273865}
+        - {x: 1.8200073, y: 47.273865}
+        - {x: 1.8200073, y: 51.273865}
+        - {x: 1.8200073, y: 49.273865}
+        - {x: 2.8200073, y: 46.273865}
+        - {x: -3.1799927, y: 46.273865}
+        - {x: -3.1799927, y: 48.273865}
+        - {x: -5.1799927, y: 50.273865}
+        - {x: -21.179993, y: 42.273865}
+        - {x: -50.179993, y: -23.726135}
+        - {x: -50.179993, y: -55.726135}
+        - {x: -45.179993, y: -55.726135}
+        - {x: -39.179993, y: -46.726135}
+        - {x: -35.179993, y: -55.726135}
+        - {x: -21.179993, y: -55.726135}
+    - name: BlackDragon_47
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 874
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_48
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 873
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_49
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 757
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.04767, y: -25.268433}
+        - {x: 48.04767, y: -25.268433}
+        - {x: 48.04767, y: 30.731567}
+        - {x: 22.047668, y: 52.731567}
+        - {x: 0.047668457, y: 52.731567}
+        - {x: -6.9523315, y: 48.731567}
+        - {x: -6.9523315, y: 38.731567}
+        - {x: -34.95233, y: 1.7315674}
+        - {x: -45.95233, y: -21.268433}
+        - {x: -47.95233, y: -27.268433}
+        - {x: -47.95233, y: -36.268433}
+        - {x: -44.95233, y: -36.268433}
+        - {x: -47.95233, y: -47.268433}
+        - {x: -47.95233, y: -48.268433}
+        - {x: -45.95233, y: -52.268433}
+        - {x: 48.04767, y: -52.268433}
+        - {x: 48.04767, y: -27.268433}
+        - {x: 44.04767, y: -25.268433}
+    - name: BlackDragon_50
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 879
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_51
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 879
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_52
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 794
+        width: 88
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.343872, y: 68.493835}
+        - {x: -33.343872, y: 67.493835}
+        - {x: -33.343872, y: -66.506165}
+        - {x: -32.343872, y: -67.506165}
+        - {x: 34.656128, y: -67.506165}
+        - {x: 34.656128, y: 68.493835}
+    - name: BlackDragon_53
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 741
+        width: 105
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.998463, y: 52.01001}
+        - {x: 2.9984627, y: 52.01001}
+        - {x: -40.001537, y: 17.01001}
+        - {x: -40.001537, y: -51.98999}
+        - {x: 2.9984627, y: -51.98999}
+        - {x: 23.998463, y: -44.98999}
+        - {x: 40.998463, y: -33.98999}
+        - {x: 40.998463, y: 29.01001}
+    - name: BlackDragon_54
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 736
+        width: 119
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.3269196, y: 54.190796}
+        - {x: -45.32692, y: 9.190796}
+        - {x: -45.32692, y: -53.809204}
+        - {x: 4.6730804, y: -53.809204}
+        - {x: 46.67308, y: -48.809204}
+        - {x: 46.67308, y: 54.190796}
+    - name: BlackDragon_55
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 744
+        width: 125
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.133087, y: 30.301514}
+        - {x: 33.133087, y: 24.301514}
+        - {x: 33.133087, y: 43.301514}
+        - {x: 31.133087, y: 51.301514}
+        - {x: 8.133087, y: 51.301514}
+        - {x: -10.866913, y: 46.301514}
+        - {x: -33.866913, y: 22.301514}
+        - {x: -47.866913, y: -19.698486}
+        - {x: -47.866913, y: -50.698486}
+        - {x: 10.133087, y: -50.698486}
+        - {x: 48.133087, y: -47.698486}
+        - {x: 48.133087, y: 33.301514}
+        - {x: 47.133087, y: 35.301514}
+      - - {x: 1.1330872, y: 51.301514}
+        - {x: 1.1330872, y: 49.301514}
+        - {x: 3.1330872, y: 47.301514}
+        - {x: 5.133087, y: 47.301514}
+        - {x: 7.133087, y: 49.301514}
+        - {x: 6.133087, y: 51.301514}
+      - - {x: 11.133087, y: 47.301514}
+        - {x: 14.133087, y: 48.301514}
+        - {x: 14.133087, y: 51.301514}
+        - {x: 9.133087, y: 51.301514}
+        - {x: 9.133087, y: 49.301514}
+    - name: BlackDragon_56
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 866
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_57
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 748
+        width: 105
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.428467, y: 47.356934}
+        - {x: -38.428467, y: 26.356934}
+        - {x: -40.428467, y: 9.356934}
+        - {x: -40.428467, y: -46.643066}
+        - {x: 18.571533, y: -46.643066}
+        - {x: 40.571533, y: -33.643066}
+        - {x: 40.571533, y: 44.356934}
+        - {x: 38.571533, y: 47.356934}
+    - name: BlackDragon_58
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 751
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.486145, y: 50.148438}
+        - {x: -45.486145, y: 24.148438}
+        - {x: -48.486145, y: -4.8515625}
+        - {x: -42.486145, y: -7.8515625}
+        - {x: -45.486145, y: -28.851562}
+        - {x: -42.486145, y: -30.851562}
+        - {x: -37.486145, y: -25.851562}
+        - {x: -32.486145, y: -30.851562}
+        - {x: -43.486145, y: -30.851562}
+        - {x: -49.486145, y: -32.851562}
+        - {x: -49.486145, y: -48.851562}
+        - {x: 50.513855, y: -48.851562}
+        - {x: 50.513855, y: 48.148438}
+        - {x: 46.513855, y: 50.148438}
+    - name: BlackDragon_59
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 752
+        width: 131
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.4645996, y: 48.412292}
+        - {x: -49.4646, y: 14.4122925}
+        - {x: -50.4646, y: 12.4122925}
+        - {x: -50.4646, y: -47.587708}
+        - {x: 31.5354, y: -47.587708}
+        - {x: 50.5354, y: -33.587708}
+        - {x: 50.5354, y: 23.412292}
+        - {x: 10.5354, y: 48.412292}
+      - - {x: -1.4645996, y: 48.412292}
+        - {x: -1.4645996, y: 46.412292}
+        - {x: 0.5354004, y: 44.412292}
+        - {x: 2.5354004, y: 44.412292}
+        - {x: 4.5354004, y: 46.412292}
+        - {x: 4.5354004, y: 48.412292}
+    - name: BlackDragon_60
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 757
+        width: 108
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.1515503, y: 39.731567}
+        - {x: -41.15155, y: 14.731567}
+        - {x: -41.15155, y: -39.268433}
+        - {x: 29.84845, y: -39.268433}
+        - {x: 42.84845, y: -27.268433}
+        - {x: 42.84845, y: 11.731567}
+        - {x: 19.84845, y: 39.731567}
+      - - {x: -12.15155, y: 30.731567}
+        - {x: -14.15155, y: 29.731567}
+        - {x: -14.15155, y: 26.731567}
+        - {x: -13.15155, y: 24.731567}
+        - {x: -10.15155, y: 24.731567}
+        - {x: -8.15155, y: 26.731567}
+        - {x: -8.15155, y: 28.731567}
+        - {x: -10.15155, y: 30.731567}
+      - - {x: -6.1515503, y: 29.731567}
+        - {x: -3.1515503, y: 30.731567}
+        - {x: -3.1515503, y: 33.731567}
+        - {x: -6.1515503, y: 34.731567}
+        - {x: -8.15155, y: 32.731567}
+      - - {x: 6.8484497, y: 39.731567}
+        - {x: 5.8484497, y: 38.731567}
+        - {x: 4.8484497, y: 35.731567}
+        - {x: 4.8484497, y: 31.731567}
+        - {x: 11.84845, y: 31.731567}
+        - {x: 14.84845, y: 32.731567}
+        - {x: 14.84845, y: 39.731567}
+    - name: BlackDragon_61
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 854
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_62
+      rect:
+        serializedVersion: 2
+        x: 2371
+        y: 848
+        width: 43
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_63
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 848
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_64
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 844
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_65
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 823
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_66
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 814
+        width: 127
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_67
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 822
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_68
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 816
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_69
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 760
+        width: 97
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.753784, y: 24.023071}
+        - {x: -36.753784, y: 8.023071}
+        - {x: -36.753784, y: -16.976929}
+        - {x: -30.753784, y: -22.976929}
+        - {x: 14.246216, y: -22.976929}
+        - {x: 38.246216, y: -17.976929}
+        - {x: 38.246216, y: 13.023071}
+        - {x: 22.246216, y: 24.023071}
+    - name: BlackDragon_70
+      rect:
+        serializedVersion: 2
+        x: 2371
+        y: 798
+        width: 49
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_71
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 798
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_72
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 801
+        width: 46
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_73
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 757
+        width: 89
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.852295, y: 17.231567}
+        - {x: -29.147705, y: 17.231567}
+        - {x: -34.147705, y: 5.2315674}
+        - {x: -34.147705, y: -16.768433}
+        - {x: 23.852295, y: -16.768433}
+        - {x: 33.852295, y: -8.768433}
+        - {x: 34.852295, y: -7.7684326}
+        - {x: 34.852295, y: 5.2315674}
+    - name: BlackDragon_74
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 521
+        width: 252
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.643066, y: -42.536163}
+        - {x: 25.643066, y: -58.536163}
+        - {x: 52.643066, y: -59.536163}
+        - {x: 97.64307, y: -58.536163}
+        - {x: 97.64307, y: -37.536163}
+        - {x: 92.64307, y: -22.536163}
+        - {x: 69.64307, y: 35.463837}
+        - {x: 51.643066, y: 61.463837}
+        - {x: 13.643066, y: 61.463837}
+        - {x: -66.35693, y: 34.463837}
+        - {x: -96.35693, y: 23.463837}
+        - {x: -96.35693, y: 16.463837}
+        - {x: -89.35693, y: 14.463837}
+        - {x: -76.35693, y: -7.5361633}
+        - {x: -74.35693, y: -9.536163}
+        - {x: -71.35693, y: -9.536163}
+        - {x: -69.35693, y: -7.5361633}
+        - {x: -67.35693, y: -6.5361633}
+        - {x: -68.35693, y: -9.536163}
+        - {x: -73.35693, y: -9.536163}
+        - {x: -84.35693, y: -12.536163}
+        - {x: -89.35693, y: -14.536163}
+        - {x: -89.35693, y: -17.536163}
+        - {x: -87.35693, y: -20.536163}
+        - {x: -76.35693, y: -17.536163}
+        - {x: -71.35693, y: -40.536163}
+        - {x: -61.356934, y: -60.536163}
+        - {x: -0.3569336, y: -60.536163}
+        - {x: 20.643066, y: -58.536163}
+        - {x: 19.643066, y: -46.536163}
+        - {x: 15.643066, y: -41.536163}
+        - {x: 13.643066, y: -41.536163}
+      - - {x: 31.643066, y: 58.463837}
+        - {x: 34.643066, y: 59.463837}
+        - {x: 34.643066, y: 62.463837}
+        - {x: 30.643066, y: 62.463837}
+        - {x: 29.643066, y: 61.463837}
+    - name: BlackDragon_75
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 511
+        width: 205
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.617676, y: 61.32538}
+        - {x: -45.382324, y: 31.325378}
+        - {x: -78.382324, y: 3.3253784}
+        - {x: -78.382324, y: -4.6746216}
+        - {x: -70.382324, y: -2.6746216}
+        - {x: -77.382324, y: -30.674622}
+        - {x: -28.382324, y: -59.67462}
+        - {x: -24.382324, y: -60.67462}
+        - {x: 78.617676, y: -60.67462}
+        - {x: 78.617676, y: 60.32538}
+        - {x: 73.617676, y: 61.32538}
+    - name: BlackDragon_76
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 664
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_77
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 660
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_78
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 662
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_79
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 659
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_80
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 534
+        width: 253
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 87.4577, y: -3.6061401}
+        - {x: 47.457703, y: 44.39386}
+        - {x: 43.457703, y: 48.39386}
+        - {x: 40.457703, y: 50.39386}
+        - {x: -73.5423, y: 50.39386}
+        - {x: -96.5423, y: 34.39386}
+        - {x: -96.5423, y: 28.39386}
+        - {x: -95.5423, y: 26.39386}
+        - {x: -73.5423, y: 2.3938599}
+        - {x: -76.5423, y: 2.3938599}
+        - {x: -90.5423, y: -2.6061401}
+        - {x: -90.5423, y: -12.60614}
+        - {x: -94.5423, y: -48.60614}
+        - {x: 93.4577, y: -48.60614}
+        - {x: 97.4577, y: -45.60614}
+        - {x: 98.4577, y: -42.60614}
+        - {x: 98.4577, y: -26.60614}
+    - name: BlackDragon_81
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 524
+        width: 164
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63.370728, y: -4.7445984}
+        - {x: 63.370728, y: 54.2554}
+        - {x: 17.370728, y: 54.2554}
+        - {x: 15.370728, y: 47.2554}
+        - {x: 17.370728, y: 39.2554}
+        - {x: 19.370728, y: 37.2554}
+        - {x: 24.370728, y: 36.2554}
+        - {x: 16.370728, y: 36.2554}
+        - {x: 0.37072754, y: 33.2554}
+        - {x: -26.629272, y: 22.255402}
+        - {x: -59.629272, y: -6.7445984}
+        - {x: -62.629272, y: -18.744598}
+        - {x: -62.629272, y: -39.7446}
+        - {x: -31.629272, y: -53.7446}
+        - {x: 11.370728, y: -53.7446}
+        - {x: 23.370728, y: -51.7446}
+        - {x: 26.370728, y: -41.7446}
+        - {x: 25.370728, y: -37.7446}
+        - {x: 55.370728, y: -37.7446}
+      - - {x: 44.370728, y: 22.255402}
+        - {x: 45.370728, y: 19.255402}
+        - {x: 48.370728, y: 19.255402}
+        - {x: 50.370728, y: 21.255402}
+        - {x: 49.370728, y: 24.255402}
+        - {x: 46.370728, y: 24.255402}
+      - - {x: 13.370728, y: 45.2554}
+        - {x: 11.370728, y: 43.2554}
+        - {x: 11.370728, y: 41.2554}
+        - {x: 13.370728, y: 39.2554}
+        - {x: 15.370728, y: 39.2554}
+        - {x: 17.370728, y: 41.2554}
+        - {x: 17.370728, y: 43.2554}
+        - {x: 15.370728, y: 45.2554}
+      - - {x: 20.370728, y: 51.2554}
+        - {x: 18.370728, y: 49.2554}
+        - {x: 18.370728, y: 47.2554}
+        - {x: 20.370728, y: 45.2554}
+        - {x: 22.370728, y: 45.2554}
+        - {x: 24.370728, y: 47.2554}
+        - {x: 24.370728, y: 49.2554}
+        - {x: 22.370728, y: 51.2554}
+      - - {x: 60.370728, y: 50.2554}
+        - {x: 62.370728, y: 48.2554}
+        - {x: 63.370728, y: 48.2554}
+        - {x: 63.370728, y: 53.2554}
+        - {x: 61.370728, y: 53.2554}
+    - name: BlackDragon_82
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 660
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_83
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 535
+        width: 106
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.3207703, y: 47.157684}
+        - {x: -2.3207703, y: 39.157684}
+        - {x: 0.67922974, y: 35.157684}
+        - {x: 2.6792297, y: 33.157684}
+        - {x: -2.3207703, y: 37.157684}
+        - {x: -6.3207703, y: 39.157684}
+        - {x: -22.32077, y: 27.157684}
+        - {x: -30.32077, y: 19.157684}
+        - {x: -36.32077, y: 5.1576843}
+        - {x: -40.32077, y: -6.8423157}
+        - {x: -40.32077, y: -35.842316}
+        - {x: -36.32077, y: -45.842316}
+        - {x: 35.67923, y: -45.842316}
+        - {x: 41.67923, y: -25.842316}
+        - {x: 41.67923, y: 39.157684}
+        - {x: 33.67923, y: 47.157684}
+    - name: BlackDragon_84
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 532
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.840767, y: -5.13385}
+        - {x: 47.840767, y: -5.13385}
+        - {x: 49.840767, y: -2.13385}
+        - {x: 49.840767, y: 14.86615}
+        - {x: 48.840767, y: 17.86615}
+        - {x: 46.840767, y: 49.86615}
+        - {x: -16.159233, y: 49.86615}
+        - {x: -49.159233, y: -0.1338501}
+        - {x: -49.159233, y: -32.13385}
+        - {x: -42.159233, y: -49.13385}
+        - {x: 46.840767, y: -49.13385}
+        - {x: 49.840767, y: -27.13385}
+        - {x: 49.840767, y: -11.13385}
+    - name: BlackDragon_85
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 539
+        width: 157
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59.043076, y: 46.713074}
+        - {x: -15.956924, y: 46.713074}
+        - {x: -59.956924, y: -4.2869263}
+        - {x: -59.956924, y: -32.286926}
+        - {x: -58.956924, y: -33.286926}
+        - {x: -55.956924, y: -32.286926}
+        - {x: -45.956924, y: -41.286926}
+        - {x: -42.956924, y: -43.286926}
+        - {x: -36.956924, y: -39.286926}
+        - {x: -40.956924, y: -45.286926}
+        - {x: 46.043076, y: -45.286926}
+        - {x: 60.043076, y: -34.286926}
+        - {x: 60.043076, y: 43.713074}
+    - name: BlackDragon_86
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 535
+        width: 186
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.924622, y: 48.657684}
+        - {x: 21.924622, y: 45.657684}
+        - {x: -13.075378, y: 44.657684}
+        - {x: -47.07538, y: 29.657684}
+        - {x: -71.07538, y: 10.657684}
+        - {x: -71.07538, y: -22.342316}
+        - {x: -27.075378, y: -42.342316}
+        - {x: 12.924622, y: -47.342316}
+        - {x: 70.92462, y: -47.342316}
+        - {x: 71.92462, y: -41.342316}
+        - {x: 71.92462, y: 47.657684}
+        - {x: 70.92462, y: 48.657684}
+    - name: BlackDragon_87
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 524
+        width: 203
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.432312, y: 52.7554}
+        - {x: 16.432312, y: 38.7554}
+        - {x: 18.432312, y: 32.7554}
+        - {x: 17.432312, y: 33.7554}
+        - {x: 16.432312, y: 39.7554}
+        - {x: 14.432312, y: 41.7554}
+        - {x: -5.567688, y: 43.7554}
+        - {x: -23.567688, y: 42.7554}
+        - {x: -42.567688, y: 34.7554}
+        - {x: -52.567688, y: 28.755402}
+        - {x: -71.56769, y: 15.755402}
+        - {x: -77.56769, y: 8.755402}
+        - {x: -77.56769, y: -31.244598}
+        - {x: -64.56769, y: -52.2446}
+        - {x: 78.43231, y: -52.2446}
+        - {x: 78.43231, y: 24.755402}
+        - {x: 76.43231, y: 42.7554}
+        - {x: 67.43231, y: 52.7554}
+    - name: BlackDragon_88
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 537
+        width: 157
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.380798, y: 47.685394}
+        - {x: -25.619202, y: 31.685394}
+        - {x: -59.6192, y: -5.3146057}
+        - {x: -59.6192, y: -32.314606}
+        - {x: -42.6192, y: -47.314606}
+        - {x: 27.380798, y: -47.314606}
+        - {x: 61.3808, y: -34.314606}
+        - {x: 61.3808, y: 43.685394}
+        - {x: 51.3808, y: 47.685394}
+    - name: BlackDragon_89
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 538
+        width: 121
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.7199707, y: 45.44922}
+        - {x: -38.28003, y: 15.449219}
+        - {x: -46.28003, y: -12.550781}
+        - {x: -46.28003, y: -43.55078}
+        - {x: 7.7199707, y: -43.55078}
+        - {x: 38.71997, y: -39.55078}
+        - {x: 47.71997, y: -9.550781}
+        - {x: 47.71997, y: 45.44922}
+    - name: BlackDragon_90
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 649
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_91
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 522
+        width: 187
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.818481, y: 53.22769}
+        - {x: -71.18152, y: 15.227692}
+        - {x: -71.18152, y: 1.2276917}
+        - {x: -66.18152, y: -0.77230835}
+        - {x: -71.18152, y: -18.772308}
+        - {x: -68.18152, y: -23.772308}
+        - {x: -61.18152, y: -22.772308}
+        - {x: -43.18152, y: -31.772308}
+        - {x: -28.181519, y: -46.77231}
+        - {x: -20.181519, y: -51.77231}
+        - {x: 70.81848, y: -51.77231}
+        - {x: 72.81848, y: -48.77231}
+        - {x: 72.81848, y: 53.22769}
+    - name: BlackDragon_92
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 643
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_93
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 634
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_94
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 297
+        width: 143
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.166153, y: -2.1376953}
+        - {x: 43.166153, y: -2.1376953}
+        - {x: 46.166153, y: -2.1376953}
+        - {x: 51.166153, y: 2.8623047}
+        - {x: 55.166153, y: 8.862305}
+        - {x: 55.166153, y: 26.862305}
+        - {x: 51.166153, y: 35.862305}
+        - {x: 36.166153, y: 48.862305}
+        - {x: -7.833847, y: 48.862305}
+        - {x: -54.833847, y: -17.137695}
+        - {x: -54.833847, y: -47.137695}
+        - {x: 31.166153, y: -47.137695}
+        - {x: 54.166153, y: -33.137695}
+        - {x: 55.166153, y: -27.137695}
+        - {x: 55.166153, y: -1.1376953}
+    - name: BlackDragon_95
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 304
+        width: 174
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.201538, y: 44.20923}
+        - {x: -66.20154, y: 4.2092285}
+        - {x: -66.20154, y: -29.790771}
+        - {x: -63.201538, y: -33.79077}
+        - {x: -42.201538, y: -26.790771}
+        - {x: -39.201538, y: -26.790771}
+        - {x: -38.201538, y: -25.790771}
+        - {x: -42.201538, y: -30.790771}
+        - {x: -49.201538, y: -33.79077}
+        - {x: -19.201538, y: -43.79077}
+        - {x: 67.79846, y: -43.79077}
+        - {x: 67.79846, y: 37.20923}
+        - {x: 56.798462, y: 44.20923}
+    - name: BlackDragon_96
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 304
+        width: 200
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.40155, y: -32.29077}
+        - {x: 45.40155, y: -32.29077}
+        - {x: 54.40155, y: -33.29077}
+        - {x: 60.40155, y: -32.29077}
+        - {x: 66.40155, y: -30.290771}
+        - {x: 77.40155, y: -4.2907715}
+        - {x: 77.40155, y: 24.709229}
+        - {x: 57.40155, y: 45.70923}
+        - {x: -32.59845, y: 45.70923}
+        - {x: -76.59845, y: 34.70923}
+        - {x: -76.59845, y: 19.709229}
+        - {x: -59.59845, y: -0.29077148}
+        - {x: -50.59845, y: -1.2907715}
+        - {x: -64.59845, y: -6.2907715}
+        - {x: -65.59845, y: -8.2907715}
+        - {x: -64.59845, y: -12.2907715}
+        - {x: -42.59845, y: -35.29077}
+        - {x: -19.59845, y: -40.29077}
+        - {x: -8.59845, y: -42.29077}
+        - {x: 8.40155, y: -45.29077}
+        - {x: 42.40155, y: -45.29077}
+        - {x: 54.40155, y: -42.29077}
+        - {x: 52.40155, y: -38.29077}
+        - {x: 47.40155, y: -32.29077}
+      - - {x: -71.59845, y: -9.2907715}
+        - {x: -70.59845, y: -12.2907715}
+        - {x: -67.59845, y: -12.2907715}
+        - {x: -65.59845, y: -10.2907715}
+        - {x: -66.59845, y: -7.2907715}
+        - {x: -69.59845, y: -7.2907715}
+    - name: BlackDragon_97
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 304
+        width: 208
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79.39923, y: 49.70923}
+        - {x: -79.39923, y: -13.2907715}
+        - {x: -67.39923, y: -23.290771}
+        - {x: -46.39923, y: -29.290771}
+        - {x: -37.39923, y: -27.290771}
+        - {x: -42.39923, y: -32.29077}
+        - {x: -61.39923, y: -26.290771}
+        - {x: -68.39923, y: -29.290771}
+        - {x: -68.39923, y: -49.29077}
+        - {x: 79.60077, y: -49.29077}
+        - {x: 79.60077, y: 27.709229}
+        - {x: 32.60077, y: 49.70923}
+      - - {x: -77.39923, y: -2.2907715}
+        - {x: -79.39923, y: -4.2907715}
+        - {x: -79.39923, y: -7.2907715}
+        - {x: -77.39923, y: -8.2907715}
+        - {x: -72.39923, y: -8.2907715}
+        - {x: -71.39923, y: -6.2907715}
+        - {x: -71.39923, y: -4.2907715}
+        - {x: -73.39923, y: -2.2907715}
+    - name: BlackDragon_98
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 300
+        width: 221
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.438477, y: 44.653854}
+        - {x: -13.561523, y: 44.653854}
+        - {x: -84.56152, y: 26.653854}
+        - {x: -84.56152, y: 13.653854}
+        - {x: -80.56152, y: 12.653854}
+        - {x: -64.56152, y: -5.3461456}
+        - {x: -61.561523, y: -6.3461456}
+        - {x: -46.561523, y: -0.34614563}
+        - {x: -44.561523, y: 1.6538544}
+        - {x: -38.561523, y: -0.34614563}
+        - {x: -73.56152, y: -12.346146}
+        - {x: -78.56152, y: -14.346146}
+        - {x: -78.56152, y: -17.346146}
+        - {x: -76.56152, y: -19.346146}
+        - {x: -66.56152, y: -27.346146}
+        - {x: -68.56152, y: -36.346146}
+        - {x: -66.56152, y: -44.346146}
+        - {x: 55.438477, y: -44.346146}
+        - {x: 68.43848, y: -43.346146}
+        - {x: 85.43848, y: -15.346146}
+        - {x: 85.43848, y: -0.34614563}
+        - {x: 78.43848, y: 15.653854}
+      - - {x: -61.561523, y: -27.346146}
+        - {x: -58.561523, y: -26.346146}
+        - {x: -58.561523, y: -23.346146}
+        - {x: -61.561523, y: -22.346146}
+        - {x: -63.561523, y: -24.346146}
+    - name: BlackDragon_99
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 300
+        width: 153
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.470032, y: -44.346146}
+        - {x: 38.47003, y: -42.346146}
+        - {x: 59.47003, y: -19.346146}
+        - {x: 59.47003, y: 9.653854}
+        - {x: 55.47003, y: 14.653854}
+        - {x: 49.47003, y: 12.653854}
+        - {x: 52.47003, y: 14.653854}
+        - {x: 55.47003, y: 19.653854}
+        - {x: 55.47003, y: 44.653854}
+        - {x: -7.5299683, y: 44.653854}
+        - {x: -24.529968, y: 25.653854}
+        - {x: -58.52997, y: -20.346146}
+        - {x: -58.52997, y: -38.346146}
+        - {x: -53.52997, y: -44.346146}
+        - {x: -13.529968, y: -44.346146}
+        - {x: -12.529968, y: -43.346146}
+        - {x: -12.529968, y: -42.346146}
+        - {x: 1.4700317, y: -44.346146}
+      - - {x: 56.47003, y: -15.346146}
+        - {x: 58.47003, y: -16.346146}
+        - {x: 59.47003, y: -16.346146}
+        - {x: 59.47003, y: -6.3461456}
+        - {x: 56.47003, y: -7.3461456}
+      - - {x: 55.47003, y: 15.653854}
+        - {x: 55.47003, y: 12.653854}
+        - {x: 58.47003, y: 9.653854}
+        - {x: 59.47003, y: 9.653854}
+        - {x: 59.47003, y: 15.653854}
+        - {x: 58.47003, y: 16.653854}
+    - name: BlackDragon_100
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 370
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_101
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 319
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_102
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 289
+        width: 136
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.345337, y: 51.25154}
+        - {x: -33.654663, y: 22.251541}
+        - {x: -51.654663, y: -24.748459}
+        - {x: -51.654663, y: -49.74846}
+        - {x: 27.345337, y: -49.74846}
+        - {x: 53.345337, y: -38.74846}
+        - {x: 53.345337, y: 33.25154}
+        - {x: 37.345337, y: 51.25154}
+    - name: BlackDragon_103
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 297
+        width: 171
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.949951, y: 46.362305}
+        - {x: 13.949951, y: 43.362305}
+        - {x: -4.050049, y: 46.362305}
+        - {x: -10.050049, y: 46.362305}
+        - {x: -65.05005, y: -9.637695}
+        - {x: -65.05005, y: -39.637695}
+        - {x: -51.05005, y: -44.637695}
+        - {x: 65.94995, y: -44.637695}
+        - {x: 66.94995, y: -26.637695}
+        - {x: 66.94995, y: 28.362305}
+        - {x: 54.94995, y: 46.362305}
+    - name: BlackDragon_104
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 299
+        width: 225
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72.02539, y: -15.610001}
+        - {x: 86.02539, y: -11.610001}
+        - {x: 86.02539, y: 15.389999}
+        - {x: 70.02539, y: 40.39}
+        - {x: 45.02539, y: 45.39}
+        - {x: -28.97461, y: 45.39}
+        - {x: -77.97461, y: 31.39}
+        - {x: -85.97461, y: 26.39}
+        - {x: -85.97461, y: 21.39}
+        - {x: -80.97461, y: 20.39}
+        - {x: -64.97461, y: -3.6100006}
+        - {x: -60.97461, y: -2.6100006}
+        - {x: -43.97461, y: -0.6100006}
+        - {x: -42.97461, y: 3.3899994}
+        - {x: -43.97461, y: 7.3899994}
+        - {x: -42.97461, y: 4.3899994}
+        - {x: -39.97461, y: -3.6100006}
+        - {x: -51.97461, y: -3.6100006}
+        - {x: -64.97461, y: -5.6100006}
+        - {x: -85.97461, y: -6.6100006}
+        - {x: -85.97461, y: -11.610001}
+        - {x: -59.97461, y: -42.61}
+        - {x: -38.97461, y: -44.61}
+        - {x: 54.02539, y: -44.61}
+        - {x: 85.02539, y: -27.61}
+        - {x: 81.02539, y: -21.61}
+        - {x: 76.02539, y: -16.61}
+    - name: BlackDragon_105
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 298
+        width: 235
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.915405, y: 52.12616}
+        - {x: -58.915405, y: 52.12616}
+        - {x: -58.915405, y: 48.12616}
+        - {x: -55.915405, y: 47.12616}
+        - {x: -46.915405, y: 47.12616}
+        - {x: -45.915405, y: 46.12616}
+        - {x: -52.915405, y: 47.12616}
+        - {x: -60.915405, y: 47.12616}
+        - {x: -61.915405, y: 48.12616}
+        - {x: -66.915405, y: 49.12616}
+        - {x: -77.915405, y: 51.12616}
+        - {x: -87.915405, y: 51.12616}
+        - {x: -89.915405, y: 49.12616}
+        - {x: -89.915405, y: -25.87384}
+        - {x: -60.915405, y: -30.87384}
+        - {x: -56.915405, y: -29.87384}
+        - {x: -65.915405, y: -33.87384}
+        - {x: -71.915405, y: -30.87384}
+        - {x: -78.915405, y: -31.87384}
+        - {x: -89.915405, y: -48.87384}
+        - {x: -89.915405, y: -50.87384}
+        - {x: 91.084595, y: -50.87384}
+        - {x: 91.084595, y: -2.8738403}
+        - {x: 3.0845947, y: 48.12616}
+      - - {x: -77.915405, y: -5.8738403}
+        - {x: -76.915405, y: -8.87384}
+        - {x: -70.915405, y: -8.87384}
+        - {x: -68.915405, y: -6.8738403}
+        - {x: -69.915405, y: -3.8738403}
+        - {x: -75.915405, y: -3.8738403}
+      - - {x: -85.915405, y: -7.8738403}
+        - {x: -82.915405, y: -6.8738403}
+        - {x: -82.915405, y: -3.8738403}
+        - {x: -85.915405, y: -2.8738403}
+        - {x: -87.915405, y: -4.8738403}
+    - name: BlackDragon_106
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 289
+        width: 184
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69.49072, y: -22.748459}
+        - {x: 69.49072, y: 37.25154}
+        - {x: 54.490723, y: 46.25154}
+        - {x: -32.509277, y: 46.25154}
+        - {x: -70.50928, y: 27.251541}
+        - {x: -70.50928, y: 16.251541}
+        - {x: -69.50928, y: 15.251541}
+        - {x: -59.509277, y: 17.251541}
+        - {x: -69.50928, y: -7.748459}
+        - {x: -66.50928, y: -15.748459}
+        - {x: -45.509277, y: -23.748459}
+        - {x: -35.509277, y: -21.748459}
+        - {x: -20.509277, y: -25.748459}
+        - {x: -46.509277, y: -31.748459}
+        - {x: -53.509277, y: -37.74846}
+        - {x: -48.509277, y: -44.74846}
+        - {x: -30.509277, y: -44.74846}
+        - {x: 2.4907227, y: -36.74846}
+        - {x: 27.490723, y: -40.74846}
+        - {x: 51.490723, y: -34.74846}
+      - - {x: 68.49072, y: 5.251541}
+        - {x: 70.49072, y: 3.2515411}
+        - {x: 71.49072, y: 3.2515411}
+        - {x: 71.49072, y: 9.251541}
+        - {x: 68.49072, y: 8.251541}
+      - - {x: 67.49072, y: 16.251541}
+        - {x: 65.49072, y: 12.251541}
+        - {x: 65.49072, y: 9.251541}
+        - {x: 67.49072, y: 8.251541}
+        - {x: 70.49072, y: 9.251541}
+        - {x: 71.49072, y: 12.251541}
+        - {x: 71.49072, y: 15.251541}
+        - {x: 70.49072, y: 16.251541}
+    - name: BlackDragon_107
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 306
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.989258, y: 26.736923}
+        - {x: -15.989258, y: 26.736923}
+        - {x: -15.989258, y: 21.736923}
+        - {x: -18.989258, y: 19.736923}
+        - {x: -19.989258, y: 21.736923}
+        - {x: -25.989258, y: 24.736923}
+        - {x: -25.989258, y: -13.263077}
+        - {x: -0.9892578, y: -25.263077}
+        - {x: 23.010742, y: -25.263077}
+        - {x: 27.010742, y: -20.263077}
+        - {x: 27.010742, y: 7.736923}
+        - {x: 18.010742, y: 23.736923}
+      - - {x: -7.989258, y: 19.736923}
+        - {x: -4.989258, y: 20.736923}
+        - {x: -4.989258, y: 23.736923}
+        - {x: -7.989258, y: 24.736923}
+        - {x: -9.989258, y: 22.736923}
+    - name: BlackDragon_108
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 293
+        width: 159
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.410034, y: 13.306931}
+        - {x: 50.410034, y: 15.306931}
+        - {x: 55.410034, y: 19.30693}
+        - {x: 51.410034, y: 33.30693}
+        - {x: 38.410034, y: 46.30693}
+        - {x: -12.589966, y: 46.30693}
+        - {x: -60.589966, y: 4.3069305}
+        - {x: -60.589966, y: -43.69307}
+        - {x: -57.589966, y: -44.69307}
+        - {x: 31.410034, y: -44.69307}
+        - {x: 55.410034, y: -31.69307}
+        - {x: 55.410034, y: 8.306931}
+        - {x: 52.410034, y: 14.306931}
+      - - {x: 58.410034, y: 7.3069305}
+        - {x: 59.410034, y: 4.3069305}
+        - {x: 62.410034, y: 4.3069305}
+        - {x: 62.410034, y: 9.306931}
+        - {x: 60.410034, y: 9.306931}
+    - name: BlackDragon_109
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 297
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.083008, y: 24.362305}
+        - {x: -21.083008, y: 7.3623047}
+        - {x: -14.083008, y: -14.637695}
+        - {x: -10.083008, y: -18.637695}
+        - {x: -9.083008, y: -18.637695}
+        - {x: -4.083008, y: -14.637695}
+        - {x: -4.083008, y: -11.637695}
+        - {x: -4.083008, y: -15.637695}
+        - {x: -2.0830078, y: -21.637695}
+        - {x: 0.9169922, y: -22.637695}
+        - {x: 15.916992, y: -22.637695}
+        - {x: 24.916992, y: -16.637695}
+        - {x: 24.916992, y: 15.362305}
+        - {x: 12.916992, y: 24.362305}
+      - - {x: -21.083008, y: 3.3623047}
+        - {x: -19.083008, y: 1.3623047}
+        - {x: -16.083008, y: 2.3623047}
+        - {x: -16.083008, y: 5.3623047}
+        - {x: -18.083008, y: 7.3623047}
+        - {x: -21.083008, y: 6.3623047}
+      - - {x: -19.083008, y: 21.362305}
+        - {x: -24.083008, y: 21.362305}
+        - {x: -24.083008, y: 16.362305}
+        - {x: -22.083008, y: 15.362305}
+        - {x: -19.083008, y: 15.362305}
+        - {x: -18.083008, y: 17.362305}
+        - {x: -18.083008, y: 20.362305}
+    - name: BlackDragon_110
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 355
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_111
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 344
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_112
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 304
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_113
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 291
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_114
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 84
+        width: 136
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.223076, y: 47.66308}
+        - {x: -52.223076, y: -8.336922}
+        - {x: -52.223076, y: -47.33692}
+        - {x: 52.776924, y: -47.33692}
+        - {x: 52.776924, y: 46.66308}
+        - {x: 50.776924, y: 47.66308}
+    - name: BlackDragon_115
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 90
+        width: 147
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57.72847, y: 17.746155}
+        - {x: 56.72847, y: 17.746155}
+        - {x: 46.72847, y: 19.746155}
+        - {x: 42.72847, y: 14.746155}
+        - {x: 45.72847, y: 18.746155}
+        - {x: 47.72847, y: 23.746155}
+        - {x: 47.72847, y: 32.746155}
+        - {x: 39.72847, y: 47.746155}
+        - {x: 17.72847, y: 47.746155}
+        - {x: 13.72847, y: 35.746155}
+        - {x: 11.72847, y: 22.746155}
+        - {x: 9.72847, y: 19.746155}
+        - {x: 10.72847, y: 20.746155}
+        - {x: 11.72847, y: 24.746155}
+        - {x: 8.72847, y: 31.746155}
+        - {x: 1.7284698, y: 39.746155}
+        - {x: -48.27153, y: -1.2538452}
+        - {x: -56.27153, y: -34.253845}
+        - {x: -56.27153, y: -46.253845}
+        - {x: 57.72847, y: -46.253845}
+    - name: BlackDragon_116
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 92
+        width: 133
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.028473, y: 46.77385}
+        - {x: -29.028473, y: 42.77385}
+        - {x: -51.028473, y: 3.7738495}
+        - {x: -51.028473, y: -24.22615}
+        - {x: -49.028473, y: -25.22615}
+        - {x: -34.028473, y: -19.22615}
+        - {x: -34.028473, y: -25.22615}
+        - {x: -31.028473, y: -28.22615}
+        - {x: -15.028473, y: -32.22615}
+        - {x: -25.028473, y: -34.22615}
+        - {x: -33.028473, y: -27.22615}
+        - {x: -37.028473, y: -24.22615}
+        - {x: -45.028473, y: -29.22615}
+        - {x: -49.028473, y: -45.22615}
+        - {x: -44.028473, y: -46.22615}
+        - {x: 51.971527, y: -46.22615}
+        - {x: 51.971527, y: 19.77385}
+        - {x: 40.971527, y: 46.77385}
+    - name: BlackDragon_117
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 91
+        width: 169
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.66000366, y: 44.510002}
+        - {x: 3.3399963, y: 29.510002}
+        - {x: 4.3399963, y: 28.510002}
+        - {x: 4.3399963, y: 22.510002}
+        - {x: 4.3399963, y: 26.510002}
+        - {x: 0.33999634, y: 36.510002}
+        - {x: -20.660004, y: 44.510002}
+        - {x: -64.66, y: 44.510002}
+        - {x: -64.66, y: -32.489998}
+        - {x: -35.660004, y: -43.489998}
+        - {x: 65.34, y: -43.489998}
+        - {x: 65.34, y: 44.510002}
+    - name: BlackDragon_118
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 69
+        width: 198
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.40387, y: 53.705383}
+        - {x: -75.40387, y: 9.705383}
+        - {x: -61.40387, y: -19.294617}
+        - {x: 6.5961304, y: -52.294617}
+        - {x: 48.59613, y: -52.294617}
+        - {x: 76.59613, y: -5.2946167}
+        - {x: 76.59613, y: 53.705383}
+      - - {x: 59.59613, y: 8.705383}
+        - {x: 60.59613, y: 5.7053833}
+        - {x: 63.59613, y: 5.7053833}
+        - {x: 65.59613, y: 7.7053833}
+        - {x: 64.59613, y: 10.705383}
+        - {x: 61.59613, y: 10.705383}
+    - name: BlackDragon_119
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 54
+        width: 215
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76.87848, y: 55.247692}
+        - {x: 25.878479, y: 55.247692}
+        - {x: 18.878479, y: 53.247692}
+        - {x: 16.878479, y: 50.247692}
+        - {x: 14.878479, y: 42.247692}
+        - {x: 12.878479, y: 35.247692}
+        - {x: 13.878479, y: 39.247692}
+        - {x: 13.878479, y: 43.247692}
+        - {x: 2.878479, y: 55.247692}
+        - {x: -44.12152, y: 55.247692}
+        - {x: -82.12152, y: 45.247692}
+        - {x: -82.12152, y: 31.247692}
+        - {x: -81.12152, y: 31.247692}
+        - {x: -67.12152, y: 35.247692}
+        - {x: -79.12152, y: 9.247692}
+        - {x: -76.12152, y: 4.247692}
+        - {x: -55.12152, y: -9.752308}
+        - {x: -32.12152, y: -14.752308}
+        - {x: -26.121521, y: -12.752308}
+        - {x: -35.12152, y: -15.752308}
+        - {x: -51.12152, y: -14.752308}
+        - {x: -57.12152, y: -20.752308}
+        - {x: -52.12152, y: -28.752308}
+        - {x: 0.878479, y: -54.752308}
+        - {x: 54.87848, y: -54.752308}
+        - {x: 82.87848, y: 11.247692}
+        - {x: 83.87848, y: 12.247692}
+        - {x: 83.87848, y: 50.247692}
+      - - {x: 6.878479, y: -50.752308}
+        - {x: 8.878479, y: -52.752308}
+        - {x: 11.878479, y: -51.752308}
+        - {x: 11.878479, y: -48.752308}
+        - {x: 9.878479, y: -46.752308}
+        - {x: 6.878479, y: -47.752308}
+    - name: BlackDragon_120
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 49
+        width: 197
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62.910034, y: -51.571537}
+        - {x: 75.910034, y: 11.428463}
+        - {x: 72.910034, y: 15.428463}
+        - {x: 76.910034, y: 15.428463}
+        - {x: 76.910034, y: 29.428463}
+        - {x: 49.910034, y: 59.428463}
+        - {x: 25.910034, y: 59.428463}
+        - {x: 24.910034, y: 52.428463}
+        - {x: 22.910034, y: 46.428463}
+        - {x: 24.910034, y: 30.428463}
+        - {x: 22.910034, y: 40.428463}
+        - {x: 19.910034, y: 49.428463}
+        - {x: -11.089966, y: 49.428463}
+        - {x: -37.089966, y: 41.428463}
+        - {x: -75.089966, y: 11.428463}
+        - {x: -75.089966, y: 6.428463}
+        - {x: -74.089966, y: 5.428463}
+        - {x: -64.089966, y: 8.428463}
+        - {x: -68.089966, y: -7.571537}
+        - {x: -67.089966, y: -10.571537}
+        - {x: -44.089966, y: -29.571537}
+        - {x: 33.910034, y: -58.571537}
+        - {x: 51.910034, y: -58.571537}
+        - {x: 51.910034, y: -57.571537}
+        - {x: 50.910034, y: -54.571537}
+        - {x: 54.910034, y: -55.571537}
+      - - {x: 56.910034, y: -55.571537}
+        - {x: 58.910034, y: -57.571537}
+        - {x: 61.910034, y: -56.571537}
+        - {x: 61.910034, y: -53.571537}
+        - {x: 59.910034, y: -51.571537}
+        - {x: 56.910034, y: -52.571537}
+    - name: BlackDragon_121
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 84
+        width: 140
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54.428467, y: 7.6630783}
+        - {x: 51.428467, y: 9.663078}
+        - {x: 45.428467, y: 9.663078}
+        - {x: 40.428467, y: 7.6630783}
+        - {x: 37.428467, y: 9.663078}
+        - {x: 46.428467, y: 9.663078}
+        - {x: 54.428467, y: 10.663078}
+        - {x: 54.428467, y: 15.663078}
+        - {x: 45.428467, y: 46.66308}
+        - {x: 23.428467, y: 46.66308}
+        - {x: -22.571533, y: 31.663078}
+        - {x: -53.571533, y: -19.336922}
+        - {x: -53.571533, y: -46.33692}
+        - {x: 6.428467, y: -46.33692}
+        - {x: 37.428467, y: -45.33692}
+        - {x: 54.428467, y: -19.336922}
+      - - {x: 29.428467, y: -40.33692}
+        - {x: 25.428467, y: -45.33692}
+        - {x: 25.428467, y: -46.33692}
+        - {x: 36.428467, y: -46.33692}
+        - {x: 36.428467, y: -43.33692}
+        - {x: 35.428467, y: -40.33692}
+      - - {x: 38.428467, y: -46.33692}
+        - {x: 51.428467, y: -46.33692}
+        - {x: 50.428467, y: -42.33692}
+        - {x: 41.428467, y: -40.33692}
+        - {x: 38.428467, y: -43.33692}
+      - - {x: 38.428467, y: -34.33692}
+        - {x: 38.428467, y: -36.33692}
+        - {x: 42.428467, y: -40.33692}
+        - {x: 45.428467, y: -40.33692}
+        - {x: 46.428467, y: -38.33692}
+        - {x: 46.428467, y: -35.33692}
+        - {x: 40.428467, y: -32.33692}
+    - name: BlackDragon_122
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 53
+        width: 112
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.046143, y: -58.016155}
+        - {x: 39.046143, y: -58.016155}
+        - {x: 39.046143, y: -55.016155}
+        - {x: 36.046143, y: -54.016155}
+        - {x: 34.046143, y: -56.016155}
+      - - {x: 13.046143, y: -53.016155}
+        - {x: 14.046143, y: -56.016155}
+        - {x: 17.046143, y: -56.016155}
+        - {x: 19.046143, y: -54.016155}
+        - {x: 18.046143, y: -51.016155}
+        - {x: 15.046143, y: -51.016155}
+      - - {x: 23.046143, y: -45.016155}
+        - {x: 23.046143, y: -50.016155}
+        - {x: 28.046143, y: -50.016155}
+        - {x: 29.046143, y: -49.016155}
+        - {x: 29.046143, y: -46.016155}
+        - {x: 27.046143, y: -44.016155}
+        - {x: 25.046143, y: -44.016155}
+      - - {x: 16.046143, y: -46.016155}
+        - {x: 18.046143, y: -48.016155}
+        - {x: 21.046143, y: -47.016155}
+        - {x: 21.046143, y: -44.016155}
+        - {x: 19.046143, y: -42.016155}
+        - {x: 16.046143, y: -43.016155}
+      - - {x: 39.046143, y: -43.016155}
+        - {x: 40.046143, y: -46.016155}
+        - {x: 43.046143, y: -46.016155}
+        - {x: 43.046143, y: -41.016155}
+        - {x: 41.046143, y: -41.016155}
+      - - {x: 32.046143, y: -42.016155}
+        - {x: 34.046143, y: -44.016155}
+        - {x: 37.046143, y: -43.016155}
+        - {x: 37.046143, y: -40.016155}
+        - {x: 35.046143, y: -38.016155}
+        - {x: 32.046143, y: -39.016155}
+      - - {x: 23.046143, y: -39.016155}
+        - {x: 24.046143, y: -42.016155}
+        - {x: 27.046143, y: -42.016155}
+        - {x: 29.046143, y: -40.016155}
+        - {x: 28.046143, y: -37.016155}
+        - {x: 25.046143, y: -37.016155}
+      - - {x: 10.046143, y: -32.016155}
+        - {x: 9.046143, y: -34.016155}
+        - {x: 9.046143, y: -37.016155}
+        - {x: 13.046143, y: -41.016155}
+        - {x: 17.046143, y: -41.016155}
+        - {x: 18.046143, y: -40.016155}
+        - {x: 18.046143, y: -34.016155}
+        - {x: 13.046143, y: -32.016155}
+      - - {x: -0.9538574, y: 58.983845}
+        - {x: -28.953857, y: 43.983845}
+        - {x: -42.953857, y: 24.983845}
+        - {x: -42.953857, y: -35.016155}
+        - {x: 34.046143, y: -35.016155}
+        - {x: 43.046143, y: -25.016155}
+        - {x: 43.046143, y: 39.983845}
+        - {x: 31.046143, y: 58.983845}
+      - - {x: 29.046143, y: -32.016155}
+        - {x: 30.046143, y: -35.016155}
+        - {x: 33.046143, y: -35.016155}
+        - {x: 35.046143, y: -33.016155}
+        - {x: 34.046143, y: -30.016155}
+        - {x: 31.046143, y: -30.016155}
+      - - {x: 35.046143, y: -30.016155}
+        - {x: 36.046143, y: -33.016155}
+        - {x: 39.046143, y: -33.016155}
+        - {x: 41.046143, y: -31.016155}
+        - {x: 40.046143, y: -28.016155}
+        - {x: 37.046143, y: -28.016155}
+    - name: BlackDragon_123
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 82
+        width: 169
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.7716064, y: 45.135384}
+        - {x: 1.7716064, y: 43.135384}
+        - {x: 4.7716064, y: 30.135384}
+        - {x: 4.7716064, y: 26.135384}
+        - {x: 4.7716064, y: 31.135384}
+        - {x: 1.7716064, y: 36.135384}
+        - {x: -33.228394, y: 45.135384}
+        - {x: -64.22839, y: 38.135384}
+        - {x: -64.22839, y: -43.864616}
+        - {x: 56.771606, y: -43.864616}
+        - {x: 65.77161, y: -16.864616}
+        - {x: 65.77161, y: 41.135384}
+        - {x: 58.771606, y: 45.135384}
+    - name: BlackDragon_124
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 20
+        width: 199
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.41687, y: 67.776924}
+        - {x: -76.41687, y: 27.776924}
+        - {x: -2.41687, y: -56.223076}
+        - {x: 11.58313, y: -67.223076}
+        - {x: 63.58313, y: -67.223076}
+        - {x: 76.58313, y: 0.77692413}
+        - {x: 76.58313, y: 67.776924}
+    - name: BlackDragon_125
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 11
+        width: 215
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.156982, y: 68.402306}
+        - {x: 16.156982, y: 63.402306}
+        - {x: 14.156982, y: 53.402306}
+        - {x: 16.156982, y: 46.402306}
+        - {x: 17.156982, y: 44.402306}
+        - {x: 10.156982, y: 43.402306}
+        - {x: 14.156982, y: 53.402306}
+        - {x: 14.156982, y: 57.402306}
+        - {x: 12.156982, y: 65.402306}
+        - {x: -13.843018, y: 68.402306}
+        - {x: -63.843018, y: 68.402306}
+        - {x: -81.84302, y: 63.402306}
+        - {x: -81.84302, y: 11.402306}
+        - {x: -54.843018, y: 4.4023056}
+        - {x: -30.843018, y: -0.5976944}
+        - {x: -28.843018, y: 0.4023056}
+        - {x: -23.843018, y: 3.4023056}
+        - {x: -32.843018, y: -2.5976944}
+        - {x: -50.843018, y: -1.5976944}
+        - {x: -57.843018, y: -6.5976944}
+        - {x: -50.843018, y: -15.597694}
+        - {x: 14.156982, y: -15.597694}
+        - {x: 13.156982, y: -15.597694}
+        - {x: 8.156982, y: -16.597694}
+        - {x: 20.156982, y: -60.597694}
+        - {x: 26.156982, y: -67.597694}
+        - {x: 60.156982, y: -67.597694}
+        - {x: 74.15698, y: -61.597694}
+        - {x: 83.15698, y: -13.597694}
+        - {x: 83.15698, y: 67.402306}
+        - {x: 81.15698, y: 68.402306}
+    - name: BlackDragon_126
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 10
+        width: 197
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.896973, y: 71.63846}
+        - {x: 20.896973, y: 69.63846}
+        - {x: -12.103027, y: 62.63846}
+        - {x: -35.103027, y: 53.63846}
+        - {x: -54.103027, y: 41.63846}
+        - {x: -75.10303, y: 23.638458}
+        - {x: -75.10303, y: -32.36154}
+        - {x: -18.103027, y: -70.36154}
+        - {x: 64.89697, y: -70.36154}
+        - {x: 71.89697, y: -62.36154}
+        - {x: 75.89697, y: -22.361542}
+        - {x: 75.89697, y: 41.63846}
+        - {x: 48.896973, y: 71.63846}
+      - - {x: 17.896973, y: -34.36154}
+        - {x: 19.896973, y: -36.36154}
+        - {x: 22.896973, y: -35.36154}
+        - {x: 22.896973, y: -32.36154}
+        - {x: 20.896973, y: -30.361542}
+        - {x: 17.896973, y: -31.361542}
+    - name: BlackDragon_127
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 81
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_128
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 83
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_129
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 74
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_130
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 82
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_131
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 61
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_132
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 67
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_133
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 65
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlackDragon_134
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 56
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

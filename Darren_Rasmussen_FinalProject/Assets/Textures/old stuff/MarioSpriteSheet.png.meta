@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: abceee62e8b6e8b459ad4d7dfcf5c667
+timeCreated: 1454444984
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MarioSpriteSheet_0
+    21300002: MarioSpriteSheet_1
+    21300004: MarioSpriteSheet_2
+    21300006: MarioSpriteSheet_3
+    21300008: MarioSpriteSheet_4
+    21300010: MarioSpriteSheet_5
+    21300012: MarioSpriteSheet_6
+    21300014: MarioSpriteSheet_7
+    21300016: MarioSpriteSheet_8
+    21300018: MarioSpriteSheet_9
+    21300020: MarioSpriteSheet_10
+    21300022: MarioSpriteSheet_11
+    21300024: MarioSpriteSheet_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MarioSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 68
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 68
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 68
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 68
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 68
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 68
+        width: 14
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 69
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 33
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 33
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 33
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 33
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 33
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 32
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

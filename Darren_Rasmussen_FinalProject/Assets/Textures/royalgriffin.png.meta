@@ -1,0 +1,1921 @@
+fileFormatVersion: 2
+guid: be40da2c57878c2459e13d3616e085a3
+timeCreated: 1461081145
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: royalgriffin_0
+    21300002: royalgriffin_1
+    21300004: royalgriffin_2
+    21300006: royalgriffin_3
+    21300008: royalgriffin_4
+    21300010: royalgriffin_5
+    21300012: royalgriffin_6
+    21300014: royalgriffin_7
+    21300016: royalgriffin_8
+    21300018: royalgriffin_9
+    21300020: royalgriffin_10
+    21300022: royalgriffin_11
+    21300024: royalgriffin_12
+    21300026: royalgriffin_13
+    21300028: royalgriffin_24
+    21300030: royalgriffin_25
+    21300032: royalgriffin_26
+    21300034: royalgriffin_27
+    21300036: royalgriffin_47
+    21300038: royalgriffin_48
+    21300040: royalgriffin_64
+    21300042: royalgriffin_65
+    21300044: royalgriffin_66
+    21300046: royalgriffin_67
+    21300048: royalgriffin_68
+    21300050: royalgriffin_69
+    21300052: royalgriffin_70
+    21300054: royalgriffin_71
+    21300056: royalgriffin_72
+    21300058: royalgriffin_73
+    21300060: royalgriffin_74
+    21300062: royalgriffin_75
+    21300064: royalgriffin_76
+    21300066: royalgriffin_77
+    21300068: royalgriffin_78
+    21300070: royalgriffin_79
+    21300072: royalgriffin_80
+    21300074: royalgriffin_81
+    21300076: royalgriffin_82
+    21300078: royalgriffin_83
+    21300080: royalgriffin_84
+    21300082: royalgriffin_85
+    21300084: royalgriffin_86
+    21300086: royalgriffin_87
+    21300088: royalgriffin_88
+    21300090: royalgriffin_89
+    21300092: royalgriffin_90
+    21300094: royalgriffin_91
+    21300096: royalgriffin_92
+    21300098: royalgriffin_93
+    21300100: royalgriffin_95
+    21300102: royalgriffin_96
+    21300104: royalgriffin_97
+    21300106: royalgriffin_100
+    21300108: royalgriffin_104
+    21300110: royalgriffin_114
+    21300112: royalgriffin_115
+    21300114: royalgriffin_116
+    21300116: royalgriffin_117
+    21300118: royalgriffin_118
+    21300120: royalgriffin_130
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: royalgriffin_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1219
+        width: 82
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 50}
+        - {x: -36, y: 47}
+        - {x: -41, y: 27}
+        - {x: -41, y: -50}
+        - {x: -23, y: -50}
+        - {x: 25, y: -44}
+        - {x: 41, y: -35}
+        - {x: 41, y: 36}
+        - {x: 15, y: 50}
+    - name: royalgriffin_1
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1219
+        width: 80
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 23}
+        - {x: 38, y: 39}
+        - {x: 15, y: 50}
+        - {x: -38, y: 50}
+        - {x: -39, y: 49}
+        - {x: -40, y: 36}
+        - {x: -40, y: -50}
+        - {x: -1, y: -50}
+        - {x: 26, y: -46}
+        - {x: 40, y: -36}
+        - {x: 40, y: 26}
+        - {x: 36, y: 26}
+    - name: royalgriffin_2
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1219
+        width: 82
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 50}
+        - {x: -35, y: 49}
+        - {x: -41, y: 40}
+        - {x: -41, y: -50}
+        - {x: -9, y: -50}
+        - {x: 22, y: -46}
+        - {x: 41, y: -37}
+        - {x: 41, y: 27}
+        - {x: 17, y: 50}
+    - name: royalgriffin_3
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1218
+        width: 84
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: -20}
+        - {x: 42, y: -4}
+        - {x: 42, y: 26}
+        - {x: 23, y: 50}
+        - {x: -29, y: 50}
+        - {x: -42, y: 46}
+        - {x: -42, y: -50}
+        - {x: -21, y: -50}
+        - {x: 25, y: -45}
+        - {x: 42, y: -29}
+        - {x: 42, y: -22}
+        - {x: 39, y: -21}
+    - name: royalgriffin_4
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1218
+        width: 85
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.5, y: -35}
+        - {x: 35.5, y: -34}
+        - {x: 42.5, y: -38}
+        - {x: 42.5, y: 32}
+        - {x: 11.5, y: 50}
+        - {x: -40.5, y: 50}
+        - {x: -42.5, y: 27}
+        - {x: -42.5, y: -50}
+        - {x: 1.5, y: -50}
+        - {x: 24.5, y: -47}
+        - {x: 31.5, y: -37}
+        - {x: 31.5, y: -34}
+    - name: royalgriffin_5
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1220
+        width: 89
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.5, y: 2.5}
+        - {x: 39.5, y: 2.5}
+        - {x: 44.5, y: 6.5}
+        - {x: 44.5, y: 12.5}
+        - {x: 37.5, y: 19.5}
+        - {x: 19.5, y: 48.5}
+        - {x: -30.5, y: 48.5}
+        - {x: -44.5, y: 8.5}
+        - {x: -44.5, y: -48.5}
+        - {x: 23.5, y: -48.5}
+        - {x: 44.5, y: -35.5}
+        - {x: 44.5, y: -8.5}
+        - {x: 42.5, y: 2.5}
+    - name: royalgriffin_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1060
+        width: 151
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65.5, y: 33}
+        - {x: 39.5, y: 47}
+        - {x: -1.5, y: 47}
+        - {x: -18.5, y: 39}
+        - {x: -75.5, y: -8}
+        - {x: -75.5, y: -47}
+        - {x: 47.5, y: -47}
+        - {x: 61.5, y: -46}
+        - {x: 75.5, y: -34}
+        - {x: 75.5, y: 23}
+    - name: royalgriffin_7
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1060
+        width: 144
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 60.5}
+        - {x: -72, y: 60.5}
+        - {x: -72, y: -43.5}
+        - {x: -32, y: -60.5}
+        - {x: 72, y: -60.5}
+        - {x: 72, y: 6.5}
+        - {x: 48, y: 55.5}
+    - name: royalgriffin_8
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1062
+        width: 115
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.5, y: 50.5}
+        - {x: -57.5, y: 25.5}
+        - {x: -52.5, y: 12.5}
+        - {x: -37.5, y: -1.5}
+        - {x: -44.5, y: -14.5}
+        - {x: -41.5, y: -21.5}
+        - {x: -37.5, y: -22.5}
+        - {x: -54.5, y: -35.5}
+        - {x: -57.5, y: -42.5}
+        - {x: -57.5, y: -50.5}
+        - {x: 31.5, y: -50.5}
+        - {x: 57.5, y: -45.5}
+        - {x: 57.5, y: 37.5}
+        - {x: 44.5, y: 50.5}
+    - name: royalgriffin_9
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1065
+        width: 109
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: -6.5}
+        - {x: 53.5, y: 2.5}
+        - {x: 52.5, y: 11.5}
+        - {x: 26.5, y: 56.5}
+        - {x: -54.5, y: 56.5}
+        - {x: -54.5, y: 6.5}
+        - {x: -52.5, y: -5.5}
+        - {x: -48.5, y: -14.5}
+        - {x: -43.5, y: -14.5}
+        - {x: -47.5, y: -24.5}
+        - {x: -47.5, y: -28.5}
+        - {x: -43.5, y: -32.5}
+        - {x: -37.5, y: -32.5}
+        - {x: -54.5, y: -32.5}
+        - {x: -54.5, y: -52.5}
+        - {x: -30.5, y: -56.5}
+        - {x: 54.5, y: -56.5}
+        - {x: 54.5, y: -6.5}
+        - {x: 49.5, y: -5.5}
+    - name: royalgriffin_10
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1055
+        width: 118
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 47.5}
+        - {x: -59, y: 34.5}
+        - {x: -59, y: 13.5}
+        - {x: -46, y: -9.5}
+        - {x: -40, y: -12.5}
+        - {x: -24, y: -10.5}
+        - {x: -16, y: -15.5}
+        - {x: -46, y: -13.5}
+        - {x: -56, y: -21.5}
+        - {x: -59, y: -32.5}
+        - {x: -59, y: -47.5}
+        - {x: 51, y: -47.5}
+        - {x: 59, y: -35.5}
+        - {x: 59, y: 38.5}
+        - {x: 49, y: 47.5}
+    - name: royalgriffin_11
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1033
+        width: 105
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -0.5}
+        - {x: 16.5, y: 0.5}
+        - {x: 30.5, y: 3.5}
+        - {x: 35.5, y: 11.5}
+        - {x: 46.5, y: 11.5}
+        - {x: 52.5, y: 16.5}
+        - {x: 52.5, y: 22.5}
+        - {x: 47.5, y: 31.5}
+        - {x: 52.5, y: 33.5}
+        - {x: 52.5, y: 37.5}
+        - {x: 47.5, y: 47.5}
+        - {x: 31.5, y: 60.5}
+        - {x: 17.5, y: 60.5}
+        - {x: 8.5, y: 58.5}
+        - {x: -52.5, y: 46.5}
+        - {x: -52.5, y: -42.5}
+        - {x: -43.5, y: -60.5}
+        - {x: -2.5, y: -60.5}
+        - {x: 52.5, y: -22.5}
+        - {x: 52.5, y: -11.5}
+    - name: royalgriffin_12
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1045
+        width: 88
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 56}
+        - {x: -44, y: 27}
+        - {x: -44, y: -49}
+        - {x: -28, y: -56}
+        - {x: 26, y: -56}
+        - {x: 44, y: -46}
+        - {x: 44, y: 56}
+    - name: royalgriffin_13
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1046
+        width: 83
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 55}
+        - {x: -38.5, y: 45}
+        - {x: -41.5, y: 41}
+        - {x: -41.5, y: -45}
+        - {x: -36.5, y: -55}
+        - {x: 14.5, y: -55}
+        - {x: 41.5, y: -35}
+        - {x: 41.5, y: 44}
+        - {x: 32.5, y: 55}
+    - name: royalgriffin_24
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 875
+        width: 162
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65, y: -13}
+        - {x: 77, y: -3}
+        - {x: 81, y: 6}
+        - {x: 81, y: 27}
+        - {x: 80, y: 28}
+        - {x: 74, y: 29}
+        - {x: 73, y: 32}
+        - {x: 69, y: 38}
+        - {x: 56, y: 55}
+        - {x: -81, y: 55}
+        - {x: -80, y: 52}
+        - {x: -61, y: 33}
+        - {x: -81, y: 2}
+        - {x: -81, y: -8}
+        - {x: 1, y: -52}
+        - {x: 25, y: -55}
+        - {x: 80, y: -55}
+        - {x: 81, y: -46}
+        - {x: 81, y: -19}
+        - {x: 72, y: -12}
+      - - {x: -21, y: -33}
+        - {x: -22, y: -35}
+        - {x: -22, y: -37}
+        - {x: -18, y: -40}
+        - {x: -8, y: -40}
+        - {x: -7, y: -38}
+        - {x: -7, y: -34}
+        - {x: -9, y: -33}
+    - name: royalgriffin_25
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 883
+        width: 209
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.5, y: -22.5}
+        - {x: 15.5, y: -22.5}
+        - {x: 25.5, y: -17.5}
+        - {x: 55.5, y: 2.5}
+        - {x: 84.5, y: 31.5}
+        - {x: 95.5, y: 62.5}
+        - {x: -104.5, y: 62.5}
+        - {x: -104.5, y: -28.5}
+        - {x: -72.5, y: -62.5}
+        - {x: 75.5, y: -62.5}
+        - {x: 104.5, y: -56.5}
+        - {x: 104.5, y: -40.5}
+        - {x: 100.5, y: -41.5}
+    - name: royalgriffin_26
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 879
+        width: 203
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: -14.5}
+        - {x: 13.5, y: -14.5}
+        - {x: 27.5, y: -13.5}
+        - {x: 77.5, y: -7.5}
+        - {x: 99.5, y: -0.5}
+        - {x: 99.5, y: 7.5}
+        - {x: 96.5, y: 8.5}
+        - {x: 22.5, y: 56.5}
+        - {x: -50.5, y: 56.5}
+        - {x: -101.5, y: 48.5}
+        - {x: -101.5, y: 33.5}
+        - {x: -91.5, y: 20.5}
+        - {x: -74.5, y: 10.5}
+        - {x: -73.5, y: -1.5}
+        - {x: -72.5, y: -7.5}
+        - {x: -71.5, y: -6.5}
+        - {x: -82.5, y: -6.5}
+        - {x: -97.5, y: -2.5}
+        - {x: -101.5, y: -1.5}
+        - {x: -101.5, y: -13.5}
+        - {x: -83.5, y: -25.5}
+        - {x: -70.5, y: -49.5}
+        - {x: -56.5, y: -56.5}
+        - {x: 101.5, y: -56.5}
+        - {x: 101.5, y: -52.5}
+        - {x: 33.5, y: -18.5}
+      - - {x: -70.5, y: -36.5}
+        - {x: -74.5, y: -38.5}
+        - {x: -74.5, y: -42.5}
+        - {x: -71.5, y: -44.5}
+        - {x: -62.5, y: -44.5}
+        - {x: -62.5, y: -38.5}
+        - {x: -67.5, y: -36.5}
+    - name: royalgriffin_27
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 867
+        width: 132
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66, y: 5.5}
+        - {x: -66, y: -33.5}
+        - {x: -61, y: -36.5}
+        - {x: -59, y: -36.5}
+        - {x: -55, y: -32.5}
+        - {x: -55, y: -31.5}
+        - {x: -54, y: -35.5}
+        - {x: -59, y: -49.5}
+        - {x: -23, y: -58.5}
+        - {x: 66, y: -58.5}
+        - {x: 66, y: 47.5}
+        - {x: 63, y: 58.5}
+        - {x: -8, y: 58.5}
+        - {x: -53, y: 48.5}
+    - name: royalgriffin_47
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 879
+        width: 133
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 47.5}
+        - {x: -65.5, y: -9.5}
+        - {x: -66.5, y: -12.5}
+        - {x: -66.5, y: -30.5}
+        - {x: -26.5, y: -26.5}
+        - {x: -17.5, y: -25.5}
+        - {x: -11.5, y: -25.5}
+        - {x: -10.5, y: -26.5}
+        - {x: -13.5, y: -25.5}
+        - {x: -17.5, y: -25.5}
+        - {x: -21.5, y: -28.5}
+        - {x: -63.5, y: -45.5}
+        - {x: -63.5, y: -47.5}
+        - {x: 58.5, y: -47.5}
+        - {x: 66.5, y: -46.5}
+        - {x: 66.5, y: 37.5}
+        - {x: 52.5, y: 47.5}
+    - name: royalgriffin_48
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 864
+        width: 101
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 57}
+        - {x: -50.5, y: 31}
+        - {x: -50.5, y: -26}
+        - {x: -41.5, y: -44}
+        - {x: 2.5, y: -57}
+        - {x: 29.5, y: -57}
+        - {x: 50.5, y: -38}
+        - {x: 50.5, y: 39}
+        - {x: 34.5, y: 57}
+      - - {x: -50.5, y: -20}
+        - {x: -50.5, y: -26}
+        - {x: -47.5, y: -28}
+        - {x: -43.5, y: -29}
+        - {x: -39.5, y: -29}
+        - {x: -38.5, y: -27}
+        - {x: -38.5, y: -24}
+        - {x: -43.5, y: -20}
+    - name: royalgriffin_64
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 693
+        width: 87
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 55}
+        - {x: -43.5, y: 13}
+        - {x: -43.5, y: -35}
+        - {x: -38.5, y: -40}
+        - {x: -19.5, y: -55}
+        - {x: 8.5, y: -55}
+        - {x: 43.5, y: -43}
+        - {x: 43.5, y: 40}
+        - {x: 23.5, y: 55}
+    - name: royalgriffin_65
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 708
+        width: 152
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 51}
+        - {x: -76, y: 1}
+        - {x: -76, y: -7}
+        - {x: -53, y: -9}
+        - {x: -22, y: 3}
+        - {x: -21, y: 4}
+        - {x: -8, y: 4}
+        - {x: -6, y: 2}
+        - {x: -2, y: 0}
+        - {x: 3, y: -2}
+        - {x: -4, y: -7}
+        - {x: -8, y: 3}
+        - {x: -14, y: 4}
+        - {x: -16, y: 2}
+        - {x: -31, y: -9}
+        - {x: -73, y: -42}
+        - {x: -73, y: -51}
+        - {x: 74, y: -51}
+        - {x: 76, y: -45}
+        - {x: 76, y: 12}
+        - {x: 39, y: 51}
+      - - {x: -73, y: -49}
+        - {x: -73, y: -46}
+        - {x: -76, y: -45}
+        - {x: -76, y: -50}
+    - name: royalgriffin_66
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 712
+        width: 119
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.5, y: -42.5}
+        - {x: 41.5, y: -40.5}
+        - {x: 59.5, y: -31.5}
+        - {x: 59.5, y: 12.5}
+        - {x: 57.5, y: 20.5}
+        - {x: -13.5, y: 64.5}
+        - {x: -14.5, y: 64.5}
+        - {x: -17.5, y: 62.5}
+        - {x: -19.5, y: 55.5}
+        - {x: -42.5, y: 64.5}
+        - {x: -59.5, y: 64.5}
+        - {x: -59.5, y: -54.5}
+        - {x: -50.5, y: -64.5}
+        - {x: 59.5, y: -64.5}
+        - {x: 59.5, y: -51.5}
+        - {x: 47.5, y: -46.5}
+    - name: royalgriffin_67
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 706
+        width: 115
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: -28.5}
+        - {x: 22.5, y: -28.5}
+        - {x: 24.5, y: -28.5}
+        - {x: 51.5, y: -21.5}
+        - {x: 56.5, y: 1.5}
+        - {x: 55.5, y: 6.5}
+        - {x: 52.5, y: 9.5}
+        - {x: 46.5, y: 10.5}
+        - {x: 48.5, y: 21.5}
+        - {x: 41.5, y: 46.5}
+        - {x: 9.5, y: 55.5}
+        - {x: -37.5, y: 55.5}
+        - {x: -51.5, y: 34.5}
+        - {x: -52.5, y: 15.5}
+        - {x: -44.5, y: 6.5}
+        - {x: -40.5, y: 2.5}
+        - {x: -46.5, y: 8.5}
+        - {x: -57.5, y: 15.5}
+        - {x: -57.5, y: -47.5}
+        - {x: -51.5, y: -50.5}
+        - {x: -45.5, y: -48.5}
+        - {x: -42.5, y: -48.5}
+        - {x: -41.5, y: -47.5}
+        - {x: -34.5, y: -47.5}
+        - {x: -43.5, y: -48.5}
+        - {x: -48.5, y: -51.5}
+        - {x: -47.5, y: -55.5}
+        - {x: 6.5, y: -55.5}
+        - {x: 54.5, y: -53.5}
+        - {x: 57.5, y: -45.5}
+        - {x: 57.5, y: -36.5}
+        - {x: 46.5, y: -29.5}
+    - name: royalgriffin_68
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 687
+        width: 109
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54.5, y: -24}
+        - {x: 54.5, y: -18}
+        - {x: 51.5, y: -17}
+        - {x: 54.5, y: -5}
+        - {x: 54.5, y: 3}
+        - {x: 45.5, y: 10}
+        - {x: 34.5, y: 11}
+        - {x: 32.5, y: 9}
+        - {x: 27.5, y: 19}
+        - {x: 42.5, y: 10}
+        - {x: 52.5, y: 23}
+        - {x: 51.5, y: 32}
+        - {x: 27.5, y: 52}
+        - {x: 21.5, y: 53}
+        - {x: -40.5, y: 53}
+        - {x: -54.5, y: 45}
+        - {x: -54.5, y: -26}
+        - {x: -30.5, y: -45}
+        - {x: -12.5, y: -53}
+        - {x: 4.5, y: -53}
+        - {x: 54.5, y: -32}
+        - {x: 54.5, y: -26}
+        - {x: 52.5, y: -25}
+    - name: royalgriffin_69
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 682
+        width: 94
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 33.5}
+        - {x: 35, y: 52.5}
+        - {x: 17, y: 52.5}
+        - {x: 6, y: 47.5}
+        - {x: -13, y: 37.5}
+        - {x: -21, y: 31.5}
+        - {x: -41, y: 43.5}
+        - {x: -47, y: 39.5}
+        - {x: -47, y: -16.5}
+        - {x: -43, y: -17.5}
+        - {x: -37, y: -17.5}
+        - {x: -41, y: -18.5}
+        - {x: -45, y: -21.5}
+        - {x: -44, y: -25.5}
+        - {x: 6, y: -52.5}
+        - {x: 26, y: -52.5}
+        - {x: 25, y: -34.5}
+        - {x: 36, y: -33.5}
+        - {x: 47, y: -26.5}
+    - name: royalgriffin_70
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 688
+        width: 89
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 40}
+        - {x: -44.5, y: -35}
+        - {x: -19.5, y: -55}
+        - {x: 44.5, y: -55}
+        - {x: 44.5, y: 55}
+        - {x: -37.5, y: 55}
+        - {x: -41.5, y: 53}
+    - name: royalgriffin_71
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 540
+        width: 89
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: -25}
+        - {x: 44.5, y: -4}
+        - {x: 44.5, y: 12}
+        - {x: 39.5, y: 20}
+        - {x: 13.5, y: 53}
+        - {x: -8.5, y: 53}
+        - {x: -9.5, y: 48}
+        - {x: -9.5, y: 44}
+        - {x: -11.5, y: 35}
+        - {x: -9.5, y: 46}
+        - {x: -9.5, y: 53}
+        - {x: -35.5, y: 53}
+        - {x: -44.5, y: 27}
+        - {x: -44.5, y: -53}
+        - {x: 25.5, y: -53}
+        - {x: 44.5, y: -31}
+        - {x: 44.5, y: -25}
+        - {x: 40.5, y: -23}
+    - name: royalgriffin_72
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 552
+        width: 158
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 79, y: 17}
+        - {x: 61, y: 49}
+        - {x: 31, y: 49}
+        - {x: -3, y: 41}
+        - {x: -44, y: 22}
+        - {x: -79, y: 5}
+        - {x: -79, y: -24}
+        - {x: -72, y: -42}
+        - {x: -69, y: -44}
+        - {x: -20, y: -49}
+        - {x: 70, y: -49}
+        - {x: 79, y: -45}
+      - - {x: -78, y: -40}
+        - {x: -77, y: -43}
+        - {x: -74, y: -43}
+        - {x: -72, y: -41}
+        - {x: -73, y: -38}
+        - {x: -76, y: -38}
+    - name: royalgriffin_73
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 546
+        width: 152
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76, y: 63}
+        - {x: -76, y: -46}
+        - {x: -73, y: -48}
+        - {x: -4, y: -63}
+        - {x: 76, y: -63}
+        - {x: 76, y: 63}
+    - name: royalgriffin_74
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 539
+        width: 169
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 84.5, y: 37}
+        - {x: 84.5, y: 44}
+        - {x: -84.5, y: 44}
+        - {x: -84.5, y: -44}
+        - {x: 60.5, y: -44}
+        - {x: 84.5, y: -3}
+        - {x: 84.5, y: 8}
+        - {x: 71.5, y: 8}
+    - name: royalgriffin_75
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 527
+        width: 196
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 91, y: 0}
+        - {x: 57, y: 2}
+        - {x: 36, y: 9}
+        - {x: 98, y: -1}
+        - {x: 98, y: 7}
+        - {x: 69, y: 32}
+        - {x: 24, y: 48}
+        - {x: -46, y: 48}
+        - {x: -98, y: -11}
+        - {x: -98, y: -19}
+        - {x: -97, y: -19}
+        - {x: -98, y: -32}
+        - {x: -98, y: -48}
+        - {x: 50, y: -48}
+        - {x: 98, y: -9}
+        - {x: 98, y: -7}
+    - name: royalgriffin_76
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 518
+        width: 141
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65.5, y: -2.5}
+        - {x: 64.5, y: 0.5}
+        - {x: 65.5, y: -0.5}
+        - {x: 70.5, y: -1.5}
+        - {x: 70.5, y: 10.5}
+        - {x: 44.5, y: 43.5}
+        - {x: -4.5, y: 51.5}
+        - {x: -47.5, y: 51.5}
+        - {x: -70.5, y: 11.5}
+        - {x: -70.5, y: -11.5}
+        - {x: -67.5, y: -15.5}
+        - {x: -62.5, y: -18.5}
+        - {x: -57.5, y: -16.5}
+        - {x: -55.5, y: -11.5}
+        - {x: -45.5, y: -0.5}
+        - {x: -41.5, y: -3.5}
+        - {x: -43.5, y: -4.5}
+        - {x: -45.5, y: -6.5}
+        - {x: -45.5, y: -7.5}
+        - {x: -42.5, y: -10.5}
+        - {x: -54.5, y: -15.5}
+        - {x: -58.5, y: -17.5}
+        - {x: -67.5, y: -22.5}
+        - {x: -70.5, y: -26.5}
+        - {x: -70.5, y: -50.5}
+        - {x: -69.5, y: -51.5}
+        - {x: -27.5, y: -51.5}
+        - {x: 23.5, y: -42.5}
+        - {x: 28.5, y: -29.5}
+        - {x: 26.5, y: -17.5}
+        - {x: 61.5, y: -6.5}
+    - name: royalgriffin_77
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 528
+        width: 109
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: -28}
+        - {x: 13.5, y: -29}
+        - {x: 14.5, y: -28}
+        - {x: 15.5, y: -29}
+        - {x: 23.5, y: -34}
+        - {x: 45.5, y: -49}
+        - {x: 54.5, y: -33}
+        - {x: 54.5, y: 54}
+        - {x: -16.5, y: 54}
+        - {x: -54.5, y: -16}
+        - {x: -54.5, y: -23}
+        - {x: -53.5, y: -26}
+        - {x: -49.5, y: -24}
+        - {x: -54.5, y: -44}
+        - {x: -54.5, y: -54}
+        - {x: -42.5, y: -54}
+        - {x: 19.5, y: -40}
+        - {x: 20.5, y: -32}
+        - {x: 17.5, y: -30}
+    - name: royalgriffin_78
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 533
+        width: 86
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 55.5}
+        - {x: -43, y: 35.5}
+        - {x: -43, y: -34.5}
+        - {x: -34, y: -55.5}
+        - {x: -10, y: -55.5}
+        - {x: 43, y: -33.5}
+        - {x: 43, y: 30.5}
+        - {x: 25, y: 55.5}
+    - name: royalgriffin_79
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 364
+        width: 108
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: -16.5}
+        - {x: 54, y: -1.5}
+        - {x: 54, y: 34.5}
+        - {x: 47, y: 37.5}
+        - {x: 42, y: 33.5}
+        - {x: 38, y: 28.5}
+        - {x: 37, y: 34.5}
+        - {x: 36, y: 47.5}
+        - {x: -40, y: 47.5}
+        - {x: -47, y: 23.5}
+        - {x: -54, y: -17.5}
+        - {x: -54, y: -47.5}
+        - {x: 36, y: -47.5}
+        - {x: 54, y: -30.5}
+        - {x: 54, y: -17.5}
+        - {x: 52, y: -15.5}
+    - name: royalgriffin_80
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 358
+        width: 123
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.5, y: -34}
+        - {x: 50.5, y: -32}
+        - {x: 61.5, y: -27}
+        - {x: 61.5, y: 53}
+        - {x: 60.5, y: 54}
+        - {x: -2.5, y: 54}
+        - {x: -61.5, y: 3}
+        - {x: -61.5, y: -46}
+        - {x: -59.5, y: -46}
+        - {x: -51.5, y: -44}
+        - {x: -43.5, y: -39}
+        - {x: -38.5, y: -34}
+        - {x: -35.5, y: -35}
+        - {x: -45.5, y: -40}
+        - {x: -52.5, y: -46}
+        - {x: -61.5, y: -53}
+        - {x: -61.5, y: -54}
+        - {x: -49.5, y: -54}
+        - {x: -38.5, y: -48}
+        - {x: 33.5, y: -44}
+        - {x: 55.5, y: -41}
+      - - {x: -54.5, y: 3}
+        - {x: -54.5, y: 1}
+        - {x: -52.5, y: -1}
+        - {x: -46.5, y: 0}
+        - {x: -40.5, y: 4}
+        - {x: -41.5, y: 7}
+        - {x: -52.5, y: 7}
+    - name: royalgriffin_81
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 369
+        width: 150
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 50}
+        - {x: -75, y: 0}
+        - {x: -75, y: -12}
+        - {x: -37, y: -19}
+        - {x: -71, y: -41}
+        - {x: -68, y: -48}
+        - {x: -37, y: -50}
+        - {x: 75, y: -50}
+        - {x: 75, y: 43}
+        - {x: 66, y: 50}
+      - - {x: -75, y: -45}
+        - {x: -71, y: -45}
+        - {x: -69, y: -43}
+        - {x: -70, y: -40}
+        - {x: -75, y: -40}
+      - - {x: -39, y: -15}
+        - {x: -45, y: -21}
+        - {x: -45, y: -25}
+        - {x: -43, y: -27}
+        - {x: -39, y: -27}
+        - {x: -36, y: -22}
+        - {x: -36, y: -16}
+      - - {x: -30, y: 34}
+        - {x: -36, y: 32}
+        - {x: -36, y: 29}
+        - {x: -34, y: 26}
+        - {x: -18, y: 26}
+        - {x: -17, y: 29}
+        - {x: -18, y: 32}
+        - {x: -23, y: 34}
+      - - {x: -45, y: 43}
+        - {x: -45, y: 41}
+        - {x: -44, y: 39}
+        - {x: -35, y: 39}
+        - {x: -34, y: 42}
+        - {x: -35, y: 45}
+        - {x: -42, y: 45}
+    - name: royalgriffin_82
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 360
+        width: 134
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 54}
+        - {x: -5, y: 54}
+        - {x: -50, y: 45}
+        - {x: -67, y: -30}
+        - {x: -67, y: -41}
+        - {x: -66, y: -42}
+        - {x: -45, y: -38}
+        - {x: -28, y: -20}
+        - {x: -24, y: -27}
+        - {x: -67, y: -51}
+        - {x: -67, y: -54}
+        - {x: -22, y: -54}
+        - {x: 60, y: -45}
+        - {x: 67, y: -43}
+        - {x: 67, y: 29}
+        - {x: 38, y: 46}
+      - - {x: -48, y: 16}
+        - {x: -54, y: 14}
+        - {x: -54, y: 11}
+        - {x: -53, y: 8}
+        - {x: -36, y: 8}
+        - {x: -35, y: 11}
+        - {x: -36, y: 14}
+        - {x: -41, y: 16}
+      - - {x: -67, y: 27}
+        - {x: -67, y: 22}
+        - {x: -59, y: 22}
+        - {x: -58, y: 25}
+        - {x: -59, y: 28}
+        - {x: -66, y: 28}
+    - name: royalgriffin_83
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 363
+        width: 134
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: -12.5}
+        - {x: 40, y: -7.5}
+        - {x: 51, y: -17.5}
+        - {x: 64, y: -18.5}
+        - {x: 67, y: -12.5}
+        - {x: 67, y: 22.5}
+        - {x: 43, y: 50.5}
+        - {x: -30, y: 50.5}
+        - {x: -36, y: 48.5}
+        - {x: -52, y: -23.5}
+        - {x: -52, y: -50.5}
+        - {x: 53, y: -50.5}
+        - {x: 67, y: -35.5}
+        - {x: 67, y: -28.5}
+        - {x: 45, y: -28.5}
+      - - {x: -65, y: -33.5}
+        - {x: -67, y: -35.5}
+        - {x: -67, y: -47.5}
+        - {x: -65, y: -47.5}
+        - {x: -63, y: -45.5}
+        - {x: -62, y: -35.5}
+        - {x: -63, y: -33.5}
+    - name: royalgriffin_84
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 398
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -16.5}
+        - {x: -9.5, y: -24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 3.5}
+        - {x: 23.5, y: 11.5}
+        - {x: 18.5, y: 24.5}
+        - {x: -1.5, y: 24.5}
+        - {x: -24.5, y: 12.5}
+    - name: royalgriffin_85
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 398
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 24.5}
+        - {x: -25.5, y: 4.5}
+        - {x: -25.5, y: -15.5}
+        - {x: -13.5, y: -24.5}
+        - {x: 25.5, y: -24.5}
+        - {x: 25.5, y: 19.5}
+        - {x: 16.5, y: 24.5}
+    - name: royalgriffin_86
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 398
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 24.5}
+        - {x: -9.5, y: 9.5}
+        - {x: -9.5, y: 4.5}
+        - {x: -11.5, y: 7.5}
+        - {x: -17.5, y: 7.5}
+        - {x: -23.5, y: 6.5}
+        - {x: -27.5, y: -3.5}
+        - {x: -27.5, y: -12.5}
+        - {x: -7.5, y: -24.5}
+        - {x: 27.5, y: -24.5}
+        - {x: 27.5, y: -16.5}
+        - {x: 22.5, y: 9.5}
+        - {x: 16.5, y: 24.5}
+    - name: royalgriffin_87
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 398
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 25}
+        - {x: -25.5, y: 6}
+        - {x: -25.5, y: -18}
+        - {x: -1.5, y: -25}
+        - {x: 25.5, y: -25}
+        - {x: 25.5, y: 8}
+        - {x: 16.5, y: 25}
+    - name: royalgriffin_88
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 384
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: royalgriffin_89
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 365
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: royalgriffin_90
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 361
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: royalgriffin_91
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 197
+        width: 151
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61.5, y: -16.5}
+        - {x: 75.5, y: 13.5}
+        - {x: 75.5, y: 34.5}
+        - {x: 58.5, y: 48.5}
+        - {x: -12.5, y: 48.5}
+        - {x: -75.5, y: 13.5}
+        - {x: -75.5, y: -15.5}
+        - {x: -69.5, y: -22.5}
+        - {x: -54.5, y: -19.5}
+        - {x: -20.5, y: -27.5}
+        - {x: -13.5, y: -27.5}
+        - {x: -12.5, y: -26.5}
+        - {x: -6.5, y: -26.5}
+        - {x: -9.5, y: -26.5}
+        - {x: -10.5, y: -27.5}
+        - {x: -13.5, y: -27.5}
+        - {x: -43.5, y: -34.5}
+        - {x: -75.5, y: -43.5}
+        - {x: -75.5, y: -48.5}
+        - {x: 58.5, y: -48.5}
+        - {x: 75.5, y: -38.5}
+        - {x: 75.5, y: -21.5}
+        - {x: 68.5, y: -18.5}
+      - - {x: -19.5, y: -4.5}
+        - {x: -26.5, y: -4.5}
+        - {x: -29.5, y: -10.5}
+        - {x: -29.5, y: -15.5}
+        - {x: -23.5, y: -15.5}
+        - {x: -17.5, y: -8.5}
+        - {x: -17.5, y: -5.5}
+    - name: royalgriffin_92
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 198
+        width: 154
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 58}
+        - {x: -74, y: 58}
+        - {x: -77, y: 43}
+        - {x: -77, y: -53}
+        - {x: -49, y: -58}
+        - {x: 77, y: -58}
+        - {x: 77, y: 37}
+        - {x: 30, y: 56}
+      - - {x: -11, y: -36}
+        - {x: -5, y: -36}
+        - {x: 1, y: -32}
+        - {x: 1, y: -27}
+        - {x: 0, y: -25}
+        - {x: -2, y: -25}
+        - {x: -4, y: -26}
+        - {x: -11, y: -31}
+      - - {x: -34, y: -8}
+        - {x: -37, y: -11}
+        - {x: -36, y: -14}
+        - {x: -29, y: -14}
+        - {x: -20, y: -7}
+        - {x: -21, y: -4}
+        - {x: -25, y: -4}
+      - - {x: -75, y: 21}
+        - {x: -75, y: 19}
+        - {x: -72, y: 16}
+        - {x: -64, y: 16}
+        - {x: -57, y: 20}
+        - {x: -58, y: 23}
+        - {x: -70, y: 23}
+      - - {x: -25, y: 51}
+        - {x: -25, y: 46}
+        - {x: -16, y: 40}
+        - {x: -10, y: 40}
+        - {x: -9, y: 42}
+        - {x: -9, y: 45}
+        - {x: -14, y: 51}
+      - - {x: 12, y: 58}
+        - {x: 12, y: 56}
+        - {x: 16, y: 52}
+        - {x: 19, y: 52}
+        - {x: 21, y: 54}
+        - {x: 21, y: 55}
+        - {x: 18, y: 58}
+    - name: royalgriffin_93
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 185
+        width: 135
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: 71}
+        - {x: -62.5, y: -57}
+        - {x: -62.5, y: -65}
+        - {x: -61.5, y: -68}
+        - {x: -57.5, y: -68}
+        - {x: -47.5, y: -66}
+        - {x: -42.5, y: -62}
+        - {x: -41.5, y: -63}
+        - {x: -39.5, y: -63}
+        - {x: -30.5, y: -56}
+        - {x: -24.5, y: -54}
+        - {x: -19.5, y: -52}
+        - {x: -32.5, y: -59}
+        - {x: -40.5, y: -64}
+        - {x: -45.5, y: -65}
+        - {x: -48.5, y: -67}
+        - {x: -50.5, y: -67}
+        - {x: -55.5, y: -69}
+        - {x: -56.5, y: -71}
+        - {x: 7.5, y: -71}
+        - {x: 50.5, y: -68}
+        - {x: 67.5, y: -66}
+        - {x: 67.5, y: 54}
+        - {x: 39.5, y: 71}
+      - - {x: -66.5, y: -34}
+        - {x: -67.5, y: -39}
+        - {x: -67.5, y: -51}
+        - {x: -62.5, y: -51}
+        - {x: -60.5, y: -49}
+        - {x: -60.5, y: -34}
+      - - {x: -32.5, y: 4}
+        - {x: -38.5, y: 0}
+        - {x: -41.5, y: -9}
+        - {x: -41.5, y: -16}
+        - {x: -40.5, y: -17}
+        - {x: -35.5, y: -17}
+        - {x: -33.5, y: -16}
+        - {x: -29.5, y: -1}
+        - {x: -29.5, y: 3}
+      - - {x: -25.5, y: 39}
+        - {x: -26.5, y: 37}
+        - {x: -26.5, y: 34}
+        - {x: -21.5, y: 29}
+        - {x: -16.5, y: 29}
+        - {x: -15.5, y: 31}
+        - {x: -15.5, y: 34}
+        - {x: -22.5, y: 39}
+      - - {x: 42.5, y: 47}
+        - {x: 43.5, y: 45}
+        - {x: 46.5, y: 45}
+        - {x: 50.5, y: 46}
+        - {x: 50.5, y: 54}
+        - {x: 49.5, y: 58}
+        - {x: 46.5, y: 58}
+        - {x: 43.5, y: 54}
+      - - {x: 4.5, y: 60}
+        - {x: 4.5, y: 50}
+        - {x: 8.5, y: 47}
+        - {x: 12.5, y: 47}
+        - {x: 14.5, y: 48}
+        - {x: 14.5, y: 52}
+        - {x: 13.5, y: 57}
+        - {x: 9.5, y: 60}
+    - name: royalgriffin_95
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 189
+        width: 150
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73, y: -50.5}
+        - {x: -75, y: -53.5}
+        - {x: -75, y: -64.5}
+        - {x: -70, y: -64.5}
+        - {x: -69, y: -59.5}
+        - {x: -69, y: -50.5}
+      - - {x: -38, y: -56.5}
+        - {x: -41, y: -59.5}
+        - {x: -40, y: -62.5}
+        - {x: -33, y: -62.5}
+        - {x: -24, y: -55.5}
+        - {x: -25, y: -52.5}
+        - {x: -29, y: -52.5}
+      - - {x: 71, y: 17.5}
+        - {x: 75, y: 45.5}
+        - {x: 75, y: 55.5}
+        - {x: 71, y: 64.5}
+        - {x: 65, y: 64.5}
+        - {x: 60, y: 60.5}
+        - {x: 53, y: 54.5}
+        - {x: 21, y: 37.5}
+        - {x: -15, y: -23.5}
+        - {x: -15, y: -50.5}
+        - {x: -11, y: -62.5}
+        - {x: 68, y: -62.5}
+        - {x: 75, y: -48.5}
+        - {x: 75, y: 15.5}
+        - {x: 72, y: 17.5}
+      - - {x: -42, y: -20.5}
+        - {x: -51, y: -27.5}
+        - {x: -51, y: -41.5}
+        - {x: -43, y: -41.5}
+        - {x: -39, y: -30.5}
+        - {x: -39, y: -21.5}
+      - - {x: -1, y: 4.5}
+        - {x: -4, y: 1.5}
+        - {x: -4, y: -3.5}
+        - {x: -3, y: -5.5}
+        - {x: 2, y: -5.5}
+        - {x: 9, y: 0.5}
+        - {x: 9, y: 2.5}
+        - {x: 8, y: 4.5}
+      - - {x: -36, y: 26.5}
+        - {x: -37, y: 24.5}
+        - {x: -37, y: 21.5}
+        - {x: -32, y: 16.5}
+        - {x: -27, y: 16.5}
+        - {x: -26, y: 18.5}
+        - {x: -26, y: 21.5}
+        - {x: -33, y: 26.5}
+      - - {x: 66, y: 34.5}
+        - {x: 65, y: 31.5}
+        - {x: 68, y: 28.5}
+        - {x: 72, y: 28.5}
+        - {x: 75, y: 30.5}
+        - {x: 75, y: 34.5}
+      - - {x: -6, y: 47.5}
+        - {x: -6, y: 37.5}
+        - {x: -2, y: 34.5}
+        - {x: 2, y: 34.5}
+        - {x: 4, y: 35.5}
+        - {x: 4, y: 39.5}
+        - {x: 3, y: 44.5}
+        - {x: -1, y: 47.5}
+      - - {x: 40, y: 54.5}
+        - {x: 36, y: 52.5}
+        - {x: 34, y: 44.5}
+        - {x: 34, y: 36.5}
+        - {x: 39, y: 36.5}
+        - {x: 43, y: 44.5}
+        - {x: 43, y: 53.5}
+    - name: royalgriffin_96
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 193
+        width: 150
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55, y: 59}
+        - {x: 35, y: 47}
+        - {x: 24, y: 27}
+        - {x: -14, y: 6}
+        - {x: -14, y: -59}
+        - {x: 75, y: -59}
+        - {x: 75, y: 27}
+        - {x: 68, y: 59}
+      - - {x: -51, y: -49}
+        - {x: -51, y: -52}
+        - {x: -50, y: -55}
+        - {x: -46, y: -55}
+        - {x: -43, y: -54}
+        - {x: -41, y: -46}
+        - {x: -41, y: -43}
+        - {x: -44, y: -42}
+      - - {x: -68, y: -41}
+        - {x: -75, y: -46}
+        - {x: -75, y: -54}
+        - {x: -73, y: -54}
+        - {x: -63, y: -44}
+        - {x: -63, y: -42}
+        - {x: -65, y: -41}
+      - - {x: -17, y: -24}
+        - {x: -27, y: -30}
+        - {x: -27, y: -36}
+        - {x: -26, y: -37}
+        - {x: -19, y: -37}
+        - {x: -11, y: -30}
+        - {x: -11, y: -25}
+        - {x: -13, y: -23}
+      - - {x: -24, y: -7}
+        - {x: -24, y: -16}
+        - {x: -22, y: -17}
+        - {x: -20, y: -17}
+        - {x: -16, y: -12}
+        - {x: -15, y: -6}
+        - {x: -18, y: -4}
+      - - {x: 64, y: -14}
+        - {x: 67, y: -17}
+        - {x: 71, y: -17}
+        - {x: 75, y: -14}
+        - {x: 74, y: -11}
+        - {x: 65, y: -11}
+      - - {x: -38, y: 9}
+        - {x: -39, y: 7}
+        - {x: -39, y: 4}
+        - {x: -34, y: -1}
+        - {x: -29, y: -1}
+        - {x: -28, y: 1}
+        - {x: -28, y: 4}
+        - {x: -35, y: 9}
+      - - {x: -8, y: 30}
+        - {x: -8, y: 20}
+        - {x: -4, y: 17}
+        - {x: 0, y: 17}
+        - {x: 2, y: 18}
+        - {x: 2, y: 22}
+        - {x: 1, y: 27}
+        - {x: -3, y: 30}
+      - - {x: 14, y: 37}
+        - {x: 14, y: 25}
+        - {x: 19, y: 25}
+        - {x: 21, y: 26}
+        - {x: 22, y: 34}
+        - {x: 22, y: 39}
+        - {x: 19, y: 40}
+    - name: royalgriffin_97
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 191
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: -36}
+        - {x: 51, y: -36}
+        - {x: 59, y: -34}
+        - {x: 60, y: -34}
+        - {x: 60, y: 37}
+        - {x: 37, y: 52}
+        - {x: -11, y: 52}
+        - {x: -40, y: 17}
+        - {x: -45, y: -22}
+        - {x: -45, y: -45}
+        - {x: -34, y: -52}
+        - {x: 7, y: -52}
+        - {x: 56, y: -43}
+        - {x: 54, y: -38}
+        - {x: 52, y: -36}
+      - - {x: -47, y: -31}
+        - {x: -43, y: -31}
+        - {x: -38, y: -27}
+        - {x: -38, y: -20}
+        - {x: -41, y: -18}
+        - {x: -47, y: -21}
+      - - {x: -60, y: -5}
+        - {x: -60, y: -12}
+        - {x: -57, y: -15}
+        - {x: -53, y: -15}
+        - {x: -51, y: -14}
+        - {x: -51, y: -12}
+        - {x: -55, y: -6}
+      - - {x: -38, y: 13}
+        - {x: -40, y: 12}
+        - {x: -40, y: 5}
+        - {x: -39, y: 2}
+        - {x: -34, y: 0}
+        - {x: -30, y: 0}
+        - {x: -30, y: 7}
+        - {x: -33, y: 13}
+      - - {x: 29, y: 43}
+        - {x: 21, y: 38}
+        - {x: 21, y: 34}
+        - {x: 23, y: 32}
+        - {x: 30, y: 32}
+        - {x: 32, y: 37}
+        - {x: 32, y: 43}
+    - name: royalgriffin_100
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 193
+        width: 110
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: -2.5}
+        - {x: 37, y: -1.5}
+        - {x: 49, y: -2.5}
+        - {x: 52, y: -1.5}
+        - {x: 55, y: 1.5}
+        - {x: 54, y: 4.5}
+        - {x: 50, y: 4.5}
+        - {x: 52, y: 4.5}
+        - {x: 55, y: 7.5}
+        - {x: 55, y: 20.5}
+        - {x: 23, y: 34.5}
+        - {x: -38, y: 34.5}
+        - {x: -42, y: 33.5}
+        - {x: -42, y: -34.5}
+        - {x: 31, y: -34.5}
+        - {x: 55, y: -27.5}
+        - {x: 55, y: -11.5}
+        - {x: 47, y: -3.5}
+      - - {x: -53, y: -23.5}
+        - {x: -55, y: -26.5}
+        - {x: -55, y: -33.5}
+        - {x: -52, y: -33.5}
+        - {x: -43, y: -28.5}
+        - {x: -43, y: -26.5}
+        - {x: -45, y: -23.5}
+      - - {x: 21, y: 34.5}
+        - {x: 15, y: 30.5}
+        - {x: 15, y: 26.5}
+        - {x: 17, y: 24.5}
+        - {x: 24, y: 24.5}
+        - {x: 26, y: 29.5}
+        - {x: 26, y: 34.5}
+    - name: royalgriffin_104
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 192
+        width: 87
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: 22.5}
+        - {x: -43.5, y: 22.5}
+        - {x: -43.5, y: -16.5}
+        - {x: -33.5, y: -22.5}
+        - {x: 33.5, y: -22.5}
+        - {x: 34.5, y: -21.5}
+        - {x: 43.5, y: -15.5}
+        - {x: 43.5, y: 17.5}
+    - name: royalgriffin_114
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 12
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.5, y: -7}
+        - {x: 46.5, y: 21}
+        - {x: 29.5, y: 47}
+        - {x: -5.5, y: 47}
+        - {x: -6.5, y: 44}
+        - {x: -14.5, y: 47}
+        - {x: -46.5, y: 47}
+        - {x: -46.5, y: -47}
+        - {x: 41.5, y: -47}
+        - {x: 46.5, y: -38}
+        - {x: 46.5, y: -32}
+        - {x: 35.5, y: -32}
+    - name: royalgriffin_115
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 12
+        width: 87
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.5, y: 48}
+        - {x: -43.5, y: -48}
+        - {x: 43.5, y: -48}
+        - {x: 43.5, y: 35}
+        - {x: 39.5, y: 48}
+    - name: royalgriffin_116
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 8
+        width: 138
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54, y: -36}
+        - {x: 56, y: -37}
+        - {x: 63, y: -40}
+        - {x: 69, y: -38}
+        - {x: 69, y: 31}
+        - {x: 39, y: 49}
+        - {x: -7, y: 49}
+        - {x: -24, y: 46}
+        - {x: -69, y: -17}
+        - {x: -69, y: -30}
+        - {x: -50, y: -29}
+        - {x: -69, y: -45}
+        - {x: -69, y: -49}
+        - {x: 52, y: -49}
+        - {x: 57, y: -40}
+        - {x: 56, y: -38}
+    - name: royalgriffin_117
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 10
+        width: 180
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 90, y: -45}
+        - {x: 90, y: 19}
+        - {x: 89, y: 20}
+        - {x: 74, y: 15}
+        - {x: 76, y: 20}
+        - {x: 71, y: 27}
+        - {x: 54, y: 44}
+        - {x: -4, y: 55}
+        - {x: -33, y: 55}
+        - {x: -90, y: 21}
+        - {x: -90, y: -39}
+        - {x: -70, y: -41}
+        - {x: 8, y: -55}
+        - {x: 78, y: -55}
+        - {x: 81, y: -48}
+        - {x: 76, y: -45}
+        - {x: 68, y: -45}
+    - name: royalgriffin_118
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 10
+        width: 183
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 77.5, y: 9}
+        - {x: 76.5, y: 6}
+        - {x: 74.5, y: -2}
+        - {x: 76.5, y: 8}
+        - {x: 59.5, y: 41}
+        - {x: 3.5, y: 62}
+        - {x: -91.5, y: 62}
+        - {x: -91.5, y: -62}
+        - {x: 91.5, y: -62}
+        - {x: 91.5, y: 18}
+        - {x: 82.5, y: 16}
+    - name: royalgriffin_130
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 53
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

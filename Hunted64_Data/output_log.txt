@@ -1,0 +1,45 @@
+Initialize engine version: 5.3.1f1 (cc9cbbcc37b4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970M (ID=0x13d8)
+    Vendor:   NVIDIA
+    VRAM:     3029 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\GameDev\_Projects\Unity\hunter\Hunted64_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\GameDev\_Projects\Unity\hunter\Hunted64_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\GameDev\_Projects\Unity\hunter\Hunted64_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\GameDev\_Projects\Unity\hunter\Hunted64_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\GameDev\_Projects\Unity\hunter\Hunted64_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\GameDev\_Projects\Unity\hunter\Hunted64_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\GameDev\_Projects\Unity\hunter\Hunted64_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\GameDev\_Projects\Unity\hunter\Hunted64_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.303 seconds
+Platform assembly: D:\GameDev\_Projects\Unity\hunter\Hunted64_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\GameDev\_Projects\Unity\hunter\Hunted64_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 23.006300 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.263400 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 726.
+Total: 0.810000 ms (FindLiveObjects: 0.042000 ms CreateObjectMapping: 0.032300 ms MarkObjects: 0.723300 ms  DeleteObjects: 0.006700 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.740900 ms
+
+Unloading 205 unused Assets to reduce memory usage. Loaded Objects now: 196.
+Total: 0.332700 ms (FindLiveObjects: 0.032400 ms CreateObjectMapping: 0.015700 ms MarkObjects: 0.202300 ms  DeleteObjects: 0.081700 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.710600 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 217.
+Total: 0.217100 ms (FindLiveObjects: 0.016400 ms CreateObjectMapping: 0.006100 ms MarkObjects: 0.187900 ms  DeleteObjects: 0.005900 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1c60 -> priority: 1 
+  Thread -> id: 1efc -> priority: 1 

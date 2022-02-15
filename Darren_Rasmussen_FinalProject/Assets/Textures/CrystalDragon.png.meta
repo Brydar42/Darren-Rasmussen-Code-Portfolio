@@ -1,0 +1,3408 @@
+fileFormatVersion: 2
+guid: 52d3a3b94b1abb644a84f601167e60c8
+timeCreated: 1460755219
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CrystalDragon_0
+    21300002: CrystalDragon_1
+    21300004: CrystalDragon_2
+    21300006: CrystalDragon_3
+    21300008: CrystalDragon_4
+    21300010: CrystalDragon_5
+    21300012: CrystalDragon_6
+    21300014: CrystalDragon_7
+    21300016: CrystalDragon_8
+    21300018: CrystalDragon_9
+    21300020: CrystalDragon_10
+    21300022: CrystalDragon_11
+    21300024: CrystalDragon_12
+    21300026: CrystalDragon_13
+    21300028: CrystalDragon_14
+    21300030: CrystalDragon_15
+    21300032: CrystalDragon_16
+    21300034: CrystalDragon_17
+    21300036: CrystalDragon_18
+    21300038: CrystalDragon_19
+    21300040: CrystalDragon_20
+    21300042: CrystalDragon_21
+    21300044: CrystalDragon_22
+    21300046: CrystalDragon_23
+    21300048: CrystalDragon_24
+    21300050: CrystalDragon_25
+    21300052: CrystalDragon_26
+    21300054: CrystalDragon_27
+    21300056: CrystalDragon_28
+    21300058: CrystalDragon_29
+    21300060: CrystalDragon_30
+    21300062: CrystalDragon_31
+    21300064: CrystalDragon_32
+    21300066: CrystalDragon_33
+    21300068: CrystalDragon_34
+    21300070: CrystalDragon_35
+    21300072: CrystalDragon_36
+    21300074: CrystalDragon_37
+    21300076: CrystalDragon_38
+    21300078: CrystalDragon_39
+    21300080: CrystalDragon_40
+    21300082: CrystalDragon_41
+    21300084: CrystalDragon_42
+    21300086: CrystalDragon_43
+    21300088: CrystalDragon_44
+    21300090: CrystalDragon_45
+    21300092: CrystalDragon_46
+    21300094: CrystalDragon_47
+    21300096: CrystalDragon_48
+    21300098: CrystalDragon_49
+    21300100: CrystalDragon_50
+    21300102: CrystalDragon_51
+    21300104: CrystalDragon_52
+    21300106: CrystalDragon_53
+    21300108: CrystalDragon_54
+    21300110: CrystalDragon_55
+    21300112: CrystalDragon_56
+    21300114: CrystalDragon_57
+    21300116: CrystalDragon_58
+    21300118: CrystalDragon_59
+    21300120: CrystalDragon_60
+    21300122: CrystalDragon_61
+    21300124: CrystalDragon_62
+    21300126: CrystalDragon_63
+    21300128: CrystalDragon_64
+    21300130: CrystalDragon_65
+    21300132: CrystalDragon_66
+    21300134: CrystalDragon_67
+    21300136: CrystalDragon_68
+    21300138: CrystalDragon_69
+    21300140: CrystalDragon_70
+    21300142: CrystalDragon_71
+    21300144: CrystalDragon_72
+    21300146: CrystalDragon_73
+    21300148: CrystalDragon_74
+    21300150: CrystalDragon_75
+    21300152: CrystalDragon_76
+    21300154: CrystalDragon_77
+    21300156: CrystalDragon_78
+    21300158: CrystalDragon_79
+    21300160: CrystalDragon_80
+    21300162: CrystalDragon_81
+    21300164: CrystalDragon_82
+    21300166: CrystalDragon_83
+    21300168: CrystalDragon_84
+    21300170: CrystalDragon_85
+    21300172: CrystalDragon_86
+    21300174: CrystalDragon_87
+    21300176: CrystalDragon_88
+    21300178: CrystalDragon_89
+    21300180: CrystalDragon_90
+    21300182: CrystalDragon_91
+    21300184: CrystalDragon_92
+    21300186: CrystalDragon_93
+    21300188: CrystalDragon_94
+    21300190: CrystalDragon_95
+    21300192: CrystalDragon_96
+    21300194: CrystalDragon_97
+    21300196: CrystalDragon_98
+    21300198: CrystalDragon_99
+    21300200: CrystalDragon_100
+    21300202: CrystalDragon_101
+    21300204: CrystalDragon_102
+    21300206: CrystalDragon_103
+    21300208: CrystalDragon_104
+    21300210: CrystalDragon_105
+    21300212: CrystalDragon_106
+    21300214: CrystalDragon_107
+    21300216: CrystalDragon_108
+    21300218: CrystalDragon_109
+    21300220: CrystalDragon_110
+    21300222: CrystalDragon_111
+    21300224: CrystalDragon_112
+    21300226: CrystalDragon_113
+    21300228: CrystalDragon_114
+    21300230: CrystalDragon_115
+    21300232: CrystalDragon_116
+    21300234: CrystalDragon_117
+    21300236: CrystalDragon_118
+    21300238: CrystalDragon_119
+    21300240: CrystalDragon_120
+    21300242: CrystalDragon_121
+    21300244: CrystalDragon_122
+    21300246: CrystalDragon_123
+    21300248: CrystalDragon_124
+    21300250: CrystalDragon_125
+    21300252: CrystalDragon_126
+    21300254: CrystalDragon_127
+    21300256: CrystalDragon_128
+    21300258: CrystalDragon_129
+    21300260: CrystalDragon_130
+    21300262: CrystalDragon_131
+    21300264: CrystalDragon_132
+    21300266: CrystalDragon_133
+    21300268: CrystalDragon_134
+    21300270: CrystalDragon_135
+    21300272: CrystalDragon_136
+    21300274: CrystalDragon_137
+    21300276: CrystalDragon_138
+    21300278: CrystalDragon_139
+    21300280: CrystalDragon_140
+    21300282: CrystalDragon_141
+    21300284: CrystalDragon_142
+    21300286: CrystalDragon_143
+    21300288: CrystalDragon_144
+    21300290: CrystalDragon_145
+    21300292: CrystalDragon_146
+    21300294: CrystalDragon_147
+    21300296: CrystalDragon_148
+    21300298: CrystalDragon_149
+    21300300: CrystalDragon_150
+    21300302: CrystalDragon_151
+    21300304: CrystalDragon_152
+    21300306: CrystalDragon_153
+    21300308: CrystalDragon_154
+    21300310: CrystalDragon_155
+    21300312: CrystalDragon_156
+    21300314: CrystalDragon_157
+    21300316: CrystalDragon_158
+    21300318: CrystalDragon_159
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CrystalDragon_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1288
+        width: 85
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 56.5}
+        - {x: -42.5, y: -6.5}
+        - {x: -42.5, y: -55.5}
+        - {x: -39.5, y: -56.5}
+        - {x: 42.5, y: -56.5}
+        - {x: 42.5, y: 50.5}
+        - {x: 31.5, y: 56.5}
+    - name: CrystalDragon_1
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1288
+        width: 85
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 56.5}
+        - {x: -0.5, y: 44.5}
+        - {x: -27.5, y: 20.5}
+        - {x: -42.5, y: -22.5}
+        - {x: -42.5, y: -56.5}
+        - {x: 42.5, y: -56.5}
+        - {x: 42.5, y: 30.5}
+        - {x: 22.5, y: 56.5}
+    - name: CrystalDragon_2
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1288
+        width: 84
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: 11.5}
+        - {x: 42, y: 31.5}
+        - {x: 24, y: 56.5}
+        - {x: 0, y: 56.5}
+        - {x: -42, y: -5.5}
+        - {x: -42, y: -56.5}
+        - {x: 34, y: -56.5}
+        - {x: 42, y: -45.5}
+        - {x: 42, y: 5.5}
+        - {x: 39, y: 7.5}
+    - name: CrystalDragon_3
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1288
+        width: 84
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 56.5}
+        - {x: -6, y: 56.5}
+        - {x: -41, y: -1.5}
+        - {x: -42, y: -15.5}
+        - {x: -42, y: -52.5}
+        - {x: -36, y: -56.5}
+        - {x: 19, y: -56.5}
+        - {x: 26, y: -54.5}
+        - {x: 42, y: -46.5}
+        - {x: 42, y: 45.5}
+    - name: CrystalDragon_4
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1288
+        width: 84
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: 0.5}
+        - {x: 42, y: 47.5}
+        - {x: 34, y: 58.5}
+        - {x: -7, y: 58.5}
+        - {x: -8, y: 56.5}
+        - {x: -42, y: 1.5}
+        - {x: -42, y: -58.5}
+        - {x: 36, y: -58.5}
+        - {x: 42, y: -55.5}
+        - {x: 42, y: 0.5}
+        - {x: 41, y: 0.5}
+    - name: CrystalDragon_5
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1288
+        width: 86
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: -39}
+        - {x: 43, y: -27}
+        - {x: 39, y: -22}
+        - {x: 33, y: -21}
+        - {x: 28, y: -21}
+        - {x: 37, y: -21}
+        - {x: 40, y: -18}
+        - {x: 40, y: -17}
+        - {x: 43, y: -9}
+        - {x: 43, y: 1}
+        - {x: 36, y: 11}
+        - {x: 27, y: 12}
+        - {x: 39, y: 29}
+        - {x: 43, y: 42}
+        - {x: 43, y: 48}
+        - {x: 19, y: 60}
+        - {x: -21, y: 60}
+        - {x: -43, y: -7}
+        - {x: -43, y: -60}
+        - {x: 16, y: -60}
+        - {x: 24, y: -58}
+        - {x: 22, y: -51}
+        - {x: 30, y: -48}
+    - name: CrystalDragon_6
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1288
+        width: 85
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.5, y: -49.5}
+        - {x: 42.5, y: 59.5}
+        - {x: -13.5, y: 59.5}
+        - {x: -39.5, y: 21.5}
+        - {x: -42.5, y: 8.5}
+        - {x: -42.5, y: -59.5}
+        - {x: 17.5, y: -59.5}
+        - {x: 21.5, y: -57.5}
+        - {x: 18.5, y: -51.5}
+        - {x: 13.5, y: -46.5}
+    - name: CrystalDragon_7
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1288
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 59}
+        - {x: -40.5, y: -3}
+        - {x: -40.5, y: -59}
+        - {x: 40.5, y: -59}
+        - {x: 40.5, y: 49}
+        - {x: 17.5, y: 59}
+    - name: CrystalDragon_8
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1288
+        width: 88
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: -29}
+        - {x: 37, y: -29}
+        - {x: 44, y: -27}
+        - {x: 44, y: 40}
+        - {x: 37, y: 58}
+        - {x: -3, y: 58}
+        - {x: -44, y: 29}
+        - {x: -44, y: -58}
+        - {x: 16, y: -58}
+        - {x: 44, y: -45}
+        - {x: 44, y: -30}
+        - {x: 39, y: -29}
+    - name: CrystalDragon_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1149
+        width: 125
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.5, y: 55.5}
+        - {x: 35.5, y: 49.5}
+        - {x: 31.5, y: 55.5}
+        - {x: 26.5, y: 55.5}
+        - {x: -6.5, y: 18.5}
+        - {x: -62.5, y: -48.5}
+        - {x: -62.5, y: -55.5}
+        - {x: 62.5, y: -55.5}
+        - {x: 62.5, y: 36.5}
+        - {x: 41.5, y: 55.5}
+    - name: CrystalDragon_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1151
+        width: 143
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66.5, y: 52}
+        - {x: -8.5, y: 52}
+        - {x: -71.5, y: 30}
+        - {x: -71.5, y: -52}
+        - {x: 39.5, y: -52}
+        - {x: 61.5, y: -39}
+        - {x: 71.5, y: -25}
+        - {x: 71.5, y: 36}
+    - name: CrystalDragon_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1151
+        width: 139
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 52}
+        - {x: -69.5, y: 14}
+        - {x: -69.5, y: -44}
+        - {x: -14.5, y: -52}
+        - {x: 46.5, y: -52}
+        - {x: 66.5, y: -51}
+        - {x: 69.5, y: -39}
+        - {x: 69.5, y: 47}
+        - {x: 64.5, y: 52}
+    - name: CrystalDragon_12
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1143
+        width: 139
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 55.5}
+        - {x: -69.5, y: 24.5}
+        - {x: -69.5, y: -41.5}
+        - {x: -29.5, y: -50.5}
+        - {x: 0.5, y: -55.5}
+        - {x: 69.5, y: -55.5}
+        - {x: 69.5, y: 54.5}
+        - {x: 66.5, y: 55.5}
+    - name: CrystalDragon_13
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1143
+        width: 142
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 55.5}
+        - {x: 37, y: 54.5}
+        - {x: 21, y: 35.5}
+        - {x: -3, y: 30.5}
+        - {x: -19, y: 12.5}
+        - {x: -71, y: 3.5}
+        - {x: -71, y: -3.5}
+        - {x: -53, y: -11.5}
+        - {x: -71, y: -23.5}
+        - {x: -71, y: -31.5}
+        - {x: -29, y: -55.5}
+        - {x: 62, y: -55.5}
+        - {x: 71, y: -52.5}
+        - {x: 71, y: 45.5}
+        - {x: 58, y: 55.5}
+    - name: CrystalDragon_14
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1146
+        width: 141
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66.5, y: -23}
+        - {x: 70.5, y: -18}
+        - {x: 70.5, y: -7}
+        - {x: 56.5, y: 9}
+        - {x: 60.5, y: 10}
+        - {x: 70.5, y: 13}
+        - {x: 70.5, y: 35}
+        - {x: 52.5, y: 55}
+        - {x: 33.5, y: 55}
+        - {x: 23.5, y: 33}
+        - {x: 21.5, y: 27}
+        - {x: 6.5, y: 27}
+        - {x: 3.5, y: 24}
+        - {x: 3.5, y: 21}
+        - {x: 0.5, y: 25}
+        - {x: -2.5, y: 24}
+        - {x: -2.5, y: 20}
+        - {x: -5.5, y: 24}
+        - {x: -25.5, y: 43}
+        - {x: -70.5, y: 8}
+        - {x: -70.5, y: -40}
+        - {x: -44.5, y: -55}
+        - {x: 38.5, y: -55}
+        - {x: 59.5, y: -40}
+        - {x: 62.5, y: -26}
+        - {x: 57.5, y: -23}
+        - {x: 48.5, y: -23}
+    - name: CrystalDragon_15
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1147
+        width: 143
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.5, y: -37}
+        - {x: 63.5, y: -52}
+        - {x: 71.5, y: -44}
+        - {x: 71.5, y: 44}
+        - {x: 53.5, y: 55}
+        - {x: 15.5, y: 55}
+        - {x: -71.5, y: 2}
+        - {x: -71.5, y: -35}
+        - {x: -31.5, y: -55}
+        - {x: 48.5, y: -55}
+        - {x: 44.5, y: -39}
+        - {x: 40.5, y: -36}
+        - {x: 38.5, y: -36}
+    - name: CrystalDragon_16
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1148
+        width: 146
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 53.5}
+        - {x: -73, y: 10.5}
+        - {x: -73, y: -17.5}
+        - {x: -47, y: -28.5}
+        - {x: -32, y: -27.5}
+        - {x: -73, y: -30.5}
+        - {x: -73, y: -40.5}
+        - {x: -43, y: -53.5}
+        - {x: -15, y: -53.5}
+        - {x: 5, y: -45.5}
+        - {x: 10, y: -42.5}
+        - {x: 8, y: -44.5}
+        - {x: 7, y: -47.5}
+        - {x: 18, y: -53.5}
+        - {x: 59, y: -53.5}
+        - {x: 73, y: -25.5}
+        - {x: 73, y: 53.5}
+    - name: CrystalDragon_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 986
+        width: 144
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52, y: 53.5}
+        - {x: 45, y: 53.5}
+        - {x: 46, y: 47.5}
+        - {x: 46, y: 49.5}
+        - {x: 45, y: 53.5}
+        - {x: 30, y: 53.5}
+        - {x: -2, y: 31.5}
+        - {x: -72, y: -17.5}
+        - {x: -72, y: -22.5}
+        - {x: -54, y: -26.5}
+        - {x: -42, y: -27.5}
+        - {x: -69, y: -34.5}
+        - {x: -71, y: -36.5}
+        - {x: -70, y: -39.5}
+        - {x: -53, y: -41.5}
+        - {x: -17, y: -53.5}
+        - {x: 33, y: -53.5}
+        - {x: 59, y: -43.5}
+        - {x: 72, y: -28.5}
+        - {x: 72, y: 31.5}
+    - name: CrystalDragon_18
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 985
+        width: 134
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 56}
+        - {x: -67, y: -32}
+        - {x: -67, y: -56}
+        - {x: 46, y: -56}
+        - {x: 67, y: -28}
+        - {x: 67, y: 34}
+        - {x: 47, y: 56}
+    - name: CrystalDragon_19
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 986
+        width: 91
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 56}
+        - {x: -0.5, y: 49}
+        - {x: -45.5, y: -34}
+        - {x: -45.5, y: -40}
+        - {x: -34.5, y: -40}
+        - {x: -38.5, y: -41}
+        - {x: -45.5, y: -43}
+        - {x: -45.5, y: -48}
+        - {x: -39.5, y: -48}
+        - {x: -24.5, y: -46}
+        - {x: -8.5, y: -56}
+        - {x: 45.5, y: -56}
+        - {x: 45.5, y: 56}
+    - name: CrystalDragon_20
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 987
+        width: 59
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: -42.5}
+        - {x: -0.5, y: -47.5}
+        - {x: 1.5, y: -52.5}
+        - {x: 6.5, y: -55.5}
+        - {x: 11.5, y: -56.5}
+        - {x: 29.5, y: -56.5}
+        - {x: 29.5, y: 45.5}
+        - {x: 24.5, y: 56.5}
+        - {x: -2.5, y: 56.5}
+        - {x: -12.5, y: 48.5}
+        - {x: -3.5, y: 36.5}
+        - {x: -29.5, y: -5.5}
+        - {x: -29.5, y: -45.5}
+        - {x: -24.5, y: -56.5}
+        - {x: -5.5, y: -56.5}
+        - {x: -4.5, y: -54.5}
+        - {x: -4.5, y: -48.5}
+        - {x: 0.5, y: -44.5}
+    - name: CrystalDragon_21
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1036
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 32}
+        - {x: -29, y: -32}
+        - {x: 29, y: -32}
+        - {x: 29, y: 32}
+    - name: CrystalDragon_22
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1069
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_23
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1077
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_24
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1077
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_25
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1074
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_26
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1077
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_27
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1077
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_28
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1077
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_29
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1077
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_30
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1077
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_31
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1077
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_32
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1074
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_33
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1077
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_34
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1077
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_35
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1054
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_36
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1054
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_37
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1054
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_38
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1054
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_39
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1054
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_40
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1054
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_41
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1054
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_42
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1054
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_43
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1054
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_44
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1051
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_45
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1054
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_46
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1054
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_47
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1054
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_48
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1054
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_49
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1054
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_50
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1054
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_51
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1054
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_52
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1051
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_53
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1054
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_54
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1038
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_55
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1038
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_56
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1036
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_57
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1038
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_58
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1038
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_59
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1038
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_60
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1035
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_61
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1038
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_62
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1038
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_63
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1038
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_64
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1038
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_65
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1038
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_66
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1038
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_67
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1038
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_68
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1038
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_69
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 819
+        width: 97
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.5, y: 24}
+        - {x: 32.5, y: 19}
+        - {x: 44.5, y: 30}
+        - {x: 48.5, y: 40}
+        - {x: 48.5, y: 41}
+        - {x: 25.5, y: 63}
+        - {x: 1.5, y: 63}
+        - {x: -19.5, y: 49}
+        - {x: -48.5, y: -47}
+        - {x: -48.5, y: -63}
+        - {x: 11.5, y: -63}
+        - {x: 36.5, y: -61}
+        - {x: 48.5, y: -40}
+        - {x: 48.5, y: 21}
+        - {x: 45.5, y: 27}
+    - name: CrystalDragon_70
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 824
+        width: 123
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61.5, y: -21}
+        - {x: 53.5, y: -18}
+        - {x: 60.5, y: -9}
+        - {x: 61.5, y: -5}
+        - {x: 61.5, y: 5}
+        - {x: 59.5, y: 5}
+        - {x: 61.5, y: 7}
+        - {x: 61.5, y: 18}
+        - {x: 47.5, y: 41}
+        - {x: 17.5, y: 64}
+        - {x: 5.5, y: 64}
+        - {x: 3.5, y: 60}
+        - {x: -61.5, y: -36}
+        - {x: -61.5, y: -64}
+        - {x: 45.5, y: -64}
+        - {x: 51.5, y: -63}
+        - {x: 52.5, y: -48}
+        - {x: 61.5, y: -37}
+    - name: CrystalDragon_71
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 824
+        width: 143
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64.5, y: -15}
+        - {x: 59.5, y: -16}
+        - {x: 71.5, y: 3}
+        - {x: 71.5, y: 28}
+        - {x: 70.5, y: 30}
+        - {x: 60.5, y: 27}
+        - {x: 45.5, y: 54}
+        - {x: 35.5, y: 60}
+        - {x: 10.5, y: 60}
+        - {x: 7.5, y: 42}
+        - {x: 16.5, y: 35}
+        - {x: -3.5, y: 1}
+        - {x: -71.5, y: -40}
+        - {x: -71.5, y: -46}
+        - {x: -49.5, y: -45}
+        - {x: -20.5, y: -41}
+        - {x: -16.5, y: -39}
+        - {x: -12.5, y: -39}
+        - {x: -13.5, y: -39}
+        - {x: -22.5, y: -42}
+        - {x: -29.5, y: -42}
+        - {x: -60.5, y: -47}
+        - {x: -71.5, y: -49}
+        - {x: -71.5, y: -55}
+        - {x: -16.5, y: -60}
+        - {x: 44.5, y: -60}
+        - {x: 71.5, y: -30}
+        - {x: 71.5, y: -15}
+    - name: CrystalDragon_72
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 823
+        width: 142
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 31}
+        - {x: 57, y: 36}
+        - {x: 61, y: 44}
+        - {x: 57, y: 51}
+        - {x: 18, y: 51}
+        - {x: -71, y: -12}
+        - {x: -71, y: -31}
+        - {x: -46, y: -26}
+        - {x: -71, y: -36}
+        - {x: -71, y: -43}
+        - {x: -13, y: -51}
+        - {x: 39, y: -51}
+        - {x: 71, y: -20}
+        - {x: 71, y: 41}
+        - {x: 66, y: 45}
+    - name: CrystalDragon_73
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 824
+        width: 140
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70, y: -3.5}
+        - {x: 70, y: 28.5}
+        - {x: 55, y: 51.5}
+        - {x: 12, y: 51.5}
+        - {x: -70, y: 7.5}
+        - {x: -70, y: -1.5}
+        - {x: -53, y: -20.5}
+        - {x: -43, y: -25.5}
+        - {x: -70, y: -20.5}
+        - {x: -70, y: -29.5}
+        - {x: -56, y: -43.5}
+        - {x: -11, y: -51.5}
+        - {x: 32, y: -51.5}
+        - {x: 70, y: -29.5}
+        - {x: 70, y: -20.5}
+        - {x: 58, y: -18.5}
+    - name: CrystalDragon_74
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 824
+        width: 122
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: -26.5}
+        - {x: 60, y: -17.5}
+        - {x: 61, y: -14.5}
+        - {x: 61, y: 46.5}
+        - {x: 51, y: 53.5}
+        - {x: 15, y: 53.5}
+        - {x: -61, y: -9.5}
+        - {x: -61, y: -46.5}
+        - {x: -28, y: -53.5}
+        - {x: 15, y: -53.5}
+        - {x: 48, y: -39.5}
+        - {x: 54, y: -30.5}
+        - {x: 46, y: -25.5}
+    - name: CrystalDragon_75
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 824
+        width: 117
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 55.5}
+        - {x: 8.5, y: 35.5}
+        - {x: -27.5, y: 18.5}
+        - {x: -58.5, y: -31.5}
+        - {x: -58.5, y: -54.5}
+        - {x: -51.5, y: -53.5}
+        - {x: -31.5, y: -55.5}
+        - {x: 19.5, y: -55.5}
+        - {x: 58.5, y: -51.5}
+        - {x: 58.5, y: 47.5}
+        - {x: 29.5, y: 55.5}
+    - name: CrystalDragon_76
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 824
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: 56}
+        - {x: 11, y: 56}
+        - {x: -38, y: 24}
+        - {x: -51, y: -22}
+        - {x: -51, y: -56}
+        - {x: 31, y: -56}
+        - {x: 51, y: -47}
+        - {x: 51, y: 44}
+    - name: CrystalDragon_77
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 664
+        width: 102
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 62}
+        - {x: -51, y: -52}
+        - {x: -51, y: -60}
+        - {x: -29, y: -62}
+        - {x: 51, y: -62}
+        - {x: 51, y: 51}
+        - {x: 38, y: 62}
+    - name: CrystalDragon_78
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 664
+        width: 101
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 65}
+        - {x: -50.5, y: -42}
+        - {x: -50.5, y: -48}
+        - {x: -48.5, y: -49}
+        - {x: -50.5, y: -51}
+        - {x: -50.5, y: -61}
+        - {x: -10.5, y: -65}
+        - {x: 47.5, y: -65}
+        - {x: 50.5, y: -63}
+        - {x: 50.5, y: 44}
+        - {x: 20.5, y: 65}
+    - name: CrystalDragon_79
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 664
+        width: 129
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 59}
+        - {x: -64.5, y: -20}
+        - {x: -64.5, y: -39}
+        - {x: -59.5, y: -39}
+        - {x: -64.5, y: -46}
+        - {x: -63.5, y: -50}
+        - {x: -43.5, y: -59}
+        - {x: 40.5, y: -59}
+        - {x: 64.5, y: -50}
+        - {x: 64.5, y: 59}
+    - name: CrystalDragon_80
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 662
+        width: 159
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 45}
+        - {x: -77.5, y: -3}
+        - {x: -79.5, y: -7}
+        - {x: -79.5, y: -39}
+        - {x: -76.5, y: -45}
+        - {x: 79.5, y: -45}
+        - {x: 79.5, y: 32}
+        - {x: 63.5, y: 45}
+    - name: CrystalDragon_81
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 662
+        width: 155
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 39}
+        - {x: -77.5, y: -9}
+        - {x: -53.5, y: -39}
+        - {x: 48.5, y: -39}
+        - {x: 77.5, y: -33}
+        - {x: 77.5, y: 27}
+        - {x: 65.5, y: 39}
+    - name: CrystalDragon_82
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 664
+        width: 152
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76, y: 2}
+        - {x: -63, y: -11}
+        - {x: -56, y: -16}
+        - {x: -44, y: -19}
+        - {x: -34, y: -18}
+        - {x: -28, y: -17}
+        - {x: -52, y: -22}
+        - {x: -74, y: -15}
+        - {x: -76, y: -15}
+        - {x: -76, y: -22}
+        - {x: -56, y: -33}
+        - {x: -20, y: -42}
+        - {x: 65, y: -42}
+        - {x: 76, y: -38}
+        - {x: 76, y: 42}
+        - {x: -38, y: 42}
+        - {x: -76, y: 32}
+    - name: CrystalDragon_83
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 664
+        width: 133
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.5, y: -47.5}
+        - {x: 66.5, y: -31.5}
+        - {x: 66.5, y: 42.5}
+        - {x: 63.5, y: 51.5}
+        - {x: 19.5, y: 51.5}
+        - {x: -14.5, y: 36.5}
+        - {x: -66.5, y: -28.5}
+        - {x: -66.5, y: -47.5}
+        - {x: -49.5, y: -51.5}
+        - {x: 29.5, y: -51.5}
+        - {x: 26.5, y: -43.5}
+        - {x: 24.5, y: -39.5}
+        - {x: 27.5, y: -43.5}
+    - name: CrystalDragon_84
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 664
+        width: 103
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 54.5}
+        - {x: -47.5, y: -12.5}
+        - {x: -51.5, y: -28.5}
+        - {x: -51.5, y: -54.5}
+        - {x: 36.5, y: -54.5}
+        - {x: 51.5, y: -51.5}
+        - {x: 51.5, y: 29.5}
+        - {x: 40.5, y: 54.5}
+    - name: CrystalDragon_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 492
+        width: 93
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 61.5}
+        - {x: -46.5, y: -8.5}
+        - {x: -46.5, y: -60.5}
+        - {x: -42.5, y: -61.5}
+        - {x: 38.5, y: -61.5}
+        - {x: 41.5, y: -58.5}
+        - {x: 46.5, y: -50.5}
+        - {x: 46.5, y: 61.5}
+    - name: CrystalDragon_86
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 492
+        width: 109
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 65}
+        - {x: 11.5, y: 41}
+        - {x: -54.5, y: -35}
+        - {x: -54.5, y: -49}
+        - {x: -53.5, y: -53}
+        - {x: 9.5, y: -65}
+        - {x: 54.5, y: -65}
+        - {x: 54.5, y: 24}
+        - {x: 41.5, y: 65}
+    - name: CrystalDragon_87
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 492
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 47}
+        - {x: 23, y: 43}
+        - {x: 24, y: 42}
+        - {x: 25, y: 36}
+        - {x: 25, y: 38}
+        - {x: 20, y: 42}
+        - {x: 17, y: 41}
+        - {x: -47, y: 29}
+        - {x: -47, y: -38}
+        - {x: -20, y: -47}
+        - {x: 47, y: -47}
+        - {x: 47, y: 47}
+    - name: CrystalDragon_88
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 486
+        width: 82
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 44}
+        - {x: -41, y: 44}
+        - {x: -41, y: -6}
+        - {x: -20, y: -44}
+        - {x: 41, y: -44}
+        - {x: 41, y: 5}
+        - {x: 13, y: 42}
+    - name: CrystalDragon_89
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 482
+        width: 71
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 48.5}
+        - {x: -35.5, y: 48.5}
+        - {x: -35.5, y: 14.5}
+        - {x: -33.5, y: 9.5}
+        - {x: -28.5, y: 4.5}
+        - {x: -33.5, y: 8.5}
+        - {x: -35.5, y: 7.5}
+        - {x: -35.5, y: -39.5}
+        - {x: -17.5, y: -48.5}
+        - {x: 35.5, y: -48.5}
+        - {x: 35.5, y: 8.5}
+        - {x: -2.5, y: 37.5}
+    - name: CrystalDragon_90
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 483
+        width: 107
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 37.5}
+        - {x: -12.5, y: 31.5}
+        - {x: -53.5, y: 33.5}
+        - {x: -53.5, y: -0.5}
+        - {x: -20.5, y: -34.5}
+        - {x: -13.5, y: -37.5}
+        - {x: 53.5, y: -37.5}
+        - {x: 53.5, y: 15.5}
+        - {x: 9.5, y: 37.5}
+    - name: CrystalDragon_91
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 492
+        width: 113
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: -12.5}
+        - {x: -56.5, y: -18.5}
+        - {x: -45.5, y: -20.5}
+        - {x: -35.5, y: -19.5}
+        - {x: -17.5, y: -10.5}
+        - {x: -20.5, y: -13.5}
+        - {x: -23.5, y: -13.5}
+        - {x: -25.5, y: -14.5}
+        - {x: -42.5, y: -22.5}
+        - {x: -56.5, y: -23.5}
+        - {x: -56.5, y: -35.5}
+        - {x: -51.5, y: -38.5}
+        - {x: 48.5, y: -38.5}
+        - {x: 56.5, y: -32.5}
+        - {x: 56.5, y: 38.5}
+        - {x: 4.5, y: 38.5}
+        - {x: -24.5, y: 28.5}
+    - name: CrystalDragon_92
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 492
+        width: 97
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.5, y: 3.5}
+        - {x: 35.5, y: 2.5}
+        - {x: 31.5, y: 0.5}
+        - {x: 34.5, y: 3.5}
+        - {x: 39.5, y: 3.5}
+        - {x: 47.5, y: 1.5}
+        - {x: 48.5, y: 4.5}
+        - {x: 48.5, y: 36.5}
+        - {x: 45.5, y: 49.5}
+        - {x: 20.5, y: 49.5}
+        - {x: -31.5, y: 27.5}
+        - {x: -48.5, y: -18.5}
+        - {x: -48.5, y: -49.5}
+        - {x: 38.5, y: -49.5}
+        - {x: 48.5, y: -33.5}
+        - {x: 48.5, y: -6.5}
+        - {x: 45.5, y: 0.5}
+    - name: CrystalDragon_93
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 348
+        width: 118
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54, y: -24}
+        - {x: 59, y: -24}
+        - {x: 59, y: 45}
+        - {x: 5, y: 45}
+        - {x: -59, y: -1}
+        - {x: -59, y: -39}
+        - {x: -38, y: -45}
+        - {x: 34, y: -45}
+        - {x: 59, y: -28}
+        - {x: 59, y: -27}
+        - {x: 57, y: -24}
+    - name: CrystalDragon_94
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 348
+        width: 131
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.5, y: 35}
+        - {x: -65.5, y: 1}
+        - {x: -50.5, y: -14}
+        - {x: -45.5, y: -16}
+        - {x: -39.5, y: -17}
+        - {x: -38.5, y: -18}
+        - {x: -35.5, y: -18}
+        - {x: -47.5, y: -17}
+        - {x: -60.5, y: -8}
+        - {x: -65.5, y: -6}
+        - {x: -65.5, y: -35}
+        - {x: 62.5, y: -35}
+        - {x: 65.5, y: -33}
+        - {x: 65.5, y: 35}
+    - name: CrystalDragon_95
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 348
+        width: 133
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 35}
+        - {x: -66.5, y: 18}
+        - {x: -66.5, y: -21}
+        - {x: -36.5, y: -35}
+        - {x: 50.5, y: -35}
+        - {x: 66.5, y: -30}
+        - {x: 66.5, y: 33}
+        - {x: 60.5, y: 35}
+    - name: CrystalDragon_96
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 348
+        width: 135
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.5, y: -23.5}
+        - {x: -33.5, y: -37.5}
+        - {x: 51.5, y: -37.5}
+        - {x: 67.5, y: -28.5}
+        - {x: 67.5, y: 37.5}
+        - {x: -60.5, y: 37.5}
+        - {x: -67.5, y: 35.5}
+    - name: CrystalDragon_97
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 348
+        width: 121
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60.5, y: 19.5}
+        - {x: 60.5, y: 45.5}
+        - {x: 0.5, y: 45.5}
+        - {x: -60.5, y: -5.5}
+        - {x: -60.5, y: -39.5}
+        - {x: -26.5, y: -45.5}
+        - {x: 31.5, y: -45.5}
+        - {x: 60.5, y: -35.5}
+        - {x: 60.5, y: 7.5}
+        - {x: 56.5, y: 8.5}
+    - name: CrystalDragon_98
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 348
+        width: 98
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 52.5}
+        - {x: 7, y: 52.5}
+        - {x: -12, y: 18.5}
+        - {x: -12, y: 14.5}
+        - {x: -11, y: 13.5}
+        - {x: -11, y: 11.5}
+        - {x: -11, y: 13.5}
+        - {x: -15, y: 16.5}
+        - {x: -19, y: 15.5}
+        - {x: -23, y: 13.5}
+        - {x: -49, y: -36.5}
+        - {x: -49, y: -52.5}
+        - {x: 27, y: -52.5}
+        - {x: 49, y: -39.5}
+        - {x: 49, y: 38.5}
+    - name: CrystalDragon_99
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 351
+        width: 94
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: -41}
+        - {x: 47, y: 19}
+        - {x: 12, y: 58}
+        - {x: -12, y: 58}
+        - {x: -22, y: 30}
+        - {x: -47, y: -44}
+        - {x: -47, y: -58}
+        - {x: 30, y: -58}
+        - {x: 28, y: -53}
+        - {x: 23, y: -48}
+        - {x: 32, y: -51}
+    - name: CrystalDragon_100
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 188
+        width: 123
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: -9}
+        - {x: 44.5, y: -9}
+        - {x: 51.5, y: -15}
+        - {x: 55.5, y: -15}
+        - {x: 61.5, y: -11}
+        - {x: 61.5, y: 1}
+        - {x: 58.5, y: 5}
+        - {x: 18.5, y: 61}
+        - {x: -19.5, y: 61}
+        - {x: -59.5, y: -10}
+        - {x: -61.5, y: -20}
+        - {x: -61.5, y: -61}
+        - {x: 55.5, y: -61}
+        - {x: 61.5, y: -37}
+        - {x: 61.5, y: -28}
+        - {x: 42.5, y: -12}
+    - name: CrystalDragon_101
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 190
+        width: 116
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: -31}
+        - {x: 41, y: -31}
+        - {x: 58, y: -20}
+        - {x: 58, y: -13}
+        - {x: 52, y: -9}
+        - {x: 43, y: 4}
+        - {x: 40, y: 7}
+        - {x: 37, y: 8}
+        - {x: 39, y: 10}
+        - {x: 41, y: 5}
+        - {x: 44, y: 2}
+        - {x: 46, y: -1}
+        - {x: 58, y: 3}
+        - {x: 58, y: 21}
+        - {x: 54, y: 28}
+        - {x: 2, y: 48}
+        - {x: -46, y: 48}
+        - {x: -53, y: 42}
+        - {x: -58, y: 3}
+        - {x: -58, y: -44}
+        - {x: -53, y: -48}
+        - {x: 53, y: -48}
+        - {x: 54, y: -40}
+        - {x: 49, y: -34}
+        - {x: 42, y: -31}
+    - name: CrystalDragon_102
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 191
+        width: 117
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.5, y: -29.5}
+        - {x: 49.5, y: -28.5}
+        - {x: 58.5, y: -29.5}
+        - {x: 58.5, y: 16.5}
+        - {x: 32.5, y: 41.5}
+        - {x: -45.5, y: 41.5}
+        - {x: -58.5, y: 30.5}
+        - {x: -58.5, y: -34.5}
+        - {x: -52.5, y: -41.5}
+        - {x: 53.5, y: -41.5}
+        - {x: 50.5, y: -34.5}
+        - {x: 47.5, y: -31.5}
+        - {x: 42.5, y: -29.5}
+    - name: CrystalDragon_103
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 186
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 37}
+        - {x: -24, y: 37}
+        - {x: -29, y: 31}
+        - {x: -50, y: -9}
+        - {x: -50, y: -36}
+        - {x: -44, y: -37}
+        - {x: -43, y: -37}
+        - {x: -21, y: -33}
+        - {x: -7, y: -37}
+        - {x: 44, y: -37}
+        - {x: 50, y: -27}
+        - {x: 50, y: 10}
+        - {x: 22, y: 34}
+    - name: CrystalDragon_104
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 184
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: -21}
+        - {x: 47, y: -21}
+        - {x: 49, y: -16}
+        - {x: 49, y: 6}
+        - {x: 12, y: 49}
+        - {x: -11, y: 49}
+        - {x: -16, y: 38}
+        - {x: -16, y: 29}
+        - {x: -49, y: -25}
+        - {x: -49, y: -46}
+        - {x: -45, y: -49}
+        - {x: 49, y: -49}
+        - {x: 49, y: -22}
+        - {x: 46, y: -21}
+    - name: CrystalDragon_105
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 255
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 4.5}
+        - {x: 15.5, y: 4.5}
+        - {x: 18.5, y: 7.5}
+        - {x: 18.5, y: 16.5}
+        - {x: 9.5, y: 24.5}
+        - {x: -2.5, y: 24.5}
+        - {x: -17.5, y: 9.5}
+        - {x: -22.5, y: -4.5}
+        - {x: -22.5, y: -24.5}
+        - {x: 14.5, y: -24.5}
+        - {x: 18.5, y: -14.5}
+        - {x: 18.5, y: 4.5}
+    - name: CrystalDragon_106
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 255
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 26}
+        - {x: -23, y: 3}
+        - {x: -23, y: -21}
+        - {x: -15, y: -26}
+        - {x: 7, y: -26}
+        - {x: 14, y: -24}
+        - {x: 18, y: -16}
+        - {x: 18, y: 16}
+        - {x: 14, y: 26}
+    - name: CrystalDragon_107
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 255
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -17.5}
+        - {x: 16, y: -18.5}
+        - {x: 20, y: -16.5}
+        - {x: 20, y: 26.5}
+        - {x: -5, y: 26.5}
+        - {x: -20, y: 12.5}
+        - {x: -20, y: -21.5}
+        - {x: -11, y: -26.5}
+        - {x: 6, y: -26.5}
+        - {x: 12, y: -25.5}
+        - {x: 13, y: -21.5}
+        - {x: 9, y: -16.5}
+        - {x: 7, y: -15.5}
+    - name: CrystalDragon_108
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 255
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 26}
+        - {x: -20.5, y: 13}
+        - {x: -22.5, y: 2}
+        - {x: -22.5, y: -25}
+        - {x: -20.5, y: -26}
+        - {x: 10.5, y: -26}
+        - {x: 20.5, y: -14}
+        - {x: 20.5, y: 18}
+        - {x: 12.5, y: 26}
+    - name: CrystalDragon_109
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 255
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 25.5}
+        - {x: -22.5, y: 4.5}
+        - {x: -22.5, y: -25.5}
+        - {x: 18.5, y: -25.5}
+        - {x: 18.5, y: 22.5}
+        - {x: 12.5, y: 25.5}
+    - name: CrystalDragon_110
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 255
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 25}
+        - {x: -20.5, y: 0}
+        - {x: -20.5, y: -25}
+        - {x: 14.5, y: -25}
+        - {x: 20.5, y: -20}
+        - {x: 20.5, y: 18}
+        - {x: 12.5, y: 25}
+    - name: CrystalDragon_111
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 169
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 50}
+        - {x: -24.5, y: -50}
+        - {x: 24.5, y: -50}
+        - {x: 24.5, y: 50}
+    - name: CrystalDragon_112
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 222
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_113
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 219
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_114
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 219
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_115
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 222
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_116
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 222
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_117
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 222
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_118
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 219
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_119
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 204
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_120
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 201
+        width: 124
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_121
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 204
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_122
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 204
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_123
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 204
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_124
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 188
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_125
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 188
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_126
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 188
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_127
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 188
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_128
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 185
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_129
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 188
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_130
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 188
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_131
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 188
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_132
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 186
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_133
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 185
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_134
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 188
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_135
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 188
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_136
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 188
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_137
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 188
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_138
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 188
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_139
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 169
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_140
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 172
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_141
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 172
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_142
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 172
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_143
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 172
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_144
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 169
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_145
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 172
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_146
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 172
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_147
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 172
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_148
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 172
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_149
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 172
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_150
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 172
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_151
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 172
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CrystalDragon_152
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 27
+        width: 95
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 61}
+        - {x: -4.5, y: 60}
+        - {x: -6.5, y: 54}
+        - {x: -47.5, y: -52}
+        - {x: -47.5, y: -61}
+        - {x: 31.5, y: -61}
+        - {x: 47.5, y: -45}
+        - {x: 47.5, y: 31}
+        - {x: 12.5, y: 61}
+    - name: CrystalDragon_153
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 28
+        width: 116
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 44}
+        - {x: 30, y: 42}
+        - {x: 27, y: 40}
+        - {x: 30, y: 54}
+        - {x: 23, y: 62}
+        - {x: 4, y: 62}
+        - {x: -26, y: 48}
+        - {x: -25, y: 37}
+        - {x: -16, y: 26}
+        - {x: -58, y: -43}
+        - {x: -58, y: -62}
+        - {x: 56, y: -62}
+        - {x: 58, y: -59}
+        - {x: 58, y: 52}
+        - {x: 52, y: 61}
+        - {x: 32, y: 56}
+        - {x: 29, y: 51}
+      - - {x: 46, y: -40}
+        - {x: 49, y: -39}
+        - {x: 49, y: -36}
+        - {x: 46, y: -35}
+        - {x: 44, y: -37}
+      - - {x: -15, y: -2}
+        - {x: -12, y: -1}
+        - {x: -12, y: 2}
+        - {x: -15, y: 3}
+        - {x: -17, y: 1}
+      - - {x: -12, y: 11}
+        - {x: -9, y: 12}
+        - {x: -9, y: 15}
+        - {x: -12, y: 16}
+        - {x: -14, y: 14}
+      - - {x: 28, y: 34}
+        - {x: 31, y: 35}
+        - {x: 31, y: 38}
+        - {x: 28, y: 39}
+        - {x: 26, y: 37}
+    - name: CrystalDragon_154
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 24
+        width: 114
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 67}
+        - {x: 7, y: 59}
+        - {x: 7, y: 56}
+        - {x: 10, y: 55}
+        - {x: 6, y: 52}
+        - {x: 6, y: 61}
+        - {x: 0, y: 67}
+        - {x: -10, y: 67}
+        - {x: -13, y: 66}
+        - {x: -26, y: 62}
+        - {x: -20, y: 26}
+        - {x: -15, y: 18}
+        - {x: -12, y: 20}
+        - {x: -8, y: 21}
+        - {x: -11, y: 20}
+        - {x: -11, y: 17}
+        - {x: -13, y: 17}
+        - {x: -23, y: 14}
+        - {x: -56, y: 7}
+        - {x: -57, y: 7}
+        - {x: -57, y: -47}
+        - {x: -42, y: -61}
+        - {x: -23, y: -62}
+        - {x: -20, y: -53}
+        - {x: -21, y: -51}
+        - {x: -19, y: -55}
+        - {x: -16, y: -55}
+        - {x: 1, y: -67}
+        - {x: 26, y: -67}
+        - {x: 57, y: -29}
+        - {x: 57, y: 51}
+        - {x: 38, y: 67}
+      - - {x: 35, y: -44}
+        - {x: 38, y: -43}
+        - {x: 38, y: -40}
+        - {x: 35, y: -39}
+        - {x: 33, y: -41}
+      - - {x: -26, y: -5}
+        - {x: -28, y: -7}
+        - {x: -29, y: -11}
+        - {x: -29, y: -13}
+        - {x: -25, y: -15}
+        - {x: -22, y: -14}
+        - {x: -22, y: -8}
+        - {x: -24, y: -5}
+      - - {x: -32, y: -5}
+        - {x: -30, y: -7}
+        - {x: -27, y: -6}
+        - {x: -27, y: -3}
+        - {x: -29, y: -1}
+        - {x: -32, y: -2}
+      - - {x: -50, y: 6}
+        - {x: -47, y: 7}
+        - {x: -47, y: 10}
+        - {x: -50, y: 11}
+        - {x: -52, y: 9}
+      - - {x: -32, y: 11}
+        - {x: -29, y: 12}
+        - {x: -29, y: 15}
+        - {x: -32, y: 16}
+        - {x: -34, y: 14}
+      - - {x: -31, y: 17}
+        - {x: -28, y: 18}
+        - {x: -28, y: 21}
+        - {x: -31, y: 22}
+        - {x: -33, y: 20}
+      - - {x: -3, y: 18}
+        - {x: 0, y: 19}
+        - {x: 0, y: 22}
+        - {x: -3, y: 23}
+        - {x: -5, y: 21}
+      - - {x: 6, y: 51}
+        - {x: 9, y: 52}
+        - {x: 9, y: 55}
+        - {x: 6, y: 56}
+        - {x: 4, y: 54}
+    - name: CrystalDragon_155
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 25
+        width: 121
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 63.5}
+        - {x: 7.5, y: 62.5}
+        - {x: 2.5, y: 63.5}
+        - {x: -13.5, y: 63.5}
+        - {x: -24.5, y: 55.5}
+        - {x: -29.5, y: 35.5}
+        - {x: -24.5, y: 32.5}
+        - {x: -8.5, y: 11.5}
+        - {x: -10.5, y: 6.5}
+        - {x: -24.5, y: -2.5}
+        - {x: -11.5, y: 8.5}
+        - {x: -9.5, y: 12.5}
+        - {x: -29.5, y: 18.5}
+        - {x: -44.5, y: 16.5}
+        - {x: -55.5, y: 0.5}
+        - {x: -50.5, y: -4.5}
+        - {x: -50.5, y: -19.5}
+        - {x: -47.5, y: -22.5}
+        - {x: -48.5, y: -22.5}
+        - {x: -52.5, y: -17.5}
+        - {x: -54.5, y: -16.5}
+        - {x: -56.5, y: -25.5}
+        - {x: -56.5, y: -44.5}
+        - {x: -34.5, y: -65.5}
+        - {x: 51.5, y: -65.5}
+        - {x: 60.5, y: -51.5}
+        - {x: 60.5, y: 54.5}
+        - {x: 42.5, y: 63.5}
+      - - {x: -33.5, y: -61.5}
+        - {x: -30.5, y: -60.5}
+        - {x: -30.5, y: -57.5}
+        - {x: -33.5, y: -56.5}
+        - {x: -35.5, y: -58.5}
+      - - {x: 12.5, y: -58.5}
+        - {x: 14.5, y: -60.5}
+        - {x: 17.5, y: -59.5}
+        - {x: 17.5, y: -55.5}
+        - {x: 15.5, y: -53.5}
+        - {x: 12.5, y: -54.5}
+      - - {x: 23.5, y: -58.5}
+        - {x: 25.5, y: -59.5}
+        - {x: 28.5, y: -58.5}
+        - {x: 28.5, y: -54.5}
+        - {x: 27.5, y: -51.5}
+        - {x: 24.5, y: -51.5}
+        - {x: 23.5, y: -53.5}
+      - - {x: -25.5, y: -52.5}
+        - {x: -25.5, y: -53.5}
+        - {x: -23.5, y: -55.5}
+        - {x: -22.5, y: -55.5}
+        - {x: -19.5, y: -52.5}
+        - {x: -19.5, y: -50.5}
+        - {x: -22.5, y: -49.5}
+      - - {x: -57.5, y: -42.5}
+        - {x: -58.5, y: -44.5}
+        - {x: -58.5, y: -47.5}
+        - {x: -55.5, y: -52.5}
+        - {x: -53.5, y: -52.5}
+        - {x: -51.5, y: -51.5}
+        - {x: -51.5, y: -46.5}
+        - {x: -54.5, y: -42.5}
+      - - {x: 40.5, y: -43.5}
+        - {x: 43.5, y: -42.5}
+        - {x: 43.5, y: -39.5}
+        - {x: 40.5, y: -38.5}
+        - {x: 38.5, y: -40.5}
+      - - {x: -57.5, y: -27.5}
+        - {x: -60.5, y: -30.5}
+        - {x: -60.5, y: -37.5}
+        - {x: -59.5, y: -37.5}
+        - {x: -54.5, y: -34.5}
+        - {x: -53.5, y: -29.5}
+        - {x: -54.5, y: -27.5}
+      - - {x: -58.5, y: -19.5}
+        - {x: -54.5, y: -19.5}
+        - {x: -54.5, y: -14.5}
+        - {x: -57.5, y: -7.5}
+        - {x: -60.5, y: -7.5}
+        - {x: -60.5, y: -16.5}
+      - - {x: -31.5, y: -4.5}
+        - {x: -31.5, y: -8.5}
+        - {x: -30.5, y: -11.5}
+        - {x: -28.5, y: -11.5}
+        - {x: -26.5, y: -9.5}
+        - {x: -24.5, y: -4.5}
+        - {x: -24.5, y: -2.5}
+        - {x: -27.5, y: -1.5}
+      - - {x: 54.5, y: 4.5}
+        - {x: 57.5, y: 5.5}
+        - {x: 57.5, y: 8.5}
+        - {x: 54.5, y: 9.5}
+        - {x: 52.5, y: 7.5}
+      - - {x: -44.5, y: 16.5}
+        - {x: -43.5, y: 13.5}
+        - {x: -39.5, y: 13.5}
+        - {x: -37.5, y: 15.5}
+        - {x: -38.5, y: 18.5}
+        - {x: -42.5, y: 18.5}
+      - - {x: -11.5, y: 13.5}
+        - {x: -8.5, y: 14.5}
+        - {x: -8.5, y: 17.5}
+        - {x: -11.5, y: 18.5}
+        - {x: -13.5, y: 16.5}
+      - - {x: -11.5, y: 25.5}
+        - {x: -16.5, y: 25.5}
+        - {x: -17.5, y: 22.5}
+        - {x: -14.5, y: 18.5}
+        - {x: -13.5, y: 18.5}
+        - {x: -9.5, y: 22.5}
+        - {x: -9.5, y: 24.5}
+      - - {x: -35.5, y: 31.5}
+        - {x: -35.5, y: 26.5}
+        - {x: -32.5, y: 22.5}
+        - {x: -28.5, y: 22.5}
+        - {x: -25.5, y: 23.5}
+        - {x: -25.5, y: 27.5}
+        - {x: -28.5, y: 31.5}
+      - - {x: -35.5, y: 37.5}
+        - {x: -32.5, y: 38.5}
+        - {x: -32.5, y: 41.5}
+        - {x: -35.5, y: 42.5}
+        - {x: -37.5, y: 40.5}
+      - - {x: 44.5, y: 57.5}
+        - {x: 42.5, y: 55.5}
+        - {x: 42.5, y: 52.5}
+        - {x: 44.5, y: 50.5}
+        - {x: 45.5, y: 50.5}
+        - {x: 48.5, y: 53.5}
+        - {x: 48.5, y: 54.5}
+        - {x: 45.5, y: 57.5}
+      - - {x: -8.5, y: 54.5}
+        - {x: -7.5, y: 51.5}
+        - {x: -4.5, y: 51.5}
+        - {x: -2.5, y: 53.5}
+        - {x: -3.5, y: 56.5}
+        - {x: -6.5, y: 56.5}
+      - - {x: 37.5, y: 54.5}
+        - {x: 40.5, y: 55.5}
+        - {x: 40.5, y: 58.5}
+        - {x: 37.5, y: 59.5}
+        - {x: 35.5, y: 57.5}
+      - - {x: -5.5, y: 57.5}
+        - {x: -2.5, y: 58.5}
+        - {x: -2.5, y: 61.5}
+        - {x: -5.5, y: 62.5}
+        - {x: -7.5, y: 60.5}
+      - - {x: 16.5, y: 63.5}
+        - {x: 16.5, y: 65.5}
+        - {x: 11.5, y: 65.5}
+        - {x: 13.5, y: 62.5}
+    - name: CrystalDragon_156
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 31
+        width: 119
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.5, y: 4}
+        - {x: 42.5, y: 4}
+        - {x: 41.5, y: 1}
+        - {x: 41.5, y: 4}
+        - {x: 59.5, y: 3}
+        - {x: 59.5, y: 49}
+        - {x: -19.5, y: 49}
+        - {x: -41.5, y: 45}
+        - {x: -59.5, y: 6}
+        - {x: -59.5, y: -36}
+        - {x: -54.5, y: -42}
+        - {x: -39.5, y: -46}
+        - {x: -38.5, y: -46}
+        - {x: -36.5, y: -44}
+        - {x: -33.5, y: -46}
+        - {x: -38.5, y: -46}
+        - {x: -41.5, y: -47}
+        - {x: -41.5, y: -56}
+        - {x: 31.5, y: -56}
+        - {x: 59.5, y: -29}
+        - {x: 59.5, y: -7}
+        - {x: 53.5, y: -7}
+      - - {x: 1.5, y: -56}
+        - {x: 6.5, y: -56}
+        - {x: 6.5, y: -54}
+        - {x: 4.5, y: -52}
+        - {x: 1.5, y: -53}
+      - - {x: 12.5, y: -41}
+        - {x: 10.5, y: -41}
+        - {x: 9.5, y: -44}
+        - {x: 11.5, y: -46}
+        - {x: 9.5, y: -48}
+        - {x: 9.5, y: -53}
+        - {x: 13.5, y: -54}
+        - {x: 18.5, y: -54}
+        - {x: 18.5, y: -44}
+        - {x: 17.5, y: -42}
+      - - {x: -53.5, y: -44}
+        - {x: -52.5, y: -47}
+        - {x: -47.5, y: -48}
+        - {x: -44.5, y: -46}
+        - {x: -45.5, y: -43}
+        - {x: -48.5, y: -42}
+        - {x: -51.5, y: -42}
+      - - {x: 42.5, y: -31}
+        - {x: 45.5, y: -34}
+        - {x: 48.5, y: -32}
+        - {x: 48.5, y: -28}
+        - {x: 46.5, y: -25}
+        - {x: 43.5, y: -26}
+      - - {x: -47.5, y: 19}
+        - {x: -45.5, y: 17}
+        - {x: -41.5, y: 18}
+        - {x: -39.5, y: 20}
+        - {x: -40.5, y: 23}
+        - {x: -44.5, y: 24}
+      - - {x: -23.5, y: 32}
+        - {x: -20.5, y: 33}
+        - {x: -20.5, y: 36}
+        - {x: -23.5, y: 37}
+        - {x: -25.5, y: 35}
+      - - {x: -41.5, y: 36}
+        - {x: -38.5, y: 37}
+        - {x: -38.5, y: 40}
+        - {x: -41.5, y: 41}
+        - {x: -43.5, y: 39}
+      - - {x: -5.5, y: 39}
+        - {x: -2.5, y: 40}
+        - {x: -2.5, y: 43}
+        - {x: -5.5, y: 44}
+        - {x: -7.5, y: 42}
+      - - {x: -28.5, y: 44}
+        - {x: -26.5, y: 42}
+        - {x: -23.5, y: 43}
+        - {x: -23.5, y: 46}
+        - {x: -25.5, y: 48}
+        - {x: -28.5, y: 47}
+      - - {x: 9.5, y: 46}
+        - {x: 12.5, y: 47}
+        - {x: 12.5, y: 50}
+        - {x: 9.5, y: 51}
+        - {x: 7.5, y: 49}
+      - - {x: -12.5, y: 47}
+        - {x: -9.5, y: 48}
+        - {x: -9.5, y: 51}
+        - {x: -12.5, y: 52}
+        - {x: -14.5, y: 50}
+      - - {x: -26.5, y: 56}
+        - {x: -28.5, y: 54}
+        - {x: -28.5, y: 53}
+        - {x: -26.5, y: 51}
+        - {x: -25.5, y: 51}
+        - {x: -22.5, y: 54}
+        - {x: -22.5, y: 56}
+      - - {x: -3.5, y: 51}
+        - {x: -0.5, y: 52}
+        - {x: -0.5, y: 55}
+        - {x: -3.5, y: 56}
+        - {x: -5.5, y: 54}
+      - - {x: -20.5, y: 52}
+        - {x: -17.5, y: 53}
+        - {x: -17.5, y: 56}
+        - {x: -21.5, y: 56}
+        - {x: -22.5, y: 55}
+      - - {x: 20.5, y: 54}
+        - {x: 20.5, y: 56}
+        - {x: 15.5, y: 56}
+        - {x: 17.5, y: 53}
+    - name: CrystalDragon_157
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 33
+        width: 111
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53.5, y: -29}
+        - {x: 55.5, y: -28}
+        - {x: 55.5, y: -7}
+        - {x: 49.5, y: -4}
+        - {x: 46.5, y: -5}
+        - {x: 50.5, y: -3}
+        - {x: 51.5, y: 0}
+        - {x: 48.5, y: 13}
+        - {x: 32.5, y: 23}
+        - {x: 27.5, y: 26}
+        - {x: -8.5, y: 26}
+        - {x: -10.5, y: 17}
+        - {x: -12.5, y: 12}
+        - {x: -10.5, y: 20}
+        - {x: -41.5, y: 23}
+        - {x: -51.5, y: 5}
+        - {x: -51.5, y: -42}
+        - {x: -44.5, y: -54}
+        - {x: 35.5, y: -54}
+        - {x: 55.5, y: -46}
+        - {x: 55.5, y: -29}
+      - - {x: -53.5, y: -44}
+        - {x: -50.5, y: -43}
+        - {x: -50.5, y: -40}
+        - {x: -53.5, y: -39}
+        - {x: -55.5, y: -41}
+      - - {x: -53.5, y: -27}
+        - {x: -55.5, y: -29}
+        - {x: -55.5, y: -35}
+        - {x: -51.5, y: -37}
+        - {x: -48.5, y: -36}
+        - {x: -48.5, y: -31}
+        - {x: -51.5, y: -27}
+      - - {x: -52.5, y: -6}
+        - {x: -54.5, y: -9}
+        - {x: -54.5, y: -13}
+        - {x: -52.5, y: -15}
+        - {x: -49.5, y: -13}
+        - {x: -47.5, y: -9}
+        - {x: -47.5, y: -7}
+        - {x: -49.5, y: -6}
+      - - {x: -33.5, y: 17}
+        - {x: -30.5, y: 12}
+        - {x: -27.5, y: 14}
+        - {x: -28.5, y: 18}
+        - {x: -30.5, y: 20}
+        - {x: -32.5, y: 20}
+      - - {x: 45.5, y: 15}
+        - {x: 46.5, y: 12}
+        - {x: 49.5, y: 12}
+        - {x: 51.5, y: 14}
+        - {x: 50.5, y: 17}
+        - {x: 47.5, y: 17}
+      - - {x: 10.5, y: 17}
+        - {x: 13.5, y: 18}
+        - {x: 13.5, y: 21}
+        - {x: 10.5, y: 22}
+        - {x: 8.5, y: 20}
+      - - {x: 34.5, y: 20}
+        - {x: 36.5, y: 18}
+        - {x: 39.5, y: 19}
+        - {x: 40.5, y: 23}
+        - {x: 38.5, y: 25}
+        - {x: 35.5, y: 24}
+      - - {x: 50.5, y: 20}
+        - {x: 53.5, y: 21}
+        - {x: 53.5, y: 24}
+        - {x: 50.5, y: 25}
+        - {x: 48.5, y: 23}
+      - - {x: -28.5, y: 21}
+        - {x: -25.5, y: 22}
+        - {x: -25.5, y: 25}
+        - {x: -28.5, y: 26}
+        - {x: -30.5, y: 24}
+      - - {x: 13.5, y: 24}
+        - {x: 16.5, y: 25}
+        - {x: 16.5, y: 28}
+        - {x: 13.5, y: 29}
+        - {x: 11.5, y: 27}
+      - - {x: 42.5, y: 28}
+        - {x: 45.5, y: 25}
+        - {x: 48.5, y: 26}
+        - {x: 48.5, y: 28}
+        - {x: 45.5, y: 31}
+        - {x: 43.5, y: 31}
+      - - {x: -18.5, y: 34}
+        - {x: -19.5, y: 32}
+        - {x: -19.5, y: 29}
+        - {x: -16.5, y: 27}
+        - {x: -12.5, y: 27}
+        - {x: -10.5, y: 28}
+        - {x: -10.5, y: 32}
+        - {x: -13.5, y: 34}
+      - - {x: 21.5, y: 34}
+        - {x: 21.5, y: 33}
+        - {x: 25.5, y: 29}
+        - {x: 28.5, y: 31}
+        - {x: 27.5, y: 35}
+        - {x: 25.5, y: 37}
+        - {x: 24.5, y: 37}
+      - - {x: -40.5, y: 32}
+        - {x: -37.5, y: 33}
+        - {x: -37.5, y: 36}
+        - {x: -40.5, y: 37}
+        - {x: -42.5, y: 35}
+      - - {x: 2.5, y: 34}
+        - {x: 5.5, y: 35}
+        - {x: 5.5, y: 38}
+        - {x: 2.5, y: 39}
+        - {x: 0.5, y: 37}
+      - - {x: -34.5, y: 42}
+        - {x: -31.5, y: 43}
+        - {x: -31.5, y: 46}
+        - {x: -34.5, y: 47}
+        - {x: -36.5, y: 45}
+      - - {x: -28.5, y: 42}
+        - {x: -25.5, y: 43}
+        - {x: -25.5, y: 46}
+        - {x: -28.5, y: 47}
+        - {x: -30.5, y: 45}
+      - - {x: 3.5, y: 43}
+        - {x: 6.5, y: 44}
+        - {x: 6.5, y: 47}
+        - {x: 3.5, y: 48}
+        - {x: 1.5, y: 46}
+      - - {x: 16.5, y: 45}
+        - {x: 19.5, y: 46}
+        - {x: 19.5, y: 49}
+        - {x: 16.5, y: 50}
+        - {x: 14.5, y: 48}
+      - - {x: 8.5, y: 46}
+        - {x: 11.5, y: 47}
+        - {x: 11.5, y: 50}
+        - {x: 8.5, y: 51}
+        - {x: 6.5, y: 49}
+      - - {x: -30.5, y: 47}
+        - {x: -27.5, y: 48}
+        - {x: -27.5, y: 51}
+        - {x: -30.5, y: 52}
+        - {x: -32.5, y: 50}
+      - - {x: -14.5, y: 52}
+        - {x: -14.5, y: 54}
+        - {x: -19.5, y: 54}
+        - {x: -17.5, y: 51}
+    - name: CrystalDragon_158
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 30
+        width: 102
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 17}
+        - {x: -51, y: 13}
+        - {x: -51, y: -41}
+        - {x: 51, y: -41}
+        - {x: 51, y: 10}
+        - {x: 49, y: 17}
+      - - {x: -48, y: -31}
+        - {x: -48, y: -28}
+        - {x: -51, y: -27}
+        - {x: -51, y: -32}
+      - - {x: -48, y: -19}
+        - {x: -48, y: -16}
+        - {x: -51, y: -15}
+        - {x: -51, y: -20}
+      - - {x: 48, y: -14}
+        - {x: 50, y: -16}
+        - {x: 51, y: -16}
+        - {x: 51, y: -11}
+        - {x: 49, y: -11}
+      - - {x: 45, y: -15}
+        - {x: 48, y: -14}
+        - {x: 48, y: -11}
+        - {x: 45, y: -10}
+        - {x: 43, y: -12}
+      - - {x: 43, y: 3}
+        - {x: 46, y: 4}
+        - {x: 46, y: 7}
+        - {x: 43, y: 8}
+        - {x: 41, y: 6}
+      - - {x: -40, y: 4}
+        - {x: -37, y: 5}
+        - {x: -37, y: 8}
+        - {x: -40, y: 9}
+        - {x: -42, y: 7}
+      - - {x: -45, y: 7}
+        - {x: -42, y: 8}
+        - {x: -42, y: 11}
+        - {x: -45, y: 12}
+        - {x: -47, y: 10}
+      - - {x: -27, y: 11}
+        - {x: -24, y: 8}
+        - {x: -21, y: 9}
+        - {x: -21, y: 11}
+        - {x: -24, y: 14}
+        - {x: -26, y: 14}
+      - - {x: 27, y: 12}
+        - {x: 30, y: 13}
+        - {x: 30, y: 16}
+        - {x: 27, y: 17}
+        - {x: 25, y: 15}
+      - - {x: 48, y: 14}
+        - {x: 50, y: 12}
+        - {x: 51, y: 12}
+        - {x: 51, y: 17}
+        - {x: 49, y: 17}
+      - - {x: -33, y: 14}
+        - {x: -30, y: 15}
+        - {x: -30, y: 18}
+        - {x: -33, y: 19}
+        - {x: -35, y: 17}
+      - - {x: 44, y: 17}
+        - {x: 47, y: 18}
+        - {x: 47, y: 21}
+        - {x: 44, y: 22}
+        - {x: 42, y: 20}
+      - - {x: -6, y: 18}
+        - {x: -3, y: 19}
+        - {x: -3, y: 22}
+        - {x: -6, y: 23}
+        - {x: -8, y: 21}
+      - - {x: 9, y: 20}
+        - {x: 12, y: 21}
+        - {x: 12, y: 24}
+        - {x: 9, y: 25}
+        - {x: 7, y: 23}
+      - - {x: 48, y: 23}
+        - {x: 50, y: 21}
+        - {x: 51, y: 21}
+        - {x: 51, y: 26}
+        - {x: 49, y: 26}
+      - - {x: 26, y: 22}
+        - {x: 29, y: 23}
+        - {x: 29, y: 26}
+        - {x: 26, y: 27}
+        - {x: 24, y: 25}
+      - - {x: -32, y: 23}
+        - {x: -29, y: 24}
+        - {x: -29, y: 27}
+        - {x: -32, y: 28}
+        - {x: -34, y: 26}
+      - - {x: 12, y: 24}
+        - {x: 15, y: 25}
+        - {x: 15, y: 28}
+        - {x: 12, y: 29}
+        - {x: 10, y: 27}
+      - - {x: -15, y: 28}
+        - {x: -14, y: 25}
+        - {x: -11, y: 25}
+        - {x: -9, y: 27}
+        - {x: -10, y: 30}
+        - {x: -13, y: 30}
+      - - {x: 26, y: 33}
+        - {x: 25, y: 31}
+        - {x: 26, y: 28}
+        - {x: 30, y: 28}
+        - {x: 33, y: 29}
+        - {x: 33, y: 32}
+        - {x: 31, y: 33}
+      - - {x: -24, y: 33}
+        - {x: -21, y: 34}
+        - {x: -21, y: 37}
+        - {x: -24, y: 38}
+        - {x: -26, y: 36}
+      - - {x: -16, y: 39}
+        - {x: -16, y: 41}
+        - {x: -21, y: 41}
+        - {x: -19, y: 38}
+      - - {x: 6, y: 39}
+        - {x: 6, y: 41}
+        - {x: 1, y: 41}
+        - {x: 3, y: 38}
+    - name: CrystalDragon_159
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 31
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 17.5}
+        - {x: -35, y: 16.5}
+        - {x: -43, y: 6.5}
+        - {x: -43, y: -17.5}
+        - {x: 43, y: -17.5}
+        - {x: 43, y: 10.5}
+        - {x: 35, y: 17.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
